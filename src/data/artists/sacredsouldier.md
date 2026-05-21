@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'IMG_3742.jpeg'
 ---
 
 Sacredsouldier is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | GRAND ARTIQUE | 1:15 AM - 2:30 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- IMG_3742.jpeg
+**Set Time:** 1:15 AM - 2:30 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

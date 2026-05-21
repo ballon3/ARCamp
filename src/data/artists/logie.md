@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'F1781D76-338C-4562-AFA8-2B110EDECE08_1_105_c.jpeg'
 ---
 
 Logie is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | GRAND ARTIQUE | 9:00 PM - 10:15 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- F1781D76-338C-4562-AFA8-2B110EDECE08_1_105_c.jpeg
+**Set Time:** 9:00 PM - 10:15 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

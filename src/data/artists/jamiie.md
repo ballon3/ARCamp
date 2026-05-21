@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Screenshot 2026-05-12 at 13.51.28.png'
 ---
 
 JAMIIE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | WOOGIE | 3:50 PM - 5:50 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Screenshot 2026-05-12 at 13.51.28.png
+**Set Time:** 3:50 PM - 5:50 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 3:00pm
+
+**Greenroom End:** 5/24/2026 7:30pm

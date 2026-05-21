@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'profile pic april 2026.jpg'
 ---
 
 BIANCA MAIELI is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 3:25 PM - 4:40 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- profile pic april 2026.jpg
+**Set Time:** 3:25 PM - 4:40 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 2:00pm
+
+**Greenroom End:** 5/23/2026 7:00pm

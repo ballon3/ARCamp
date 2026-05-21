@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'FLAVAD_2JUNE2025_@SAMCORPHOTOS-14.jpg'
 ---
 
 FLAVA D is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | THUNDER | 7:20 PM - 8:35 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- FLAVAD_2JUNE2025_@SAMCORPHOTOS-14.jpg
+**Set Time:** 7:20 PM - 8:35 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 6:00pm
+
+**Greenroom End:** 5/22/2026 10:30pm

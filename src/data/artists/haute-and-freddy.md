@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'H&Fpress.jpg'
 ---
 
 HAUTE & FREDDY is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | LIGHTNING | 7:45 PM - 8:45 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- H&Fpress.jpg
+**Set Time:** 7:45 PM - 8:45 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/24/2026 5:00 PM - 5:30 PM
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 3:30pm
+
+**Greenroom End:** 5/24/2026 11:00pm

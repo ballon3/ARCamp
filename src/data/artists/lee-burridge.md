@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'lee burridge.jpeg'
 ---
 
 LEE BURRIDGE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | WOOGIE | 5:30 PM - 8:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- lee burridge.jpeg
+**Set Time:** 5:30 PM - 8:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 2:30pm
+
+**Greenroom End:** 5/22/2026 10:00pm

@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'col3.jpg'
 ---
 
 NIA ARCHIVES is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | LIGHTNING | 9:30 PM - 10:30 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- col3.jpg
+**Set Time:** 9:30 PM - 10:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/23/2026 12:00 PM - 2:30 PM
+
+**Confirmed Greenrooms:** 3.0
+
+**Greenroom Start:** 5/22/2026 12:30pm, 5/22/2026 12:30pm, 5/22/2026 12:30pm
+
+**Greenroom End:** 5/23/2026 12:30am, 5/23/2026 12:30am, 5/23/2026 12:30am

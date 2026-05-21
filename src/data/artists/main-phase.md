@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'WhatsApp Image 2026-03-16 at 5.18.19 PM.jpg'
 ---
 
 MAIN PHASE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 6:00 PM - 7:15 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- WhatsApp Image 2026-03-16 at 5.18.19 PM.jpg
+**Set Time:** 6:00 PM - 7:15 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 4:00pm
+
+**Greenroom End:** 5/23/2026 9:30pm

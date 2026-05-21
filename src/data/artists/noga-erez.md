@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'photo credit_ Alice Rosati).jpg'
 ---
 
 NOGA EREZ is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | LIGHTNING | 9:15 PM - 10:15 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- photo credit_ Alice Rosati).jpg
+**Set Time:** 9:15 PM - 10:15 PM
+
+**Programming Time:** 5/22/2026 1:00 PM - 3:00 PM
+
+**Soundcheck Time:** 5/22/2026 1:00 PM - 3:00 PM
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 7:30pm
+
+**Greenroom End:** 5/23/2026 12:00am

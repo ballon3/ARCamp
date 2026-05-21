@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'MtheoryRobbie.JPEG'
 ---
 
 B3k is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | GRAND ARTIQUE | TBD - TBD
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- MtheoryRobbie.JPEG
+**Set Time:** TBD - TBD
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

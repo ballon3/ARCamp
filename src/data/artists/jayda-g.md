@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - '1052) - Joe Magowan.jpg'
 ---
 
 JAYDA G is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | WOOGIE | 8:00 PM - 10:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- 1052) - Joe Magowan.jpg
+**Set Time:** 8:00 PM - 10:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 7:00pm
+
+**Greenroom End:** 5/24/2026 11:30pm

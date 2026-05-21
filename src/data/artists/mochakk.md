@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Pedro foto.png'
 ---
 
 MOCHAKK is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | LIGHTNING | 10:15 PM - 11:45 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Pedro foto.png
+**Set Time:** 10:15 PM - 11:45 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/24/2026 2:00 PM - 4:00 PM
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** 5/24/2026 12:00pm
+
+**Greenroom End:** 5/25/2026 2:00am

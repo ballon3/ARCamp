@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - '9cca9db2-301d-11ef-954e-0ecc81f4ee58.jpg'
 ---
 
 IVY LAB is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | THUNDER | 9:50 PM - 11:05 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- 9cca9db2-301d-11ef-954e-0ecc81f4ee58.jpg
+**Set Time:** 9:50 PM - 11:05 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 7:30pm
+
+**Greenroom End:** 5/23/2026 1:00am

@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'danni G.jpeg'
 ---
 
 Global Brunch with Danni G is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | GRAND ARTIQUE | 3:00 PM - 5:00 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- danni G.jpeg
+**Set Time:** 3:00 PM - 5:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

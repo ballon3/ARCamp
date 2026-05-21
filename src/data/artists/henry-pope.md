@@ -20,24 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Screenshot 2026-05-08 at 7.41.18 PM.png'
-  - 'Screenshot 2026-05-08 at 7.40.58 PM.png'
-  - 'Screenshot 2026-05-08 at 7.40.31 PM.png'
-  - 'WhatsApp Image 2026-05-08 at 19.39.28.jpeg'
-  - 'HP Hires-17.jpg'
 ---
 
 Henry Pope is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | GRAND ARTIQUE | 1:20 AM - 2:35 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Screenshot 2026-05-08 at 7.41.18 PM.png
-- Screenshot 2026-05-08 at 7.40.58 PM.png
-- Screenshot 2026-05-08 at 7.40.31 PM.png
-- WhatsApp Image 2026-05-08 at 19.39.28.jpeg
-- HP Hires-17.jpg
+**Set Time:** 1:20 AM - 2:35 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

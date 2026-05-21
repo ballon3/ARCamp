@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - '030.jpg'
 ---
 
 Ksenyeah (b2b Manguito) is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | WOOGIE | 1:30 PM - 3:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- 030.jpg
+**Set Time:** 1:30 PM - 3:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/21/2026 12:00pm
+
+**Greenroom End:** 5/21/2026 5:00pm

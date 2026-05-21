@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'LEAD SHOTTPro-Capture One_DSP Profile Pic7400953.jpg'
 ---
 
 DJ HEARTSTRING is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | WOOGIE | 8:00 PM - 10:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- LEAD SHOTTPro-Capture One_DSP Profile Pic7400953.jpg
+**Set Time:** 8:00 PM - 10:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 6:00pm
+
+**Greenroom End:** 5/22/2026 11:30pm

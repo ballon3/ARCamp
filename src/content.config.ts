@@ -11,6 +11,22 @@ const artists = defineCollection({
       src: z.string(),
       alt: z.string(),
     }),
+    performances: z.array(
+      z.object({
+        stage: z.string(),
+        day: z.string(),
+        programming_time: z.string(),
+        soundcheck_time: z.string(),
+        set_start: z.string(),
+        set_end: z.string(),
+        confirmed_greenrooms: z.string(),
+        green_room_sched: z.string(),
+        greenroom_start: z.string(),
+        greenroom_end: z.string(),
+      }),
+    ).default([]),
+    stages: z.array(z.string()).default([]),
+    show_days: z.array(z.string()).default([]),
   }),
 });
  

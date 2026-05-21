@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "images:artists": "node scripts/download_optimize_artist_images.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
@@ -16,7 +17,8 @@
     "astro-seo": "^0.8.4",
     "gsap": "^3.12.5",
     "imagesloaded": "^5.0.0",
-    "lenis": "^1.1.17"
+    "lenis": "^1.1.17",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@types/imagesloaded": "^4.1.6",

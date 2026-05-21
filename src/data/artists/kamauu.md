@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - '2O6A2345.jpg'
 ---
 
 KAMAUU is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | LIGHTNING | 6:15 pm - 7:15 pm
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- 2O6A2345.jpg
+**Set Time:** 6:15 pm - 7:15 pm
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/22/2026 5:00 PM - 5:45 PM
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 4:30pm
+
+**Greenroom End:** 5/22/2026 9:30pm

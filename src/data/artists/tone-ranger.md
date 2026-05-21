@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Tone Ranger Photo.jpg'
 ---
 
 Tone Ranger is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | GRAND ARTIQUE | 8:00 PM - 9:15 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Tone Ranger Photo.jpg
+**Set Time:** 8:00 PM - 9:15 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

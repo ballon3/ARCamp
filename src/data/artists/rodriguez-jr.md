@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Rodriguez Jr. - 198.jpg'
 ---
 
 RODRIGUEZ JR. is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | WOOGIE | 5:55 PM - 7:55 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Rodriguez Jr. - 198.jpg
+**Set Time:** 5:55 PM - 7:55 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 5:00pm
+
+**Greenroom End:** 5/24/2026 9:30pm

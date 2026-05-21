@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Screenshot 2026-04-02 at 3.21.50â¯PM.png'
 ---
 
 INTROSPEKT is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 7:20 PM - 8:35 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Screenshot 2026-04-02 at 3.21.50â¯PM.png
+**Set Time:** 7:20 PM - 8:35 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 5:30pm
+
+**Greenroom End:** 5/24/2026 10:30pm

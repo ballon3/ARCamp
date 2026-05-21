@@ -20,20 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - 'IMG_0900.jpeg'
-  - 'IMG_2083.jpeg'
-  - 'IMG_6368.jpeg'
 ---
 
 Loud Flower is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | GRAND ARTIQUE | 5:15 PM - 6:30 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- IMG_0900.jpeg
-- IMG_2083.jpeg
-- IMG_6368.jpeg
+**Set Time:** 5:15 PM - 6:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

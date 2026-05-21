@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'INZO mirrorverse tour press final v2 web size 09.25.2025 - 052213.jpg'
 ---
 
 INZO is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 11:15 PM - 12:30 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- INZO mirrorverse tour press final v2 web size 09.25.2025 - 052213.jpg
+**Set Time:** 11:15 PM - 12:30 AM
+
+**Programming Time:** 4:00 AM - 5:00 AM
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 8:00pm
+
+**Greenroom End:** 5/24/2026 2:30am

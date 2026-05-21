@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'C&S Press.png'
 ---
 
 CHASE & STATUS is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | LIGHTNING | 12:30 AM - 2:00 AM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- C&S Press.png
+**Set Time:** 12:30 AM - 2:00 AM
+
+**Programming Time:** 5/23/2026 2:15 AM - 4:15 AM
+
+**Soundcheck Time:** 9:00 AM - 11:00 AM
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 8:00am
+
+**Greenroom End:** 5/23/2026 3:00am

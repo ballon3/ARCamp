@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'Overmono 2026 Press Shot.jpg'
 ---
 
 OVERMONO is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | LIGHTNING | 10:30 pm - 11:30 pm
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- Overmono 2026 Press Shot.jpg
+**Set Time:** 10:30 pm - 11:30 pm
+
+**Programming Time:** 5/22/2026 3:00 AM - 7:00 AM
+
+**Soundcheck Time:** 5/22/2026 12:00 PM - 12:45 PM
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/22/2026 10:00am, 5/22/2026 10:00am
+
+**Greenroom End:** 5/23/2026 1:00am, 5/23/2026 1:00am

@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'DSC_0638 3.jpg'
 ---
 
 BASS TEMPLE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | THUNDER | 1:05 PM - 2:20 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- DSC_0638 3.jpg
+**Set Time:** 1:05 PM - 2:20 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 11:30am
+
+**Greenroom End:** 5/22/2026 4:30pm

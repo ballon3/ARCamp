@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'epk.JPG'
 ---
 
 COCOA CRESCENDO is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 1:00 PM - 2:10 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- epk.JPG
+**Set Time:** 1:00 PM - 2:10 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 11:30am
+
+**Greenroom End:** 5/23/2026 4:30pm

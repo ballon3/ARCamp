@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - '_SX29867.JPG'
 ---
 
 King Bubble is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | GRAND ARTIQUE | 8:45 PM - 10:00 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- _SX29867.JPG
+**Set Time:** 8:45 PM - 10:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

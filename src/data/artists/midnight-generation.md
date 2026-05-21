@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - '2 2.jpg'
 ---
 
 MIDNIGHT GENERATION is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | LIGHTNING | 7:45 PM - 9:00 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- 2 2.jpg
+**Set Time:** 7:45 PM - 9:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/22/2026 3:00 PM - 5:00 PM
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 5:00pm
+
+**Greenroom End:** 5/22/2026 11:00pm

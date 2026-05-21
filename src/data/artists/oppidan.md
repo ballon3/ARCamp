@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'oppidan.webp'
 ---
 
 OPPIDAN is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 8:45 PM - 10:00 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- oppidan.webp
+**Set Time:** 8:45 PM - 10:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 6:30pm
+
+**Greenroom End:** 5/24/2026 12:00am

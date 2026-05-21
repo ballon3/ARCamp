@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'IMG_8482.jpeg'
 ---
 
 Devyn Brinsfield is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | GRAND ARTIQUE | 3:15 PM - 4:30 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- IMG_8482.jpeg
+**Set Time:** 3:15 PM - 4:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

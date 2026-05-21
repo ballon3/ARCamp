@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Plexusplay Headshot Mallets.jpg'
 ---
 
 Plexus Play is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | GRAND ARTIQUE | 10:30 PM - 11:45 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Plexusplay Headshot Mallets.jpg
+**Set Time:** 10:30 PM - 11:45 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

@@ -20,20 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Marsh-2025-DM-9904 Ben.jpg'
-  - 'Marsh-2025-0857 Ben.jpg'
-  - 'Marsh-2025-9068 Ben Crop 2.jpg'
 ---
 
 MARSH is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | WOOGIE | 6:00 PM - 8:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Marsh-2025-DM-9904 Ben.jpg
-- Marsh-2025-0857 Ben.jpg
-- Marsh-2025-9068 Ben Crop 2.jpg
+**Set Time:** 6:00 PM - 8:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 4:00pm
+
+**Greenroom End:** 5/23/2026 10:00pm

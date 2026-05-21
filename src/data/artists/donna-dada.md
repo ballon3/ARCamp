@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'donna dada - cred skye olesen cormack.jpg'
 ---
 
 DONNA DADA is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | THUNDER | 3:35 PM - 4:50 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- donna dada - cred skye olesen cormack.jpg
+**Set Time:** 3:35 PM - 4:50 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 1:00pm
+
+**Greenroom End:** 5/22/2026 6:00pm

@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Kaipora Photo.jpeg'
 ---
 
 Kaipora is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | GRAND ARTIQUE | 10:45 PM - 12:00 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Kaipora Photo.jpeg
+**Set Time:** 10:45 PM - 12:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

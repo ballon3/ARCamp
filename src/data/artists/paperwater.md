@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'IMG_7719.jpeg'
 ---
 
 Paperwater is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | GRAND ARTIQUE | 2:30 AM - 4:00 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- IMG_7719.jpeg
+**Set Time:** 2:30 AM - 4:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'LIB-5433.jpg'
 ---
 
 Maria Tambien is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | GRAND ARTIQUE | 1:20 AM - 2:35 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- LIB-5433.jpg
+**Set Time:** 1:20 AM - 2:35 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

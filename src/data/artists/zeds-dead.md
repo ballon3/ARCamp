@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'ZEDSDEAD_12.jpg'
 ---
 
 ZEDS DEAD is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | THUNDER | 11:20 PM - 12:35 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- ZEDSDEAD_12.jpg
+**Set Time:** 11:20 PM - 12:35 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 11:30 AM - 12:15 PM
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/22/2026 2:00pm, 5/22/2026 2:00pm
+
+**Greenroom End:** 5/23/2026 2:30am, 5/23/2026 2:30am

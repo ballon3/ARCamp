@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Daily Bread Press Photo.jpg'
 ---
 
 DAILY BREAD is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 12:45 AM - 2:00 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Daily Bread Press Photo.jpg
+**Set Time:** 12:45 AM - 2:00 AM
+
+**Programming Time:** 2:00 AM - 3:00 AM
+
+**Soundcheck Time:** 11:00 AM - 11:45 AM
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 3:00pm
+
+**Greenroom End:** 5/24/2026 3:00am

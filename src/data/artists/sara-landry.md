@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'Simonsplayyground-082.jpg'
 ---
 
 SARA LANDRY is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | WOOGIE | 12:00 AM - 2:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- Simonsplayyground-082.jpg
+**Set Time:** 12:00 AM - 2:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/22/2026 6:00pm, 5/22/2026 6:00pm
+
+**Greenroom End:** 5/23/2026 3:00am, 5/23/2026 3:00am

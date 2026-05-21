@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Screenshot 2026-04-21 at 1.50.44â¯PM.png'
 ---
 
 AYYBO is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | WOOGIE | 10:00 PM - 12:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Screenshot 2026-04-21 at 1.50.44â¯PM.png
+**Set Time:** 10:00 PM - 12:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 8:30pm
+
+**Greenroom End:** 5/24/2026 2:00am

@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Merch Shoot 4.jpg'
 ---
 
 CARTRIDGE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 4:50 PM - 6:05PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Merch Shoot 4.jpg
+**Set Time:** 4:50 PM - 6:05PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 3:00pm
+
+**Greenroom End:** 5/24/2026 8:00pm

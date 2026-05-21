@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - '2320.webp'
 ---
 
 TINASHE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | LIGHTNING | 9:00 PM - 10:00 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- 2320.webp
+**Set Time:** 9:00 PM - 10:00 PM
+
+**Programming Time:** 5/24/2026 4:30 AM - 6:30 PM
+
+**Soundcheck Time:** 5/24/2026 4:00 PM - 5:00 PM
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/24/2026 10:00am, 5/24/2026 10:00am
+
+**Greenroom End:** 5/25/2026 12:00am, 5/25/2026 12:00am

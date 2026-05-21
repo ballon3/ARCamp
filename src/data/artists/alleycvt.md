@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'ALLEYCVT - 9 LIVES PRESS - 1.jpg'
 ---
 
 ALLEYCVT is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | THUNDER | 12:45 AM - 2:00 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- ALLEYCVT - 9 LIVES PRESS - 1.jpg
+**Set Time:** 12:45 AM - 2:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 8:00pm
+
+**Greenroom End:** 5/23/2026 3:00am

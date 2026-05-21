@@ -20,18 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'B3k.jpeg'
-  - 'Screenshot 2026-05-21 at 2.15.58 AM.png'
 ---
 
 Spencer Ray, Stoley, Mac Hill is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | GRAND ARTIQUE | TBD - TBD
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- B3k.jpeg
-- Screenshot 2026-05-21 at 2.15.58 AM.png
+**Set Time:** TBD - TBD
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

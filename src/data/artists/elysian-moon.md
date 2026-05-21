@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - '01_EM _flower meadow.png'
 ---
 
 Elysian Moon is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | GRAND ARTIQUE | 9:00 PM - 10:15 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- 01_EM _flower meadow.png
+**Set Time:** 9:00 PM - 10:15 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

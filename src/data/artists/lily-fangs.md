@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'Lf X J Lib 1.JPG'
 ---
 
 Lily Fangs is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | GRAND ARTIQUE | 3:15 PM - 4:30 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- Lf X J Lib 1.JPG
+**Set Time:** 3:15 PM - 4:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

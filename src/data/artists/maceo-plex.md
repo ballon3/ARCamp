@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - '2021_MACEO PLEX_Press 01_golden.jpg'
 ---
 
 MACEO PLEX is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | WOOGIE | 12:00 AM - 2:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- 2021_MACEO PLEX_Press 01_golden.jpg
+**Set Time:** 12:00 AM - 2:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 6:00pm
+
+**Greenroom End:** 5/24/2026 3:00am

@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'dimension_headshot.jpg'
 ---
 
 DIMENSION is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 12:45 AM - 2:00 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- dimension_headshot.jpg
+**Set Time:** 12:45 AM - 2:00 AM
+
+**Programming Time:** 2:00 AM - 4:00 AM
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 10:00pm
+
+**Greenroom End:** 5/25/2026 3:00am

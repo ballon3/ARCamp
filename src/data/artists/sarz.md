@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'IMG_9040.jpg'
 ---
 
 SARZ is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | WOOGIE | 4:00 PM - 5:30 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- IMG_9040.jpg
+**Set Time:** 4:00 PM - 5:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 2:00pm
+
+**Greenroom End:** 5/22/2026 7:30pm

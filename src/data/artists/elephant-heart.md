@@ -31,19 +31,40 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'EH Press Photo Option-2.png'
-  - 'elephant-heart.jpg'
 ---
 
 ELEPHANT HEART is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 7:25 PM - 8:40 PM
-- SATURDAY MAY 23RD | GRAND ARTIQUE | 2:45 AM - 4:00 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- EH Press Photo Option-2.png
-- elephant-heart.jpg
+**Set Time:** 7:25 PM - 8:40 PM
+
+**Programming Time:** 5:00 AM - 6:00 AM
+
+**Soundcheck Time:** 10:00 AM - 10:45 AM
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/23/2026 5:00pm, 5/23/2026 5:00pm
+
+**Greenroom End:** 5/23/2026 11:00pm, 5/23/2026 11:00pm
+
+**Stage:** GRAND ARTIQUE
+
+**Day of Show:** SATURDAY MAY 23RD
+
+**Set Time:** 2:45 AM - 4:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

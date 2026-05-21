@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - '21557937_10154906686756680_7177010179819832863_n.jpg'
 ---
 
 JESSE BREDE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 2:20 PM - 3:35 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- 21557937_10154906686756680_7177010179819832863_n.jpg
+**Set Time:** 2:20 PM - 3:35 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** 5/24/2026 12:00pm
+
+**Greenroom End:** 5/24/2026 5:30pm

@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'DAAN-DAM-MADAMX-8.jpg'
 ---
 
 MADAM X is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 10:00 PM - 11:15 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- DAAN-DAM-MADAMX-8.jpg
+**Set Time:** 10:00 PM - 11:15 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 8:00pm
+
+**Greenroom End:** 5/24/2026 1:00am

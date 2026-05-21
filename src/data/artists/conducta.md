@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'avatars-zz2bXT04Xc2aEl03-IV4rfQ-t1080x1080.jpg'
 ---
 
 CONDUCTA is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 8:35 PM - 9:50 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- avatars-zz2bXT04Xc2aEl03-IV4rfQ-t1080x1080.jpg
+**Set Time:** 8:35 PM - 9:50 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 6:30pm
+
+**Greenroom End:** 5/25/2026 12:00am

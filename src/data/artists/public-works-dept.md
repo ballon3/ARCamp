@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'FullSizeRender.jpeg'
 ---
 
 Public Works Dept is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | GRAND ARTIQUE | 1:30 PM - 2:45 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- FullSizeRender.jpeg
+**Set Time:** 1:30 PM - 2:45 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

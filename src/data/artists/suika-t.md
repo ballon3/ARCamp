@@ -20,24 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - '_DSC0508-1.jpg'
-  - 'Suika Bandmates .jpg'
-  - 'LV.jpg'
-  - 'Screenshot_20260406_030050_Instagram.jpg'
-  - '1).jpg'
 ---
 
 Suika T is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | GRAND ARTIQUE | 7:15 PM - 8:30 PM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- _DSC0508-1.jpg
-- Suika Bandmates .jpg
-- LV.jpg
-- Screenshot_20260406_030050_Instagram.jpg
-- 1).jpg
+**Set Time:** 7:15 PM - 8:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

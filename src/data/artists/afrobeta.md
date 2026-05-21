@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - '©Duque_Mendoza_DSC04807.png'
 ---
 
 Afrobeta is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | GRAND ARTIQUE | 10:45 PM - 12:00 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- ©Duque_Mendoza_DSC04807.png
+**Set Time:** 10:45 PM - 12:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

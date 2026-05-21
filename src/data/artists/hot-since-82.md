@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - 'hot since 82.jpg'
 ---
 
 HOT SINCE 82 is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | WOOGIE | 10:00 PM - 12:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- hot since 82.jpg
+**Set Time:** 10:00 PM - 12:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/21/2026 7:00pm
+
+**Greenroom End:** 5/22/2026 1:00am

@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - '2).pdf'
 ---
 
 MAU P is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | LIGHTNING | 12:00 AM - 2:00 AM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- 2).pdf
+**Set Time:** 12:00 AM - 2:00 AM
+
+**Programming Time:** 5/22/2026 1:00 AM - 3:00 AM
+
+**Soundcheck Time:** 5/22/2026 9:00 AM - 11:00 AM
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/22/2026 8:00am, 5/22/2026 8:00am
+
+**Greenroom End:** 5/23/2026 3:00am, 5/23/2026 3:00am

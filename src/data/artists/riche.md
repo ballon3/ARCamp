@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - '294A0346.jpg'
 ---
 
 RICHE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | WOOGIE | 12:00 PM, 2:30 AM - 2:00 PM, 4:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- 294A0346.jpg
+**Set Time:** 12:00 PM, 2:30 AM - 2:00 PM, 4:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 11:00am
+
+**Greenroom End:** 5/23/2026 4:00pm

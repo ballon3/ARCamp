@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Clearcast Press Photo 1 @guarionex_jr.jpg'
 ---
 
 CLEARCAST is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | THUNDER | 2:10 PM - 3:25 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Clearcast Press Photo 1 @guarionex_jr.jpg
+**Set Time:** 2:10 PM - 3:25 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 12:30pm
+
+**Greenroom End:** 5/23/2026 6:00pm

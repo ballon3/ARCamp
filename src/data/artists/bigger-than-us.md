@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'btu_cadet_press.png'
 ---
 
 BIGGER THAN US is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | LIGHTNING | 6:15 PM - 7:30 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- btu_cadet_press.png
+**Set Time:** 6:15 PM - 7:30 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/24/2026 5:30 PM - 6:00 PM
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/24/2026 4:00pm, 5/24/2026 4:00pm
+
+**Greenroom End:** 5/24/2026 9:30pm, 5/24/2026 9:30pm

@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Emperor Blue_ATG26_FINAL.jpg'
 ---
 
 EMPIRE OF THE SUN is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | LIGHTNING | 12:30 am - 2:00 am
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Emperor Blue_ATG26_FINAL.jpg
+**Set Time:** 12:30 am - 2:00 am
+
+**Programming Time:** 5/24/2026 2:30 AM - 4:30 AM
+
+**Soundcheck Time:** 5/24/2026 12:00 PM - 1:00 PM (linecheck)
+
+**Confirmed Greenrooms:** 6.0
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am

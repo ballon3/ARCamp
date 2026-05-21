@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Screenshot 2026-04-25 at 1.35.09â¯PM.png'
 ---
 
 OF THE TREES is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 11:20 PM - 12:35 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Screenshot 2026-04-25 at 1.35.09â¯PM.png
+**Set Time:** 11:20 PM - 12:35 AM
+
+**Programming Time:** 12:00 PM - 1:45 PM
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/24/2026 9:00pm, 5/24/2026 7:00pm
+
+**Greenroom End:** 5/25/2026 2:30am, 5/25/2026 2:30am

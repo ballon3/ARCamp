@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'JWORRA_R2_DONS4381.jpg'
 ---
 
 J. WORRA is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | WOOGIE | 8:00 PM - 10:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- JWORRA_R2_DONS4381.jpg
+**Set Time:** 8:00 PM - 10:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/23/2026 6:30pm
+
+**Greenroom End:** 5/24/2026 12:00am

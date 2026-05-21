@@ -20,18 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - 'GiZ_2.jpg'
-  - '1).png'
 ---
 
 GIZ is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | WOOGIE | 3:00 PM, 2:30 AM - 5:00 PM, 4:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- GiZ_2.jpg
-- 1).png
+**Set Time:** 3:00 PM, 2:30 AM - 5:00 PM, 4:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/21/2026 12:30pm
+
+**Greenroom End:** 5/21/2026 10:00pm

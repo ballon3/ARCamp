@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - '1).jpg'
 ---
 
 SWEET LIKE CHOCOLATE is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | WOOGIE | 1:55 PM - 3:50 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- 1).jpg
+**Set Time:** 1:55 PM - 3:50 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 1:00pm
+
+**Greenroom End:** 5/24/2026 5:30pm

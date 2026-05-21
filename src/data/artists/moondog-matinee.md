@@ -20,16 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - 'IMG_8600.jpeg'
 ---
 
 Moondog Matinee is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | GRAND ARTIQUE | 12:45 AM - 2:00 AM
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- IMG_8600.jpeg
+**Set Time:** 12:45 AM - 2:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

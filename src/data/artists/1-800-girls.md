@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'Screenshot 2026-05-12 at 13.46.56.png'
 ---
 
 1-800 GIRLS is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 6:05 PM, 10:30 PM - 7:20 PM, 12:15 AM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- Screenshot 2026-05-12 at 13.46.56.png
+**Set Time:** 6:05 PM, 10:30 PM - 7:20 PM, 12:15 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 4:00pm
+
+**Greenroom End:** 5/24/2026 9:00pm

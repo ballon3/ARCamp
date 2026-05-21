@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'FRIDAY MAY 22ND'
-press_photo_files:
-  - 'Screenshot 2026-05-12 at 5.36.57â¯PM.png'
 ---
 
 EREZ is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- FRIDAY MAY 22ND | WOOGIE | 2:00 PM - 4:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** FRIDAY MAY 22ND
 
-- Screenshot 2026-05-12 at 5.36.57â¯PM.png
+**Set Time:** 2:00 PM - 4:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/22/2026 3:30pm
+
+**Greenroom End:** 5/22/2026 6:00pm

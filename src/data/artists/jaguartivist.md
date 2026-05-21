@@ -20,22 +20,24 @@ stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'TBD'
-press_photo_files:
-  - 'jaguartivist_LIB_2026Artboard 1-100.jpg'
-  - 'jaguartivist_LIB_2026Artboard 2-100.jpg'
-  - 'jaguartivist_LIB_2026Artboard 3-100.jpg'
-  - 'jaguartivist_LIB_2026Artboard 4-100.jpg'
 ---
 
 Jaguartivist is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- TBD | GRAND ARTIQUE | TBD - TBD
+**Stage:** GRAND ARTIQUE
 
-## Press Assets
+**Day of Show:** TBD
 
-- jaguartivist_LIB_2026Artboard 1-100.jpg
-- jaguartivist_LIB_2026Artboard 2-100.jpg
-- jaguartivist_LIB_2026Artboard 3-100.jpg
-- jaguartivist_LIB_2026Artboard 4-100.jpg
+**Set Time:** TBD - TBD
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** TBD
+
+**Greenroom End:** TBD

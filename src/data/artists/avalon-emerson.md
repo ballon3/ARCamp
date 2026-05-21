@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'AE.jpg'
 ---
 
 AVALON EMERSON is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | WOOGIE | 12:00 AM - 2:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- AE.jpg
+**Set Time:** 12:00 AM - 2:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 10:30pm
+
+**Greenroom End:** 5/25/2026 3:00am

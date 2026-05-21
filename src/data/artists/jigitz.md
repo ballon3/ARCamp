@@ -20,16 +20,24 @@ stages:
   - 'THUNDER'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'JIGITZ-kevin-buitrago-12.jpg'
 ---
 
 JIGITZ is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | THUNDER | 9:50 PM - 11:05 PM
+**Stage:** THUNDER
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- JIGITZ-kevin-buitrago-12.jpg
+**Set Time:** 9:50 PM - 11:05 PM
+
+**Programming Time:** 4:00 AM - 5:00 AM
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 2.0
+
+**Greenroom Start:** 5/24/2026 8:00pm, 5/24/2026 8:00pm
+
+**Greenroom End:** 5/25/2026 1:00am, 5/25/2026 1:00am

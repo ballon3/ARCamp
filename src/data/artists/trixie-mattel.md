@@ -20,16 +20,24 @@ stages:
   - 'LIGHTNING'
 show_days:
   - 'SATURDAY MAY 23RD'
-press_photo_files:
-  - 'Screenshot 2026-05-21 at 2.05.47 AM.png'
 ---
 
 TRIXIE MATTEL is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SATURDAY MAY 23RD | LIGHTNING | 8:15 PM - 9:15 PM
+**Stage:** LIGHTNING
 
-## Press Assets
+**Day of Show:** SATURDAY MAY 23RD
 
-- Screenshot 2026-05-21 at 2.05.47 AM.png
+**Set Time:** 8:15 PM - 9:15 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** 5/23/2026 2:30 PM - 3:30 PM
+
+**Confirmed Greenrooms:** TBD
+
+**Greenroom Start:** 5/22/2026 1:30pm, 5/22/2026 1:30pm, 5/22/2026 1:30pm
+
+**Greenroom End:** 5/22/2026 11:00pm, 5/22/2026 11:00pm, 5/22/2026 11:00pm

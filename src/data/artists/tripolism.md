@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'SUNDAY MAY 24TH'
-press_photo_files:
-  - 'TRIPOLISM PRESS PICTURES X JONAS DIESING 239.jpg'
 ---
 
 TRIPOLISM is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- SUNDAY MAY 24TH | WOOGIE | 10:00 PM - 12:00 AM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** SUNDAY MAY 24TH
 
-- TRIPOLISM PRESS PICTURES X JONAS DIESING 239.jpg
+**Set Time:** 10:00 PM - 12:00 AM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/24/2026 9:00pm
+
+**Greenroom End:** 5/25/2026 1:30am

@@ -20,16 +20,24 @@ stages:
   - 'WOOGIE'
 show_days:
   - 'THURSDAY MAY 21ST'
-press_photo_files:
-  - 'DH2025_0417_183025_01431-Eric-Scire.jpg'
 ---
 
 DESERT HEARTS is featured in the ARCamp artist facesheet.
 
-## Performance Schedule
+## Stage Details
 
-- THURSDAY MAY 21ST | WOOGIE | 5:00 PM - 8:00 PM
+**Stage:** WOOGIE
 
-## Press Assets
+**Day of Show:** THURSDAY MAY 21ST
 
-- DH2025_0417_183025_01431-Eric-Scire.jpg
+**Set Time:** 5:00 PM - 8:00 PM
+
+**Programming Time:** TBD
+
+**Soundcheck Time:** TBD
+
+**Confirmed Greenrooms:** 1.0
+
+**Greenroom Start:** 5/21/2026 2:00pm
+
+**Greenroom End:** 5/21/2026 10:00pm
