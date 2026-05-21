@@ -116,6 +116,30 @@ function resolveImageSrc(fileName, existingSrc) {
   return '/images/artists/facesheet/placeholder.svg';
 }
 
+function buildBiography(name, stageName, genre, stages) {
+  const cleanName = clean(name) || 'Artist';
+  const cleanStageName = clean(stageName) || cleanName;
+  const cleanGenre = clean(genre);
+  const primaryStage = clean(stages[0] || '');
+
+  const hasGenre = cleanGenre !== '' && cleanGenre.toLowerCase() !== 'festival artist';
+  const hasStage = primaryStage !== '' && primaryStage.toLowerCase() !== 'tbd';
+
+  if (hasGenre && hasStage) {
+    return `${cleanStageName} is a ${cleanGenre} artist bringing their sound to ${primaryStage} at Lightning in a Bottle 2026.`;
+  }
+
+  if (hasGenre) {
+    return `${cleanStageName} is a ${cleanGenre} artist performing at Lightning in a Bottle 2026.`;
+  }
+
+  if (hasStage) {
+    return `${cleanStageName} is performing on ${primaryStage} at Lightning in a Bottle 2026.`;
+  }
+
+  return `NA - ${cleanName} is an artist on the Lightning in a Bottle 2026 lineup.`;
+}
+
 const detailsByArtist = new Map();
 
 for (const row of rows.slice(1)) {
@@ -133,16 +157,16 @@ for (const row of rows.slice(1)) {
 
   const item = detailsByArtist.get(key);
   const performance = {
-    stage: clean(row[col.stage]) || 'TBD',
-    day: clean(row[col.day]) || 'TBD',
-    programming_time: clean(row[col.programming]) || 'TBD',
-    soundcheck_time: clean(row[col.soundcheck]) || 'TBD',
-    set_start: clean(row[col.start]) || 'TBD',
-    set_end: clean(row[col.end]) || 'TBD',
-    confirmed_greenrooms: clean(row[col.greenrooms]) || 'TBD',
-    green_room_sched: clean(row[col.greenRoomSched]) || 'TBD',
-    greenroom_start: clean(row[col.greenroomStart]) || 'TBD',
-    greenroom_end: clean(row[col.greenroomEnd]) || 'TBD',
+    stage: clean(row[col.stage]) || 'NA',
+    day: clean(row[col.day]) || 'NA',
+    programming_time: clean(row[col.programming]) || 'NA',
+    soundcheck_time: clean(row[col.soundcheck]) || 'NA',
+    set_start: clean(row[col.start]) || 'NA',
+    set_end: clean(row[col.end]) || 'NA',
+    confirmed_greenrooms: clean(row[col.greenrooms]) || 'NA',
+    green_room_sched: clean(row[col.greenRoomSched]) || 'NA',
+    greenroom_start: clean(row[col.greenroomStart]) || 'NA',
+    greenroom_end: clean(row[col.greenroomEnd]) || 'NA',
   };
 
   const perfKey = [
@@ -223,7 +247,14 @@ for (const file of artistFiles) {
 
   frontmatterLines.push('---');
   frontmatterLines.push('');
-  frontmatterLines.push(`${parsed.name} is featured in the ARCamp artist facesheet.`);
+  frontmatterLines.push(
+    buildBiography(
+      parsed.name,
+      parsed.stageName || parsed.name,
+      parsed.genre || 'Festival Artist',
+      details.stages,
+    ),
+  );
   frontmatterLines.push('');
   frontmatterLines.push('## Stage Details');
   frontmatterLines.push('');

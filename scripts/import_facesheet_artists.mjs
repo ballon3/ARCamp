@@ -142,10 +142,10 @@ for (const row of rows.slice(1)) {
 
   if (stage || day || setStart || setEnd) {
     const performance = {
-      stage: stage || 'TBD',
-      day: day || 'TBD',
-      set_start: setStart || 'TBD',
-      set_end: setEnd || 'TBD',
+      stage: stage || 'NA',
+      day: day || 'NA',
+      set_start: setStart || 'NA',
+      set_end: setEnd || 'NA',
     };
 
     const dedupeKey = `${performance.stage}|${performance.day}|${performance.set_start}|${performance.set_end}`;
@@ -186,10 +186,10 @@ for (const artist of artists.values()) {
   lines.push('performances:');
 
   if (artist.performances.length === 0) {
-    lines.push('  - stage: "TBD"');
-    lines.push('    day: "TBD"');
-    lines.push('    set_start: "TBD"');
-    lines.push('    set_end: "TBD"');
+    lines.push('  - stage: "NA"');
+    lines.push('    day: "NA"');
+    lines.push('    set_start: "NA"');
+    lines.push('    set_end: "NA"');
   } else {
     for (const perf of artist.performances) {
       lines.push(`  - stage: ${yamlStr(perf.stage)}`);
@@ -216,9 +216,9 @@ for (const artist of artists.values()) {
   lines.push('');
 
   if (artist.performances.length === 0) {
-    lines.push('- Stage: TBD');
-    lines.push('- Day: TBD');
-    lines.push('- Set time: TBD');
+    lines.push('- Stage: NA');
+    lines.push('- Day: NA');
+    lines.push('- Set time: NA');
   } else {
     for (const perf of artist.performances) {
       lines.push(`- ${perf.day} | ${perf.stage} | ${perf.set_start} - ${perf.set_end}`);

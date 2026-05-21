@@ -10,6 +10,7 @@ const stageValues =
   artist.data.stages.length > 0
     ? artist.data.stages
     : artist.data.performances.map((performance) => performance.stage);
+const primaryStage = stageValues.find((stage) => stage && stage !== "NA") || stageValues[0] || "NA";
 ---
 
 <a
@@ -32,9 +33,8 @@ const stageValues =
   />
 
   <div class="artist-banner" aria-hidden="true">
-    <p class="artist-banner__stage">{artist.data.stage_name}</p>
+    <p class="artist-banner__stage">{primaryStage}</p>
     <p class="artist-banner__name">{artist.data.name}</p>
-    <p class="artist-banner__genre">{artist.data.genre}</p>
   </div>
 </a>
 
@@ -81,11 +81,6 @@ const stageValues =
   .artist-banner__name {
     font-weight: 700;
     font-size: 0.9rem;
-  }
-
-  .artist-banner__genre {
-    font-size: 0.76rem;
-    color: rgba(255, 255, 255, 0.9);
   }
 
 </style>

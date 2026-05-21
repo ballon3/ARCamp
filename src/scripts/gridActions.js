@@ -12,6 +12,7 @@ let searchInput;
 let closeDialog;
 let activeStage;
 let activeSearchTerm;
+let artistsCount;
 
 /* Event handler functions */
 
@@ -73,6 +74,7 @@ const initializeVariables = () => {
   searchDialog = document.getElementById('search-dialog');
   searchInput = document.getElementById('search-input');
   closeDialog = document.getElementById('close-dialog');
+  artistsCount = document.querySelector('[data-artists-count] .oh__inner');
   activeStage = 'all';
   activeSearchTerm = '';
 };
@@ -88,6 +90,7 @@ const updateStageFilterUI = () => {
 const applyFilters = () => {
   const lowerCaseSearch = activeSearchTerm.toLowerCase();
   const lowerCaseStage = activeStage.toLowerCase();
+  let visibleCount = 0;
 
   gridItems.forEach((item) => {
     const name = item.getAttribute('data-name').toLowerCase();
@@ -103,9 +106,12 @@ const applyFilters = () => {
     const matchesStage =
       lowerCaseStage === 'all' || stages.includes(lowerCaseStage);
 
-    item.style.display =
-      matchesSearch && matchesStage ? '' : 'none';
+    const isVisible = matchesSearch && matchesStage;
+    item.style.display = isVisible ? '' : 'none';
+    if (isVisible) visibleCount += 1;
   });
+
+  if (artistsCount) artistsCount.textContent = String(visibleCount);
 };
 
 /* Toggle page blur when the search dialog is open or closed */
@@ -164,6 +170,7 @@ const cleanup = () => {
   searchDialog = null;
   searchInput = null;
   closeDialog = null;
+  artistsCount = null;
   activeStage = 'all';
   activeSearchTerm = '';
 };
