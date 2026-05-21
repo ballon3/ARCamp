@@ -1,8 +1,8 @@
 // Initialize variables to store DOM elements and states
 let gridContainer;
 let gridItems;
-let shuffleButton;
-let sortButton;
+let stageFilterButtons;
+let stageResetButton;
 let searchButton;
 let searchClearButton;
 let searchContent;
@@ -10,14 +10,24 @@ let searchContentOriginal;
 let searchDialog;
 let searchInput;
 let closeDialog;
+let activeStage;
+let activeSearchTerm;
 
 /* Event handler functions */
 
-// Shuffle grid: trigger grid shuffling.
-const handleShuffleClick = () => shuffleGrid();
+// Stage filter: set active stage and update visible items.
+const handleStageFilterClick = (e) => {
+  const button = e.currentTarget;
+  activeStage = button.getAttribute('data-stage-filter') || 'all';
+  updateStageFilterUI();
+  applyFilters();
+};
 
-// Sort grid: trigger grid sorting.
-const handleSortClick = () => sortGrid();
+const handleStageResetClick = () => {
+  activeStage = 'all';
+  updateStageFilterUI();
+  applyFilters();
+};
 
 // Open search dialog: show the dialog and blur the page.
 const handleSearchClick = () => {
@@ -33,7 +43,8 @@ const handleCloseClick = () => {
 
 // Clear search: reset the filter and clear the input.
 const handleSearchClearClick = () => {
-  filterGrid('');
+  activeSearchTerm = '';
+  applyFilters();
   toggleClearButton();
   searchContent.innerHTML = searchContentOriginal;
   searchInput.value = '';
@@ -42,19 +53,19 @@ const handleSearchClearClick = () => {
 
 // Filter grid: update grid items based on the search input.
 const handleSearchInput = (e) => {
-  const searchTerm = e.target.value;
-  filterGrid(searchTerm);
-  searchContent.innerHTML = searchTerm === '' ? searchContentOriginal : searchTerm;
-  toggleClearButton(searchTerm);
-  searchButton.classList.toggle('search--active', searchTerm !== '');
+  activeSearchTerm = e.target.value;
+  applyFilters();
+  searchContent.innerHTML = activeSearchTerm === '' ? searchContentOriginal : activeSearchTerm;
+  toggleClearButton(activeSearchTerm);
+  searchButton.classList.toggle('search--active', activeSearchTerm !== '');
 };
 
 /* Initialize DOM elements and states */
 const initializeVariables = () => {
   gridContainer = document.querySelector('[data-grid]');
   gridItems = Array.from(gridContainer?.children || []);
-  shuffleButton = document.querySelector('[data-shuffle]');
-  sortButton = document.querySelector('[data-sort]');
+  stageFilterButtons = Array.from(document.querySelectorAll('[data-stage-filter]'));
+  stageResetButton = document.querySelector('[data-stage-reset]');
   searchButton = document.querySelector('[data-search]');
   searchClearButton = document.querySelector('[data-clear]');
   searchContent = searchButton?.querySelector('.oh__inner');
@@ -62,40 +73,38 @@ const initializeVariables = () => {
   searchDialog = document.getElementById('search-dialog');
   searchInput = document.getElementById('search-input');
   closeDialog = document.getElementById('close-dialog');
+  activeStage = 'all';
+  activeSearchTerm = '';
 };
 
-/* Shuffle grid items randomly and update the container */
-const shuffleGrid = () => {
-  const shuffledItems = gridItems.sort(() => Math.random() - 0.5);
-  if (gridContainer) {
-    gridContainer.innerHTML = '';
-    shuffledItems.forEach((item) => gridContainer.appendChild(item));
-  }
-};
-
-/* Sort grid items alphabetically by 'data-stagename' */
-const sortGrid = () => {
-  const sortedItems = gridItems.sort((a, b) => {
-    const nameA = a.getAttribute('data-stagename').toLowerCase();
-    const nameB = b.getAttribute('data-stagename').toLowerCase();
-    return nameA.localeCompare(nameB);
+const updateStageFilterUI = () => {
+  stageFilterButtons.forEach((button) => {
+    const stage = button.getAttribute('data-stage-filter') || 'all';
+    button.classList.toggle('is-active', stage === activeStage);
   });
-  if (gridContainer) {
-    gridContainer.innerHTML = '';
-    sortedItems.forEach((item) => gridContainer.appendChild(item));
-  }
 };
 
-/* Filter grid items based on the search input */
-const filterGrid = (searchValue) => {
-  const lowerCaseSearch = searchValue.toLowerCase();
+/* Apply search + stage filters to grid items. */
+const applyFilters = () => {
+  const lowerCaseSearch = activeSearchTerm.toLowerCase();
+  const lowerCaseStage = activeStage.toLowerCase();
+
   gridItems.forEach((item) => {
     const name = item.getAttribute('data-name').toLowerCase();
     const stagename = item.getAttribute('data-stagename').toLowerCase();
+    const stages = (item.getAttribute('data-stages') || '')
+      .split('|')
+      .map((stage) => stage.trim().toLowerCase())
+      .filter(Boolean);
+
+    const matchesSearch =
+      name.includes(lowerCaseSearch) || stagename.includes(lowerCaseSearch);
+
+    const matchesStage =
+      lowerCaseStage === 'all' || stages.includes(lowerCaseStage);
+
     item.style.display =
-      name.includes(lowerCaseSearch) || stagename.includes(lowerCaseSearch)
-        ? ''
-        : 'none';
+      matchesSearch && matchesStage ? '' : 'none';
   });
 };
 
@@ -121,27 +130,33 @@ const toggleClearButton = (searchTerm = '') => {
 /* Initialize event listeners and states */
 const init = () => {
   initializeVariables();
-  shuffleButton?.addEventListener('click', handleShuffleClick);
-  sortButton?.addEventListener('click', handleSortClick);
+  stageFilterButtons.forEach((button) =>
+    button.addEventListener('click', handleStageFilterClick)
+  );
+  stageResetButton?.addEventListener('click', handleStageResetClick);
   searchButton?.addEventListener('click', handleSearchClick);
   closeDialog?.addEventListener('click', handleCloseClick);
   searchClearButton?.addEventListener('click', handleSearchClearClick);
   searchInput?.addEventListener('input', handleSearchInput);
   searchDialog?.addEventListener('close', () => toggleDialogPageBlur(false));
+  updateStageFilterUI();
+  applyFilters();
 };
 
 /* Cleanup event listeners and reset variables */
 const cleanup = () => {
-  shuffleButton?.removeEventListener('click', handleShuffleClick);
-  sortButton?.removeEventListener('click', handleSortClick);
+  stageFilterButtons.forEach((button) =>
+    button.removeEventListener('click', handleStageFilterClick)
+  );
+  stageResetButton?.removeEventListener('click', handleStageResetClick);
   searchButton?.removeEventListener('click', handleSearchClick);
   closeDialog?.removeEventListener('click', handleCloseClick);
   searchClearButton?.removeEventListener('click', handleSearchClearClick);
   searchInput?.removeEventListener('input', handleSearchInput);
   gridContainer = null;
   gridItems = [];
-  shuffleButton = null;
-  sortButton = null;
+  stageFilterButtons = [];
+  stageResetButton = null;
   searchButton = null;
   searchClearButton = null;
   searchContent = null;
@@ -149,6 +164,8 @@ const cleanup = () => {
   searchDialog = null;
   searchInput = null;
   closeDialog = null;
+  activeStage = 'all';
+  activeSearchTerm = '';
 };
 
 /* Handle Astro page events on the home page */

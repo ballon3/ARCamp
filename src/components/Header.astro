@@ -1,6 +1,7 @@
 ---
 import TextSlider from "../components/TextSlider.astro";
 import Separator from "../components/Separator.astro";
+import Cross from "../assets/images/cross.svg";
 
 // Get the current pathname
 const currentPath = Astro.url.pathname;
@@ -21,33 +22,17 @@ const activeRoute = routes[currentPath] || null;
     <a href="/" class={activeRoute === "Home" ? "current" : ""}
       ><TextSlider content="L⚡B2k26" /></a>
   </h1>
-  <span><TextSlider content="Record Label" /></span>
-  <ul>
-    <li>
-      <a
-        href="/releases/"
-        class={activeRoute === "Releases" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Releases" /></a>
-    </li>
-    <li>
-      <a
-        href="/history/"
-        class={activeRoute === "History" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="History" /></a>
-    </li>
-    <li>
-      <a
-        href="/store/"
-        class={activeRoute === "Store" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Store" /></a>
-    </li>
-    <li>
-      <a
-        href="/contact/"
-        class={activeRoute === "Contact" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Contact" /></a>
-    </li>
-  </ul>
+  <span><TextSlider content="" /></span>
+  {
+    activeRoute === "Home" && (
+      <div class="search-controls">
+        <button data-search class="search"><TextSlider content="Search" /></button>
+        <button data-clear class="clear hidden" aria-label="Clear search">
+          <Cross width={14} height={14} />
+        </button>
+      </div>
+    )
+  }
 </header>
 <Separator />
 
@@ -55,10 +40,11 @@ const activeRoute = routes[currentPath] || null;
   header {
     position: relative;
     display: grid;
-    grid-template-columns: min-content auto;
+    grid-template-columns: min-content minmax(0, 1fr) auto;
+    align-items: center;
     font-weight: 700;
     padding: 1rem 0;
-    gap: 1rem;
+    gap: 0.75rem;
   }
   header a.current {
     pointer-events: none;
@@ -68,17 +54,35 @@ const activeRoute = routes[currentPath] || null;
     font-weight: inherit;
     margin: 0;
   }
-  ul {
+  span {
+    min-width: 0;
+  }
+  .search-controls {
+    position: relative;
     display: flex;
-    list-style: none;
-    gap: 1rem;
-    margin: 0;
-    padding: 0;
-    grid-column: auto / span 2;
+    align-items: center;
+    justify-self: end;
+    gap: 0.75rem;
+    min-width: 0;
+  }
+  .search-controls:has(> .search--active)::before {
+    pointer-events: none;
+    content: "";
+    position: absolute;
+    left: -0.7rem;
+    right: -0.7rem;
+    top: -0.45rem;
+    bottom: -0.45rem;
+    border: 1px solid;
+    border-radius: 2rem;
+  }
+  .search--active:focus-visible {
+    color: inherit;
   }
   @media screen and (min-width: 50em) {
     header {
-      grid-template-columns: 20vw 1fr auto auto;
+      grid-template-columns: 20vw 1fr auto;
+      gap: 1rem;
     }
   }
 </style>

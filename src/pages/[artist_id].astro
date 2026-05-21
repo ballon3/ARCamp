@@ -108,4 +108,41 @@ const { Content } = await render(artist);
     margin-top: 2.5rem;
     display: flex;
   }
+  .content :global(h2) {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    letter-spacing: 0.03em;
+    color: var(--c-fg-1);
+  }
+  .content :global(h3) {
+    margin-top: 1.4rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.02rem;
+    letter-spacing: 0.02em;
+    color: var(--c-fg-2);
+    border-top: 1px solid var(--c-fg-4);
+    padding-top: 0.9rem;
+  }
+  .content :global(h4) {
+    margin-top: 0.95rem;
+    margin-bottom: 0.35rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
+    color: var(--c-fg-2);
+  }
+  .content :global(h3 + p),
+  .content :global(h4 + p) {
+    margin-top: 0;
+  }
+  .content :global(p) {
+    margin-bottom: 0.75rem;
+      line-height: 1.55;
+      margin: 0 0 0.95rem;
+      font-size: 1rem;
+  }
+    .content :global(p strong) {
+      font-weight: 700;
+      color: var(--c-fg-1);
+    }
 </style>

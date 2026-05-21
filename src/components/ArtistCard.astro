@@ -6,6 +6,10 @@ type Props = {
 };
 
 const { artist } = Astro.props;
+const stageValues =
+  artist.data.stages.length > 0
+    ? artist.data.stages
+    : artist.data.performances.map((performance) => performance.stage);
 ---
 
 <a
@@ -14,6 +18,7 @@ const { artist } = Astro.props;
   data-stagename={artist.data.stage_name}
   data-name={artist.data.name}
   data-genre={artist.data.genre}
+  data-stages={stageValues.join("|")}
   data-astro-prefetch
   aria-label={artist.data.name}
 >
@@ -25,10 +30,17 @@ const { artist } = Astro.props;
     decoding="async"
     fetchpriority="low"
   />
+
+  <div class="artist-banner" aria-hidden="true">
+    <p class="artist-banner__stage">{artist.data.stage_name}</p>
+    <p class="artist-banner__name">{artist.data.name}</p>
+    <p class="artist-banner__genre">{artist.data.genre}</p>
+  </div>
 </a>
 
 <style>
   a {
+    position: relative;
     display: block;
     aspect-ratio: 0.8;
     overflow: hidden;
@@ -41,4 +53,39 @@ const { artist } = Astro.props;
     object-fit: cover;
     object-position: 50% 0%;
   }
+
+  .artist-banner {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: grid;
+    gap: 0.2rem;
+    padding: 0.65rem 0.75rem;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.88), rgba(0, 0, 0, 0.15));
+    color: #fff;
+  }
+
+  .artist-banner p {
+    margin: 0;
+    line-height: 1.15;
+  }
+
+  .artist-banner__stage {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.72rem;
+    letter-spacing: 0.03em;
+  }
+
+  .artist-banner__name {
+    font-weight: 700;
+    font-size: 0.9rem;
+  }
+
+  .artist-banner__genre {
+    font-size: 0.76rem;
+    color: rgba(255, 255, 255, 0.9);
+  }
+
 </style>

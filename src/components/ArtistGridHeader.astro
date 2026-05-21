@@ -2,27 +2,39 @@
 import TextSlider from "../components/TextSlider.astro";
 import Separator from "../components/Separator.astro";
 import Search from "../components/Search.astro";
-import Cross from "../assets/images/cross.svg";
+import type { CollectionEntry } from "astro:content";
 
 type Props = {
   artistsTotal: number;
+  artists: CollectionEntry<"artists">[];
 };
 
-const { artistsTotal } = Astro.props;
+const { artistsTotal, artists } = Astro.props;
+const stages = [
+  ...new Set(
+    artists.flatMap((artist) =>
+      artist.data.stages.length > 0
+        ? artist.data.stages
+        : artist.data.performances.map((p) => p.stage),
+    ),
+  ),
+].sort((a, b) => a.localeCompare(b));
 ---
 
 <header class="title-header title-header--initial">
-  <h2><TextSlider content="Artists" /></h2>
+  <h2>
+    <button data-stage-reset class="stage-reset" aria-label="Show all stages">
+      <TextSlider content="Artists" />
+    </button>
+  </h2>
   <div>
-    <button data-sort><TextSlider content="Sort" /></button>
-    <button data-shuffle><TextSlider content="Shuffle" /></button>
-    <div>
-      <button data-search class="search"><TextSlider content="Search" /></button
-      >
-      <button data-clear class="clear hidden" aria-label="Clear search">
-        <Cross width={14} height={14} />
-      </button>
-    </div>
+    {
+      stages.map((stage) => (
+        <button data-stage-filter={stage} class="stage-filter">
+          <TextSlider content={stage} />
+        </button>
+      ))
+    }
   </div>
   <span><TextSlider content={artistsTotal} /></span>
 </header>
@@ -33,33 +45,16 @@ const { artistsTotal } = Astro.props;
 <style>
   div {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     align-items: center;
     gap: 1rem;
     margin: 0;
     padding: 0;
   }
-  div:has(> .search) {
-    position: relative;
-  }
-  div:has(> .search--active) {
-    margin-left: 1rem;
-  }
-  div:has(> .search--active)::before {
-    pointer-events: none;
-    content: "";
-    position: absolute;
-    left: -1rem;
-    right: -1rem;
-    top: -0.5rem;
-    bottom: -0.5rem;
-    border: 1px solid;
-    border-radius: 2rem;
-  }
-  .search--active {
-    &:focus-visible {
-      color: inherit;
-    }
+  .stage-reset {
+    font-size: inherit;
+    font-weight: inherit;
   }
 </style>
 <script src="../scripts/gridActions.js"></script>
