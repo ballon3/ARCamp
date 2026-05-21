@@ -3,15 +3,25 @@ name: 'Global Brunch with Danni G'
 stage_name: 'Global Brunch with Danni G'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/wXeyyUf77GfPpotrKPlUCg/ZNCvgeGQoLnDvu_aodo4W7XIix5Kt8hAmYfz2T6-Mdm7MTLagY9kPs6_jdkVxbFVJaXb_B5Pk3lKqRL3K2YmANQjTjHAvJAMjAuBI7SuGc_-cpZblFplFm1kLnCiJHQFq9c9N_bEM-lE_fA1k3FMk-5NsRGoRuNAb-dltDDxndY/Dx8XcC4xCRz4DuCbpR-HPj0XwavtUQwrM4OpvJuWts0'
+  src: '/images/artists/facesheet/global-brunch-with-danni-g.webp'
   alt: 'Press photo for Global Brunch with Danni G'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '3:00 PM'
     set_end: '5:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/wXeyyUf77GfPpotrKPlUCg/ZNCvgeGQoLnDvu_aodo4W7XIix5Kt8hAmYfz2T6-Mdm7MTLagY9kPs6_jdkVxbFVJaXb_B5Pk3lKqRL3K2YmANQjTjHAvJAMjAuBI7SuGc_-cpZblFplFm1kLnCiJHQFq9c9N_bEM-lE_fA1k3FMk-5NsRGoRuNAb-dltDDxndY/Dx8XcC4xCRz4DuCbpR-HPj0XwavtUQwrM4OpvJuWts0'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'danni G.jpeg'
 ---
 
 Global Brunch with Danni G is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Global Brunch with Danni G is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | GRAND ARTIQUE | 3:00 PM - 5:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/wXeyyUf77GfPpotrKPlUCg/ZNCvgeGQoLnDvu_aodo4W7XIix5Kt8hAmYfz2T6-Mdm7MTLagY9kPs6_jdkVxbFVJaXb_B5Pk3lKqRL3K2YmANQjTjHAvJAMjAuBI7SuGc_-cpZblFplFm1kLnCiJHQFq9c9N_bEM-lE_fA1k3FMk-5NsRGoRuNAb-dltDDxndY/Dx8XcC4xCRz4DuCbpR-HPj0XwavtUQwrM4OpvJuWts0
+- danni G.jpeg

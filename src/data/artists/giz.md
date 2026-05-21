@@ -3,16 +3,26 @@ name: 'GIZ'
 stage_name: 'GIZ'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/8dJjhrLmHigC9UWd3aDAQg/_BP0DUBdWavyHGjt-lZrhlSKhHT9H1cQM54mI0NdaKwC8xqv0ochshTyfgYLwl78FyNoIEebvlFedC0GqLkRnwIUNpvXGLBuqsGtgVbE1eVG_lzAa4RyD_Fe9sN4toSoYaPTzqWx8hdrgZ2krRriwTPMxV3XfHV1sWt2Pr2OMrY/_tocOkbMayKzIXftJhBNiSDbSPbEnQE1bvHj5kdKAsM'
+  src: '/images/artists/facesheet/giz.webp'
   alt: 'Press photo for GIZ'
 performances:
   - stage: 'WOOGIE'
     day: 'THURSDAY MAY 21ST'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '3:00 PM, 2:30 AM'
     set_end: '5:00 PM, 4:00 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/8dJjhrLmHigC9UWd3aDAQg/_BP0DUBdWavyHGjt-lZrhlSKhHT9H1cQM54mI0NdaKwC8xqv0ochshTyfgYLwl78FyNoIEebvlFedC0GqLkRnwIUNpvXGLBuqsGtgVbE1eVG_lzAa4RyD_Fe9sN4toSoYaPTzqWx8hdrgZ2krRriwTPMxV3XfHV1sWt2Pr2OMrY/_tocOkbMayKzIXftJhBNiSDbSPbEnQE1bvHj5kdKAsM'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/CKLum0k-q1JgIvMEw_vMZg/LkgarZBC92Nqvi8u5rsOtMt90zSPtsjAKYm0o2vE5SaPnSHL6pCkwOVJvmrtBjThZfFRBNCBZjaMHBV-bUhAZMsNALtw1nHlfwfmEwrC2uA2tHig7OyXwUE4hsImTdo2pkpmgIyMPaB8--NuscyQs562rIUncTkdqjAthyykA_g/xpuowDcEQYkAz69SU_0jaPfuc3UvP4qnsw39d1FaAHs'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'GIZ-Greenroom-Woogie 2'
+    greenroom_start: '5/21/2026 12:30pm'
+    greenroom_end: '5/21/2026 10:00pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'THURSDAY MAY 21ST'
+press_photo_files:
+  - 'GiZ_2.jpg'
+  - '1).png'
 ---
 
 GIZ is featured in the ARCamp artist facesheet.
@@ -21,7 +31,7 @@ GIZ is featured in the ARCamp artist facesheet.
 
 - THURSDAY MAY 21ST | WOOGIE | 3:00 PM, 2:30 AM - 5:00 PM, 4:00 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/8dJjhrLmHigC9UWd3aDAQg/_BP0DUBdWavyHGjt-lZrhlSKhHT9H1cQM54mI0NdaKwC8xqv0ochshTyfgYLwl78FyNoIEebvlFedC0GqLkRnwIUNpvXGLBuqsGtgVbE1eVG_lzAa4RyD_Fe9sN4toSoYaPTzqWx8hdrgZ2krRriwTPMxV3XfHV1sWt2Pr2OMrY/_tocOkbMayKzIXftJhBNiSDbSPbEnQE1bvHj5kdKAsM
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/CKLum0k-q1JgIvMEw_vMZg/LkgarZBC92Nqvi8u5rsOtMt90zSPtsjAKYm0o2vE5SaPnSHL6pCkwOVJvmrtBjThZfFRBNCBZjaMHBV-bUhAZMsNALtw1nHlfwfmEwrC2uA2tHig7OyXwUE4hsImTdo2pkpmgIyMPaB8--NuscyQs562rIUncTkdqjAthyykA_g/xpuowDcEQYkAz69SU_0jaPfuc3UvP4qnsw39d1FaAHs
+- GiZ_2.jpg
+- 1).png

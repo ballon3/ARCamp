@@ -3,15 +3,25 @@ name: 'INTROSPEKT'
 stage_name: 'INTROSPEKT'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/qdLuLkiX9gJyU1CgrNw-AQ/uo4wfhuPZ_DW2eUi5EmSmNYNZE_tepp8Vd5d6hp0kdIDHk10WRQ6UxFKbv1ExOcRymXMFn_t5yK6P0_HbzH5nuX5J9Uedyj4C2G2CNAPvoit1eLU3lCuKzE-vQafsnMTRT5YBRYiuZajg3U-4vFZ_FgbEGTz7GwBmoIXNmz1A6kAEfr6rV2k4ozrUz4YieG3/GEgqOBoqIOcn1vH1JynlEnMDedXiK8yEKytrldn17Ic'
+  src: '/images/artists/facesheet/introspekt.webp'
   alt: 'Press photo for INTROSPEKT'
 performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '7:20 PM'
     set_end: '8:35 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/qdLuLkiX9gJyU1CgrNw-AQ/uo4wfhuPZ_DW2eUi5EmSmNYNZE_tepp8Vd5d6hp0kdIDHk10WRQ6UxFKbv1ExOcRymXMFn_t5yK6P0_HbzH5nuX5J9Uedyj4C2G2CNAPvoit1eLU3lCuKzE-vQafsnMTRT5YBRYiuZajg3U-4vFZ_FgbEGTz7GwBmoIXNmz1A6kAEfr6rV2k4ozrUz4YieG3/GEgqOBoqIOcn1vH1JynlEnMDedXiK8yEKytrldn17Ic'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'INTROSPEKT-Greenroom-GR Trailer 8'
+    greenroom_start: '5/24/2026 5:30pm'
+    greenroom_end: '5/24/2026 10:30pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'Screenshot 2026-04-02 at 3.21.50â¯PM.png'
 ---
 
 INTROSPEKT is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ INTROSPEKT is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | THUNDER | 7:20 PM - 8:35 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/qdLuLkiX9gJyU1CgrNw-AQ/uo4wfhuPZ_DW2eUi5EmSmNYNZE_tepp8Vd5d6hp0kdIDHk10WRQ6UxFKbv1ExOcRymXMFn_t5yK6P0_HbzH5nuX5J9Uedyj4C2G2CNAPvoit1eLU3lCuKzE-vQafsnMTRT5YBRYiuZajg3U-4vFZ_FgbEGTz7GwBmoIXNmz1A6kAEfr6rV2k4ozrUz4YieG3/GEgqOBoqIOcn1vH1JynlEnMDedXiK8yEKytrldn17Ic
+- Screenshot 2026-04-02 at 3.21.50â¯PM.png

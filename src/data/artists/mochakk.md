@@ -3,15 +3,25 @@ name: 'MOCHAKK'
 stage_name: 'MOCHAKK'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Y0HkpZtIgv8vx5znPMNFmg/C_41fy7uv0LDZjdF-TNMnTvQrxeb6i2_mvD_9ddUQytt8EyEK1Jx1cJ0x0-EqLWaL5qeBijCTjkZsIi2eLNrCmukrbz5GoBS4R200Og22iiZjRo6iYjnf1zpEM6JT3CYT-JBTlzt_JmmO8uk9D_JniuYCHVs9hUtuvQEy0nxxnc/x9o8r56N9M5zEPulU7vl_S0qfoNuRjgmnu8ogNarPuU'
+  src: '/images/artists/facesheet/mochakk.webp'
   alt: 'Press photo for MOCHAKK'
 performances:
   - stage: 'LIGHTNING'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: '5/24/2026 2:00 PM - 4:00 PM'
     set_start: '10:15 PM'
     set_end: '11:45 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Y0HkpZtIgv8vx5znPMNFmg/C_41fy7uv0LDZjdF-TNMnTvQrxeb6i2_mvD_9ddUQytt8EyEK1Jx1cJ0x0-EqLWaL5qeBijCTjkZsIi2eLNrCmukrbz5GoBS4R200Og22iiZjRo6iYjnf1zpEM6JT3CYT-JBTlzt_JmmO8uk9D_JniuYCHVs9hUtuvQEy0nxxnc/x9o8r56N9M5zEPulU7vl_S0qfoNuRjgmnu8ogNarPuU'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'MOCHAKK-Greenroom-GR Trailer 7'
+    greenroom_start: '5/24/2026 12:00pm'
+    greenroom_end: '5/25/2026 2:00am'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'Pedro foto.png'
 ---
 
 MOCHAKK is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ MOCHAKK is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | LIGHTNING | 10:15 PM - 11:45 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Y0HkpZtIgv8vx5znPMNFmg/C_41fy7uv0LDZjdF-TNMnTvQrxeb6i2_mvD_9ddUQytt8EyEK1Jx1cJ0x0-EqLWaL5qeBijCTjkZsIi2eLNrCmukrbz5GoBS4R200Og22iiZjRo6iYjnf1zpEM6JT3CYT-JBTlzt_JmmO8uk9D_JniuYCHVs9hUtuvQEy0nxxnc/x9o8r56N9M5zEPulU7vl_S0qfoNuRjgmnu8ogNarPuU
+- Pedro foto.png

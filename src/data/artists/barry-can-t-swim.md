@@ -3,15 +3,25 @@ name: 'BARRY CAN''T SWIM'
 stage_name: 'BARRY CAN''T SWIM'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/wjTjlyFSeKilEQBmJtHrvQ/_ANrYthr4iC--TJmjBLa6NH1yHUdjYwTKb_07DF9DNZbPiZmY4LCwyMX0j64xruGupmuGBJF4gZfvFnV8ityE-Nh8rYb6pdMZU5_9Y_MuyzS9Q8MzI8oYEtDJ4bx8s6YfOzfmVlhZTp6ypoRsL_On7rgl0tq8bQdbjMYqu7RlgArSexl8vnnJ3JFNbunj6QQ/yAEhV866GI0TWgqm80MV6aLCBHBpWTZ1x8SdjREqz6U'
+  src: '/images/artists/facesheet/barry-can.webp'
   alt: 'Press photo for BARRY CAN''T SWIM'
 performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
+    programming_time: '5/23/2026 4:15 AM - 6:30 AM'
+    soundcheck_time: 'TBD'
     set_start: '10:45 pm'
     set_end: '12:15 am'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/wjTjlyFSeKilEQBmJtHrvQ/_ANrYthr4iC--TJmjBLa6NH1yHUdjYwTKb_07DF9DNZbPiZmY4LCwyMX0j64xruGupmuGBJF4gZfvFnV8ityE-Nh8rYb6pdMZU5_9Y_MuyzS9Q8MzI8oYEtDJ4bx8s6YfOzfmVlhZTp6ypoRsL_On7rgl0tq8bQdbjMYqu7RlgArSexl8vnnJ3JFNbunj6QQ/yAEhV866GI0TWgqm80MV6aLCBHBpWTZ1x8SdjREqz6U'
+    confirmed_greenrooms: '2.0'
+    green_room_sched: 'BARRY CAN''T SWIM-Greenroom-GR Trailer 4, BARRY CAN''T SWIM-Greenroom-'
+    greenroom_start: '5/22/2026 10:00am, 5/22/2026 10:00am'
+    greenroom_end: '5/23/2026 2:00am, 5/23/2026 2:00am'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'Screenshot 2026-05-21 at 2.03.32 AM.png'
 ---
 
 BARRY CAN'T SWIM is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ BARRY CAN'T SWIM is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | LIGHTNING | 10:45 pm - 12:15 am
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/wjTjlyFSeKilEQBmJtHrvQ/_ANrYthr4iC--TJmjBLa6NH1yHUdjYwTKb_07DF9DNZbPiZmY4LCwyMX0j64xruGupmuGBJF4gZfvFnV8ityE-Nh8rYb6pdMZU5_9Y_MuyzS9Q8MzI8oYEtDJ4bx8s6YfOzfmVlhZTp6ypoRsL_On7rgl0tq8bQdbjMYqu7RlgArSexl8vnnJ3JFNbunj6QQ/yAEhV866GI0TWgqm80MV6aLCBHBpWTZ1x8SdjREqz6U
+- Screenshot 2026-05-21 at 2.03.32 AM.png

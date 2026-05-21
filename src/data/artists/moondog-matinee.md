@@ -3,15 +3,25 @@ name: 'Moondog Matinee'
 stage_name: 'Moondog Matinee'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Hr3_FpWCdgk6Bo99_daGDA/AiJz6Fm5qPieG0SM6orgzGHI5_e2wmBMo0rO3DKq_C3VysPkV2xz9Q8SCgwmETCr3Yjh5fNaM4UKXgUJsLNd_hWnWyg2zjwZwbrYm057_FoeXgtEzRBT_h-FczEqmsREOol6qGe486Czu824H3QH7mmi0xzdBuDJJW93pNJ1iQY/Jfx0uIF9qcA1OllTZonU2F3pUffLakOKZdLMD81WjLU'
+  src: '/images/artists/facesheet/moondog-matinee.webp'
   alt: 'Press photo for Moondog Matinee'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'THURSDAY MAY 21ST'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '12:45 AM'
     set_end: '2:00 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Hr3_FpWCdgk6Bo99_daGDA/AiJz6Fm5qPieG0SM6orgzGHI5_e2wmBMo0rO3DKq_C3VysPkV2xz9Q8SCgwmETCr3Yjh5fNaM4UKXgUJsLNd_hWnWyg2zjwZwbrYm057_FoeXgtEzRBT_h-FczEqmsREOol6qGe486Czu824H3QH7mmi0xzdBuDJJW93pNJ1iQY/Jfx0uIF9qcA1OllTZonU2F3pUffLakOKZdLMD81WjLU'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'THURSDAY MAY 21ST'
+press_photo_files:
+  - 'IMG_8600.jpeg'
 ---
 
 Moondog Matinee is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Moondog Matinee is featured in the ARCamp artist facesheet.
 
 - THURSDAY MAY 21ST | GRAND ARTIQUE | 12:45 AM - 2:00 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Hr3_FpWCdgk6Bo99_daGDA/AiJz6Fm5qPieG0SM6orgzGHI5_e2wmBMo0rO3DKq_C3VysPkV2xz9Q8SCgwmETCr3Yjh5fNaM4UKXgUJsLNd_hWnWyg2zjwZwbrYm057_FoeXgtEzRBT_h-FczEqmsREOol6qGe486Czu824H3QH7mmi0xzdBuDJJW93pNJ1iQY/Jfx0uIF9qcA1OllTZonU2F3pUffLakOKZdLMD81WjLU
+- IMG_8600.jpeg

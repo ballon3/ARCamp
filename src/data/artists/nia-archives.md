@@ -3,15 +3,25 @@ name: 'NIA ARCHIVES'
 stage_name: 'NIA ARCHIVES'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WibRmMFZc4evrcUM8sNS0g/vQgQOG4QMid1xqaaGic1Pc-e3e69gDO4xDoFC_0NVZ4DsAv7OpWFNCHlmNCuCYIZLLKmzUBFNYlwep9V0urSYNog85KJEU85iKf6_-J1MakdQ4lUV0LiVkWNfJ3oHwBShjb-VZJTK02TNi-yr-PYzQ/L0w9ANtwBziOCx7tGoAuaVyj1MGM2GSSU55E64AcaqU'
+  src: '/images/artists/facesheet/nia-archives.webp'
   alt: 'Press photo for NIA ARCHIVES'
 performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: '5/23/2026 12:00 PM - 2:30 PM'
     set_start: '9:30 PM'
     set_end: '10:30 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WibRmMFZc4evrcUM8sNS0g/vQgQOG4QMid1xqaaGic1Pc-e3e69gDO4xDoFC_0NVZ4DsAv7OpWFNCHlmNCuCYIZLLKmzUBFNYlwep9V0urSYNog85KJEU85iKf6_-J1MakdQ4lUV0LiVkWNfJ3oHwBShjb-VZJTK02TNi-yr-PYzQ/L0w9ANtwBziOCx7tGoAuaVyj1MGM2GSSU55E64AcaqU'
+    confirmed_greenrooms: '3.0'
+    green_room_sched: 'NIA ARCHIVES-Greenroom-GR Trailer 1,NIA ARCHIVES-Greenroom-GR Trailer 2,NIA ARCHIVES-Greenroom-GR Trailer 3'
+    greenroom_start: '5/22/2026 12:30pm, 5/22/2026 12:30pm, 5/22/2026 12:30pm'
+    greenroom_end: '5/23/2026 12:30am, 5/23/2026 12:30am, 5/23/2026 12:30am'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'col3.jpg'
 ---
 
 NIA ARCHIVES is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ NIA ARCHIVES is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | LIGHTNING | 9:30 PM - 10:30 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WibRmMFZc4evrcUM8sNS0g/vQgQOG4QMid1xqaaGic1Pc-e3e69gDO4xDoFC_0NVZ4DsAv7OpWFNCHlmNCuCYIZLLKmzUBFNYlwep9V0urSYNog85KJEU85iKf6_-J1MakdQ4lUV0LiVkWNfJ3oHwBShjb-VZJTK02TNi-yr-PYzQ/L0w9ANtwBziOCx7tGoAuaVyj1MGM2GSSU55E64AcaqU
+- col3.jpg

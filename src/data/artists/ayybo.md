@@ -3,15 +3,25 @@ name: 'AYYBO'
 stage_name: 'AYYBO'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MIhfnIqSgPOEBhlmH-IPiA/uPFLyK4ZqzW_-WFxxbfhch2O5PzR8rlUDsjlo1YDe_VuGf1lhooWti9nc_CcrCT0rol9yJZiFsXTh884AZv8LNb8WkoBsXUNRq1q0TjTBczQLxKbTQGyCiYF7GDj6Sda3zeQHcqY8AhcMI0X43YcHPMhf3uraW08RZAFm6Edo5tidTNGpjqh_tJ2W5GAaVU-/e1RmYJpK3t0kfnxNAsTZHFd5YFKYnS5M9VskyG4C9HE'
+  src: '/images/artists/facesheet/ayybo.webp'
   alt: 'Press photo for AYYBO'
 performances:
   - stage: 'WOOGIE'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '10:00 PM'
     set_end: '12:00 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MIhfnIqSgPOEBhlmH-IPiA/uPFLyK4ZqzW_-WFxxbfhch2O5PzR8rlUDsjlo1YDe_VuGf1lhooWti9nc_CcrCT0rol9yJZiFsXTh884AZv8LNb8WkoBsXUNRq1q0TjTBczQLxKbTQGyCiYF7GDj6Sda3zeQHcqY8AhcMI0X43YcHPMhf3uraW08RZAFm6Edo5tidTNGpjqh_tJ2W5GAaVU-/e1RmYJpK3t0kfnxNAsTZHFd5YFKYnS5M9VskyG4C9HE'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'AYYBO-Greenroom-GR Trailer 17'
+    greenroom_start: '5/23/2026 8:30pm'
+    greenroom_end: '5/24/2026 2:00am'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'Screenshot 2026-04-21 at 1.50.44â¯PM.png'
 ---
 
 AYYBO is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ AYYBO is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | WOOGIE | 10:00 PM - 12:00 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MIhfnIqSgPOEBhlmH-IPiA/uPFLyK4ZqzW_-WFxxbfhch2O5PzR8rlUDsjlo1YDe_VuGf1lhooWti9nc_CcrCT0rol9yJZiFsXTh884AZv8LNb8WkoBsXUNRq1q0TjTBczQLxKbTQGyCiYF7GDj6Sda3zeQHcqY8AhcMI0X43YcHPMhf3uraW08RZAFm6Edo5tidTNGpjqh_tJ2W5GAaVU-/e1RmYJpK3t0kfnxNAsTZHFd5YFKYnS5M9VskyG4C9HE
+- Screenshot 2026-04-21 at 1.50.44â¯PM.png

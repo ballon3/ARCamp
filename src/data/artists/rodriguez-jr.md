@@ -3,15 +3,25 @@ name: 'RODRIGUEZ JR.'
 stage_name: 'RODRIGUEZ JR.'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dKynLC-q_I2VlypOE1qpCg/jg4r0bf41xAbTN-QSQc3yndTvkKZ-uYRKrCgd_g1h-x-6JrrXWmLBU5vWpK4ftZfWsAKQVpdbXcccXN2tDculKkBH-6BJNwVAfMg63yTd3AEWX0BnhZncU04F559tfgyYBR4GlSiaG-59e8Fc4s1AFJnFy1XKnEn8lepqFe5NJY/39FQZ3ojY5jpNY6wGTOm9BNfDByYlRDvuyY0LJ6z8II'
+  src: '/images/artists/facesheet/rodriguez-jr.webp'
   alt: 'Press photo for RODRIGUEZ JR.'
 performances:
   - stage: 'WOOGIE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '5:55 PM'
     set_end: '7:55 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dKynLC-q_I2VlypOE1qpCg/jg4r0bf41xAbTN-QSQc3yndTvkKZ-uYRKrCgd_g1h-x-6JrrXWmLBU5vWpK4ftZfWsAKQVpdbXcccXN2tDculKkBH-6BJNwVAfMg63yTd3AEWX0BnhZncU04F559tfgyYBR4GlSiaG-59e8Fc4s1AFJnFy1XKnEn8lepqFe5NJY/39FQZ3ojY5jpNY6wGTOm9BNfDByYlRDvuyY0LJ6z8II'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'RODRIGUEZ JR.-Greenroom-Woogie 3'
+    greenroom_start: '5/24/2026 5:00pm'
+    greenroom_end: '5/24/2026 9:30pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'Rodriguez Jr. - 198.jpg'
 ---
 
 RODRIGUEZ JR. is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ RODRIGUEZ JR. is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | WOOGIE | 5:55 PM - 7:55 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dKynLC-q_I2VlypOE1qpCg/jg4r0bf41xAbTN-QSQc3yndTvkKZ-uYRKrCgd_g1h-x-6JrrXWmLBU5vWpK4ftZfWsAKQVpdbXcccXN2tDculKkBH-6BJNwVAfMg63yTd3AEWX0BnhZncU04F559tfgyYBR4GlSiaG-59e8Fc4s1AFJnFy1XKnEn8lepqFe5NJY/39FQZ3ojY5jpNY6wGTOm9BNfDByYlRDvuyY0LJ6z8II
+- Rodriguez Jr. - 198.jpg

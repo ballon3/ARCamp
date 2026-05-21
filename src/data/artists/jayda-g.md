@@ -3,15 +3,25 @@ name: 'JAYDA G'
 stage_name: 'JAYDA G'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/9nr9DhWTVTZ5YYKKbW8L-A/ZWq8GqGny8g8eLaMTBbDtBnHRCpBv8-Wpvne_mYsLWjrOJOQz-FRDhs_-0c0G6AqkDSrijNYon3puvCuy5-p-LFAYludjvEs5k3UAB8hF2RGNKUhye0NdD7W7_RlpYMOesLfewvXDmaE0e0_B6IAokBFcHOWoB4IRyMIJTFYVaLmSHsj1hQ7KgRj3IQi8vhT/K0esrtpe5S7bhi4Cm30dtLT9n2Z7Ts28lIfiq6RPdWg'
+  src: '/images/artists/facesheet/jayda-g.webp'
   alt: 'Press photo for JAYDA G'
 performances:
   - stage: 'WOOGIE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '8:00 PM'
     set_end: '10:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/9nr9DhWTVTZ5YYKKbW8L-A/ZWq8GqGny8g8eLaMTBbDtBnHRCpBv8-Wpvne_mYsLWjrOJOQz-FRDhs_-0c0G6AqkDSrijNYon3puvCuy5-p-LFAYludjvEs5k3UAB8hF2RGNKUhye0NdD7W7_RlpYMOesLfewvXDmaE0e0_B6IAokBFcHOWoB4IRyMIJTFYVaLmSHsj1hQ7KgRj3IQi8vhT/K0esrtpe5S7bhi4Cm30dtLT9n2Z7Ts28lIfiq6RPdWg'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'JAYDA G-Greenroom-Woogie 2'
+    greenroom_start: '5/24/2026 7:00pm'
+    greenroom_end: '5/24/2026 11:30pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - '1052) - Joe Magowan.jpg'
 ---
 
 JAYDA G is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ JAYDA G is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | WOOGIE | 8:00 PM - 10:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/9nr9DhWTVTZ5YYKKbW8L-A/ZWq8GqGny8g8eLaMTBbDtBnHRCpBv8-Wpvne_mYsLWjrOJOQz-FRDhs_-0c0G6AqkDSrijNYon3puvCuy5-p-LFAYludjvEs5k3UAB8hF2RGNKUhye0NdD7W7_RlpYMOesLfewvXDmaE0e0_B6IAokBFcHOWoB4IRyMIJTFYVaLmSHsj1hQ7KgRj3IQi8vhT/K0esrtpe5S7bhi4Cm30dtLT9n2Z7Ts28lIfiq6RPdWg
+- 1052) - Joe Magowan.jpg

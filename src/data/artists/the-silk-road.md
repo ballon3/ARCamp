@@ -3,15 +3,25 @@ name: 'THE SILK ROAD'
 stage_name: 'THE SILK ROAD'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/RjpdRtgIndzK5mBZo1RNVA/Ut3ZOPVo186-BB8ULubjM83cT1JWVshl3SmnFKI52waI_LpEmta8euzNRJV7IUGfuEwh9CBBMkBeekOTGT6piqMzyVhsJpcguTwb6f6kIESzDjjqu7vddaPbtaXJHjRZaSj3IiNlDprddGRUCi-LLyYIv2uY37Cp8uN64DUuenw/iR5V3S1SDeE8aEKlB-8378E9paYSr_9MHd0ftM9vf-k'
+  src: '/images/artists/facesheet/the-silk-road.webp'
   alt: 'Press photo for THE SILK ROAD'
 performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '3:35 PM'
     set_end: '4:50 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/RjpdRtgIndzK5mBZo1RNVA/Ut3ZOPVo186-BB8ULubjM83cT1JWVshl3SmnFKI52waI_LpEmta8euzNRJV7IUGfuEwh9CBBMkBeekOTGT6piqMzyVhsJpcguTwb6f6kIESzDjjqu7vddaPbtaXJHjRZaSj3IiNlDprddGRUCi-LLyYIv2uY37Cp8uN64DUuenw/iR5V3S1SDeE8aEKlB-8378E9paYSr_9MHd0ftM9vf-k'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'THE SILK ROAD-Greenroom-GR Trailer 17'
+    greenroom_start: '5/24/2026 1:30pm'
+    greenroom_end: '5/24/2026 6:00pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'TSR Press Photo.jpg'
 ---
 
 THE SILK ROAD is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ THE SILK ROAD is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | THUNDER | 3:35 PM - 4:50 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/RjpdRtgIndzK5mBZo1RNVA/Ut3ZOPVo186-BB8ULubjM83cT1JWVshl3SmnFKI52waI_LpEmta8euzNRJV7IUGfuEwh9CBBMkBeekOTGT6piqMzyVhsJpcguTwb6f6kIESzDjjqu7vddaPbtaXJHjRZaSj3IiNlDprddGRUCi-LLyYIv2uY37Cp8uN64DUuenw/iR5V3S1SDeE8aEKlB-8378E9paYSr_9MHd0ftM9vf-k
+- TSR Press Photo.jpg

@@ -3,15 +3,25 @@ name: 'LADIES OF LEISURE'
 stage_name: 'LADIES OF LEISURE'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ANjG5JE4UxhaCa1eKVXaUQ/Wy4d7IF56ZLYWqgjfE9sBavigJ3GHpp_BXHvs2Sku61l8L-Alml62CK0Oy5-vC0fJKK_QwoC2cwFcETLS9epGvxgx2lQ4XqNoxqmTgoCRqKgHAKtPMLrjR3QAuqu47EGR3RbYtonuck5jQBA1163tqwuzKQ-eYzLbByQQX0tdfI/lqaOMcsHBYW0KVp5QK5YiBtLX1naVH7MiFcOE-FP25s'
+  src: '/images/artists/facesheet/ladies-of-leisure.webp'
   alt: 'Press photo for LADIES OF LEISURE'
 performances:
   - stage: 'WOOGIE'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '4:00 PM'
     set_end: '6:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ANjG5JE4UxhaCa1eKVXaUQ/Wy4d7IF56ZLYWqgjfE9sBavigJ3GHpp_BXHvs2Sku61l8L-Alml62CK0Oy5-vC0fJKK_QwoC2cwFcETLS9epGvxgx2lQ4XqNoxqmTgoCRqKgHAKtPMLrjR3QAuqu47EGR3RbYtonuck5jQBA1163tqwuzKQ-eYzLbByQQX0tdfI/lqaOMcsHBYW0KVp5QK5YiBtLX1naVH7MiFcOE-FP25s'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'LADIES OF LEISURE-Greenroom-Woogie 2'
+    greenroom_start: '5/23/2026 2:00pm'
+    greenroom_end: '5/23/2026 8:00pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'IMG_9056.jpg'
 ---
 
 LADIES OF LEISURE is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ LADIES OF LEISURE is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | WOOGIE | 4:00 PM - 6:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ANjG5JE4UxhaCa1eKVXaUQ/Wy4d7IF56ZLYWqgjfE9sBavigJ3GHpp_BXHvs2Sku61l8L-Alml62CK0Oy5-vC0fJKK_QwoC2cwFcETLS9epGvxgx2lQ4XqNoxqmTgoCRqKgHAKtPMLrjR3QAuqu47EGR3RbYtonuck5jQBA1163tqwuzKQ-eYzLbByQQX0tdfI/lqaOMcsHBYW0KVp5QK5YiBtLX1naVH7MiFcOE-FP25s
+- IMG_9056.jpg

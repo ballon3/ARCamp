@@ -3,15 +3,25 @@ name: 'Elysian Moon'
 stage_name: 'Elysian Moon'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/uTcCRzLv7fXD6c5KxFOk3g/sGJdMfQrEbYZo2CbAqQfaPOvLh_bL4L0b33lmx8FuCXf3g1Au9xtpgoInNhS9kEJMm-glssn4nW3BTY1GSEylBoH8N10hswVmOnKM-v5MYiAVLsocz275WHYbt8G4ce0gYGrE6kIJ8TlSo7YkPaHkdxUpDov7c_jDwRscRBS2ik/O6iDv6M2j3ZUrZXuVCHWh-__8Yuv5cB98f-eA6jB5-c'
+  src: '/images/artists/facesheet/elysian-moon.webp'
   alt: 'Press photo for Elysian Moon'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'THURSDAY MAY 21ST'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '9:00 PM'
     set_end: '10:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/uTcCRzLv7fXD6c5KxFOk3g/sGJdMfQrEbYZo2CbAqQfaPOvLh_bL4L0b33lmx8FuCXf3g1Au9xtpgoInNhS9kEJMm-glssn4nW3BTY1GSEylBoH8N10hswVmOnKM-v5MYiAVLsocz275WHYbt8G4ce0gYGrE6kIJ8TlSo7YkPaHkdxUpDov7c_jDwRscRBS2ik/O6iDv6M2j3ZUrZXuVCHWh-__8Yuv5cB98f-eA6jB5-c'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'THURSDAY MAY 21ST'
+press_photo_files:
+  - '01_EM _flower meadow.png'
 ---
 
 Elysian Moon is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Elysian Moon is featured in the ARCamp artist facesheet.
 
 - THURSDAY MAY 21ST | GRAND ARTIQUE | 9:00 PM - 10:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/uTcCRzLv7fXD6c5KxFOk3g/sGJdMfQrEbYZo2CbAqQfaPOvLh_bL4L0b33lmx8FuCXf3g1Au9xtpgoInNhS9kEJMm-glssn4nW3BTY1GSEylBoH8N10hswVmOnKM-v5MYiAVLsocz275WHYbt8G4ce0gYGrE6kIJ8TlSo7YkPaHkdxUpDov7c_jDwRscRBS2ik/O6iDv6M2j3ZUrZXuVCHWh-__8Yuv5cB98f-eA6jB5-c
+- 01_EM _flower meadow.png

@@ -3,15 +3,25 @@ name: 'MADAM X'
 stage_name: 'MADAM X'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WjQ4qSmqgBhVa-vK7VCZdg/pEt8qOUiws_7BtK5xK0LYES0b5_XPR87tC9DfmaT0tS2mjIMvO2xkeeVBbThLgbg9XDYBAsYstCugOjZG9oBvX2z_ayFw_DRNneTM3iBtfz4ANpi0pcg_FIyjzEAWdnbs-NL1K6jI6-QaSH60kQKH-l5ieY8agPF6XDG5Tp_ozQ/qA7WWEC9WSqQf4pB-F7YmKW7IfIevqW78T3HG8HBd6s'
+  src: '/images/artists/facesheet/madam-x.webp'
   alt: 'Press photo for MADAM X'
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '10:00 PM'
     set_end: '11:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WjQ4qSmqgBhVa-vK7VCZdg/pEt8qOUiws_7BtK5xK0LYES0b5_XPR87tC9DfmaT0tS2mjIMvO2xkeeVBbThLgbg9XDYBAsYstCugOjZG9oBvX2z_ayFw_DRNneTM3iBtfz4ANpi0pcg_FIyjzEAWdnbs-NL1K6jI6-QaSH60kQKH-l5ieY8agPF6XDG5Tp_ozQ/qA7WWEC9WSqQf4pB-F7YmKW7IfIevqW78T3HG8HBd6s'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'MADAM X-Greenroom-GR Trailer 12'
+    greenroom_start: '5/23/2026 8:00pm'
+    greenroom_end: '5/24/2026 1:00am'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'DAAN-DAM-MADAMX-8.jpg'
 ---
 
 MADAM X is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ MADAM X is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | THUNDER | 10:00 PM - 11:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WjQ4qSmqgBhVa-vK7VCZdg/pEt8qOUiws_7BtK5xK0LYES0b5_XPR87tC9DfmaT0tS2mjIMvO2xkeeVBbThLgbg9XDYBAsYstCugOjZG9oBvX2z_ayFw_DRNneTM3iBtfz4ANpi0pcg_FIyjzEAWdnbs-NL1K6jI6-QaSH60kQKH-l5ieY8agPF6XDG5Tp_ozQ/qA7WWEC9WSqQf4pB-F7YmKW7IfIevqW78T3HG8HBd6s
+- DAAN-DAM-MADAMX-8.jpg

@@ -3,15 +3,25 @@ name: 'Lily Fangs'
 stage_name: 'Lily Fangs'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MYg5ptvNrxiwj4o2r8A1-g/5GrFa2quZAZzl0e528CsFQd2Ycg8LMpp7FQLoB5aQstvWedgphwwwLm78vqTqBqWZasb29qOUvYfpe31rUtjOimtR6qCdAsTYlUECVKKAKUTsgwcDGNHSZsiOgN3gW3m8EkrPuIEULKoK0cXsbus0Hg01utPmM4NF4--zJq2Uu4/GylcKPfh-Gr5ftMSUMAX5DJltCGj55woIgtKd3jyJho'
+  src: '/images/artists/facesheet/lily-fangs.webp'
   alt: 'Press photo for Lily Fangs'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '3:15 PM'
     set_end: '4:30 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MYg5ptvNrxiwj4o2r8A1-g/5GrFa2quZAZzl0e528CsFQd2Ycg8LMpp7FQLoB5aQstvWedgphwwwLm78vqTqBqWZasb29qOUvYfpe31rUtjOimtR6qCdAsTYlUECVKKAKUTsgwcDGNHSZsiOgN3gW3m8EkrPuIEULKoK0cXsbus0Hg01utPmM4NF4--zJq2Uu4/GylcKPfh-Gr5ftMSUMAX5DJltCGj55woIgtKd3jyJho'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'Lf X J Lib 1.JPG'
 ---
 
 Lily Fangs is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Lily Fangs is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | GRAND ARTIQUE | 3:15 PM - 4:30 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MYg5ptvNrxiwj4o2r8A1-g/5GrFa2quZAZzl0e528CsFQd2Ycg8LMpp7FQLoB5aQstvWedgphwwwLm78vqTqBqWZasb29qOUvYfpe31rUtjOimtR6qCdAsTYlUECVKKAKUTsgwcDGNHSZsiOgN3gW3m8EkrPuIEULKoK0cXsbus0Hg01utPmM4NF4--zJq2Uu4/GylcKPfh-Gr5ftMSUMAX5DJltCGj55woIgtKd3jyJho
+- Lf X J Lib 1.JPG

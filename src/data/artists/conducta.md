@@ -3,15 +3,25 @@ name: 'CONDUCTA'
 stage_name: 'CONDUCTA'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/XmF3_lyaHW9intE8N-7G3w/DT1hdbVNDKAnIXc7RNOSycMud88PdhasSStFONEwAbA5XfQrZ_wSSoojzlsMOUjnjFHhYPVEd9sGwFb989U_cTnbERoDst3Sjo1ZXopSp6-qpVQWmjLpz-b26ngJBJH4lj-aGFz38nCUtffdjoeYhs3WeH47_FKoxdq1KWev3IW2AA5pGJwlehoio6tiN6UTIfpt5chA1iuQBElAX6EIXw/luirP6KgUm605aa6OAn4HDvr_uRw5beIQ_mczpXK_xo'
+  src: '/images/artists/facesheet/conducta.webp'
   alt: 'Press photo for CONDUCTA'
 performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '8:35 PM'
     set_end: '9:50 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/XmF3_lyaHW9intE8N-7G3w/DT1hdbVNDKAnIXc7RNOSycMud88PdhasSStFONEwAbA5XfQrZ_wSSoojzlsMOUjnjFHhYPVEd9sGwFb989U_cTnbERoDst3Sjo1ZXopSp6-qpVQWmjLpz-b26ngJBJH4lj-aGFz38nCUtffdjoeYhs3WeH47_FKoxdq1KWev3IW2AA5pGJwlehoio6tiN6UTIfpt5chA1iuQBElAX6EIXw/luirP6KgUm605aa6OAn4HDvr_uRw5beIQ_mczpXK_xo'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'CONDUCTA-Greenroom-GR Trailer 9'
+    greenroom_start: '5/24/2026 6:30pm'
+    greenroom_end: '5/25/2026 12:00am'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'avatars-zz2bXT04Xc2aEl03-IV4rfQ-t1080x1080.jpg'
 ---
 
 CONDUCTA is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ CONDUCTA is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | THUNDER | 8:35 PM - 9:50 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/XmF3_lyaHW9intE8N-7G3w/DT1hdbVNDKAnIXc7RNOSycMud88PdhasSStFONEwAbA5XfQrZ_wSSoojzlsMOUjnjFHhYPVEd9sGwFb989U_cTnbERoDst3Sjo1ZXopSp6-qpVQWmjLpz-b26ngJBJH4lj-aGFz38nCUtffdjoeYhs3WeH47_FKoxdq1KWev3IW2AA5pGJwlehoio6tiN6UTIfpt5chA1iuQBElAX6EIXw/luirP6KgUm605aa6OAn4HDvr_uRw5beIQ_mczpXK_xo
+- avatars-zz2bXT04Xc2aEl03-IV4rfQ-t1080x1080.jpg

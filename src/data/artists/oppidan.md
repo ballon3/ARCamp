@@ -3,15 +3,25 @@ name: 'OPPIDAN'
 stage_name: 'OPPIDAN'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Ir9MC82kqmH457HmA-CNxg/6Ja10Uyhxq5Md8Mql-QVIQZwPEloEn4e434yE-mU-zDxXxB7ThGmKI6Dz6bC2GU0gz41bH4vU5LquaLBZNjdOVHPJ4678Pyxry_xmzkeuTGc-4VA5_9AdDNepnDr5I0mzMDP8z4yAdHEH4uVq0xGX-UKsaHy-6aPlM5JiQbK42Q/glafU8-8B8uAL4ex_2TTFW0oBTIP0wifyPHWtN3DMsA'
+  src: '/images/artists/facesheet/oppidan.webp'
   alt: 'Press photo for OPPIDAN'
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '8:45 PM'
     set_end: '10:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Ir9MC82kqmH457HmA-CNxg/6Ja10Uyhxq5Md8Mql-QVIQZwPEloEn4e434yE-mU-zDxXxB7ThGmKI6Dz6bC2GU0gz41bH4vU5LquaLBZNjdOVHPJ4678Pyxry_xmzkeuTGc-4VA5_9AdDNepnDr5I0mzMDP8z4yAdHEH4uVq0xGX-UKsaHy-6aPlM5JiQbK42Q/glafU8-8B8uAL4ex_2TTFW0oBTIP0wifyPHWtN3DMsA'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'OPPIDAN-Greenroom-GR Trailer 9'
+    greenroom_start: '5/23/2026 6:30pm'
+    greenroom_end: '5/24/2026 12:00am'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'oppidan.webp'
 ---
 
 OPPIDAN is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ OPPIDAN is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | THUNDER | 8:45 PM - 10:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/Ir9MC82kqmH457HmA-CNxg/6Ja10Uyhxq5Md8Mql-QVIQZwPEloEn4e434yE-mU-zDxXxB7ThGmKI6Dz6bC2GU0gz41bH4vU5LquaLBZNjdOVHPJ4678Pyxry_xmzkeuTGc-4VA5_9AdDNepnDr5I0mzMDP8z4yAdHEH4uVq0xGX-UKsaHy-6aPlM5JiQbK42Q/glafU8-8B8uAL4ex_2TTFW0oBTIP0wifyPHWtN3DMsA
+- oppidan.webp

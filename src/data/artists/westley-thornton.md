@@ -3,15 +3,25 @@ name: 'Westley Thornton'
 stage_name: 'Westley Thornton'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/akSep4BCDLoodwDnUtPCZg/rRabbDe1Btbvl35s0Wg1KrTsmUKG3D9ez9yJua6p6rCaEeUZt85I2i5HubDq8pZHrv_EMKB06DoGDrR-kZu-CWH_b-OaVcSqpkpgwNMsD3OEfd0cxKy9_KnIU4ocuMoV7-FPAMjFSlC2LB5Q-FMq3asxlp0HkwPACrAihjGpu90/bqVSEYQ7Sa7fqqV5s1DF0568Kzk-0RkVXFaYBMp5QS8'
+  src: '/images/artists/facesheet/westley-thornton.webp'
   alt: 'Press photo for Westley Thornton'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: 'TBD'
     set_end: 'TBD'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/akSep4BCDLoodwDnUtPCZg/rRabbDe1Btbvl35s0Wg1KrTsmUKG3D9ez9yJua6p6rCaEeUZt85I2i5HubDq8pZHrv_EMKB06DoGDrR-kZu-CWH_b-OaVcSqpkpgwNMsD3OEfd0cxKy9_KnIU4ocuMoV7-FPAMjFSlC2LB5Q-FMq3asxlp0HkwPACrAihjGpu90/bqVSEYQ7Sa7fqqV5s1DF0568Kzk-0RkVXFaYBMp5QS8'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'IMG_4500.jpeg'
 ---
 
 Westley Thornton is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Westley Thornton is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | GRAND ARTIQUE | TBD - TBD
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/akSep4BCDLoodwDnUtPCZg/rRabbDe1Btbvl35s0Wg1KrTsmUKG3D9ez9yJua6p6rCaEeUZt85I2i5HubDq8pZHrv_EMKB06DoGDrR-kZu-CWH_b-OaVcSqpkpgwNMsD3OEfd0cxKy9_KnIU4ocuMoV7-FPAMjFSlC2LB5Q-FMq3asxlp0HkwPACrAihjGpu90/bqVSEYQ7Sa7fqqV5s1DF0568Kzk-0RkVXFaYBMp5QS8
+- IMG_4500.jpeg

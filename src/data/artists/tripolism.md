@@ -3,15 +3,25 @@ name: 'TRIPOLISM'
 stage_name: 'TRIPOLISM'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/CFrBj-VCIHgfl0WUSB1buw/NO4MheC-PPsbx-b9j_t4-W8FshBLKfdpy3aQ_mQr4RP5plXyerhzRucvPFFWADsBPOAb3w-sBf8Mvcqk3IC_A1ejkG-Shqbk5graREAv1FSy2rxOMYqu6Rja63Nw5Z3QICAxDXL_GCpp6T1LthaqSCxzntgPn57mRDSb1E147T9aNOxMKdYnF_VfKatYD7uHzLde0F2r-yXeh5m09k9b9Q/wkOz9haolq_WO8sGVCTp7lDASTwQcyrHppTrvkaC1Fw'
+  src: '/images/artists/facesheet/tripolism.webp'
   alt: 'Press photo for TRIPOLISM'
 performances:
   - stage: 'WOOGIE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '10:00 PM'
     set_end: '12:00 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/CFrBj-VCIHgfl0WUSB1buw/NO4MheC-PPsbx-b9j_t4-W8FshBLKfdpy3aQ_mQr4RP5plXyerhzRucvPFFWADsBPOAb3w-sBf8Mvcqk3IC_A1ejkG-Shqbk5graREAv1FSy2rxOMYqu6Rja63Nw5Z3QICAxDXL_GCpp6T1LthaqSCxzntgPn57mRDSb1E147T9aNOxMKdYnF_VfKatYD7uHzLde0F2r-yXeh5m09k9b9Q/wkOz9haolq_WO8sGVCTp7lDASTwQcyrHppTrvkaC1Fw'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'TRIPOLISM-Greenroom-Woogie 1'
+    greenroom_start: '5/24/2026 9:00pm'
+    greenroom_end: '5/25/2026 1:30am'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'TRIPOLISM PRESS PICTURES X JONAS DIESING 239.jpg'
 ---
 
 TRIPOLISM is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ TRIPOLISM is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | WOOGIE | 10:00 PM - 12:00 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/CFrBj-VCIHgfl0WUSB1buw/NO4MheC-PPsbx-b9j_t4-W8FshBLKfdpy3aQ_mQr4RP5plXyerhzRucvPFFWADsBPOAb3w-sBf8Mvcqk3IC_A1ejkG-Shqbk5graREAv1FSy2rxOMYqu6Rja63Nw5Z3QICAxDXL_GCpp6T1LthaqSCxzntgPn57mRDSb1E147T9aNOxMKdYnF_VfKatYD7uHzLde0F2r-yXeh5m09k9b9Q/wkOz9haolq_WO8sGVCTp7lDASTwQcyrHppTrvkaC1Fw
+- TRIPOLISM PRESS PICTURES X JONAS DIESING 239.jpg

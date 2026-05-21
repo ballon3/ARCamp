@@ -3,19 +3,29 @@ name: 'Henry Pope'
 stage_name: 'Henry Pope'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/_Z97i_eUnBFJ6-y4oJjFBg/x8XcT7Pp0-QfUJpNBemNfjgra1naoEo4e1PdHPeDZ9x0ZkiWUyAmvza-zw3OHdoK7Hokaj-u903YLcz1Fa8rMPTzdcdn9I2PPuP_NAUi2_SLRLcS-8UKg70IdY4EWO5560xBBwptSwqOklkHh97Zr5OSozwjHkm7opQ3eIETW5PWG3fYf-KHTJToX6xu7LOk/iJCJzj5dGgCr4EC1945Bj9vBdN_t7uyU0qXgU-5W3GE'
+  src: '/images/artists/facesheet/henry-pope.webp'
   alt: 'Press photo for Henry Pope'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '1:20 AM'
     set_end: '2:35 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/_Z97i_eUnBFJ6-y4oJjFBg/x8XcT7Pp0-QfUJpNBemNfjgra1naoEo4e1PdHPeDZ9x0ZkiWUyAmvza-zw3OHdoK7Hokaj-u903YLcz1Fa8rMPTzdcdn9I2PPuP_NAUi2_SLRLcS-8UKg70IdY4EWO5560xBBwptSwqOklkHh97Zr5OSozwjHkm7opQ3eIETW5PWG3fYf-KHTJToX6xu7LOk/iJCJzj5dGgCr4EC1945Bj9vBdN_t7uyU0qXgU-5W3GE'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/AXqrrWBNzrFKBcTNes1zWw/YvAqmXAwA--_pPOSNfKR1vFwbkjL-5yI0xVTs2tCTqNamxMBNy03PQ8N3WUaI9EJmZLSBoQ-qcVArtDy6A1ACqoPkLhlU8_KRdnhyH0BV9XgEvAiuKJco3vHFJFJPT2OJz4AUkLknqctzfX_dKwlnEf0yIBCY8CutjR4wAAzXbd_tJPWMRG6FWguCcK8bV4L/sAIrzSYkyY938GtkVIYeZRcczgmw7FEq8xKmgts05rA'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/aeCsdFmi68rzxsXuR9l97Q/XLyDHHwMV7YZ0FV4TunB-glGhIaUHPESrewgllLOKHPD2qEGHcbMDjiZ7bWRrO7ty4DvNCEOEUt-sfG3Qwlc6Fzw1P77Wg900zaiAxAzaqp5Tph8A9QbxujGRsygLmAp5q_yk_YX9uhXVTQsvBa58ekWEuFcbN8utZzrI_eCMzAwPOG8QavlZwDUqXCU5WVw/4Jcm2N3l1VWvx_3L3uf1yi3GlOU8u9PxP3LQAciyh60'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/q1x50M0YwRd0NMOWQX0apA/WlCDhgQVFqSuCcTYCkDjM3IVqGdFMFS-DtOgfKehqSw6f1hodGdZ8C5D8tCjRgMjpKk3DI3BHL0KFqsVA7bK6gr_-fuafPO-8o69XuLKUpr7Z6xSTLQPOvg4sFj0tts2E7VlnEAUYJ_5J4inpUYJBHUxYKtkpftrnkU4yw9BNk_QyOAZBaNrN6fQPcELVxq2/4MCMJFZEzrnLn9SJ3-TGM24gmu6Tly39Rm5npOLsRq0'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dSZHUucyFrDpmG9FKKH1hQ/r0YSlQnboLrXRL46g7ngCCToTdWUDM8hEJ4gs1KcnRkh6xT6BUfaakTDQvVKo5iu1e44q2JZh99v6z8spZw5b1DIysqhviAkIoBhFABYxvwakOPSqP4QCSlYCQvPBenZXej5r_Zur6MKgFX_9sV_OV4t8VcVoxfTjSGRxCr42xo/DpgrJ3B4UfagyHcH8hvZJmnpsNYJA89HPLnF-qZxgW0'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'Screenshot 2026-05-08 at 7.41.18 PM.png'
+  - 'Screenshot 2026-05-08 at 7.40.58 PM.png'
+  - 'Screenshot 2026-05-08 at 7.40.31 PM.png'
+  - 'WhatsApp Image 2026-05-08 at 19.39.28.jpeg'
+  - 'HP Hires-17.jpg'
 ---
 
 Henry Pope is featured in the ARCamp artist facesheet.
@@ -24,10 +34,10 @@ Henry Pope is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | GRAND ARTIQUE | 1:20 AM - 2:35 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/_Z97i_eUnBFJ6-y4oJjFBg/x8XcT7Pp0-QfUJpNBemNfjgra1naoEo4e1PdHPeDZ9x0ZkiWUyAmvza-zw3OHdoK7Hokaj-u903YLcz1Fa8rMPTzdcdn9I2PPuP_NAUi2_SLRLcS-8UKg70IdY4EWO5560xBBwptSwqOklkHh97Zr5OSozwjHkm7opQ3eIETW5PWG3fYf-KHTJToX6xu7LOk/iJCJzj5dGgCr4EC1945Bj9vBdN_t7uyU0qXgU-5W3GE
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/AXqrrWBNzrFKBcTNes1zWw/YvAqmXAwA--_pPOSNfKR1vFwbkjL-5yI0xVTs2tCTqNamxMBNy03PQ8N3WUaI9EJmZLSBoQ-qcVArtDy6A1ACqoPkLhlU8_KRdnhyH0BV9XgEvAiuKJco3vHFJFJPT2OJz4AUkLknqctzfX_dKwlnEf0yIBCY8CutjR4wAAzXbd_tJPWMRG6FWguCcK8bV4L/sAIrzSYkyY938GtkVIYeZRcczgmw7FEq8xKmgts05rA
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/aeCsdFmi68rzxsXuR9l97Q/XLyDHHwMV7YZ0FV4TunB-glGhIaUHPESrewgllLOKHPD2qEGHcbMDjiZ7bWRrO7ty4DvNCEOEUt-sfG3Qwlc6Fzw1P77Wg900zaiAxAzaqp5Tph8A9QbxujGRsygLmAp5q_yk_YX9uhXVTQsvBa58ekWEuFcbN8utZzrI_eCMzAwPOG8QavlZwDUqXCU5WVw/4Jcm2N3l1VWvx_3L3uf1yi3GlOU8u9PxP3LQAciyh60
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/q1x50M0YwRd0NMOWQX0apA/WlCDhgQVFqSuCcTYCkDjM3IVqGdFMFS-DtOgfKehqSw6f1hodGdZ8C5D8tCjRgMjpKk3DI3BHL0KFqsVA7bK6gr_-fuafPO-8o69XuLKUpr7Z6xSTLQPOvg4sFj0tts2E7VlnEAUYJ_5J4inpUYJBHUxYKtkpftrnkU4yw9BNk_QyOAZBaNrN6fQPcELVxq2/4MCMJFZEzrnLn9SJ3-TGM24gmu6Tly39Rm5npOLsRq0
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dSZHUucyFrDpmG9FKKH1hQ/r0YSlQnboLrXRL46g7ngCCToTdWUDM8hEJ4gs1KcnRkh6xT6BUfaakTDQvVKo5iu1e44q2JZh99v6z8spZw5b1DIysqhviAkIoBhFABYxvwakOPSqP4QCSlYCQvPBenZXej5r_Zur6MKgFX_9sV_OV4t8VcVoxfTjSGRxCr42xo/DpgrJ3B4UfagyHcH8hvZJmnpsNYJA89HPLnF-qZxgW0
+- Screenshot 2026-05-08 at 7.41.18 PM.png
+- Screenshot 2026-05-08 at 7.40.58 PM.png
+- Screenshot 2026-05-08 at 7.40.31 PM.png
+- WhatsApp Image 2026-05-08 at 19.39.28.jpeg
+- HP Hires-17.jpg

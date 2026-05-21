@@ -3,15 +3,25 @@ name: 'BIANCA MAIELI'
 stage_name: 'BIANCA MAIELI'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/z_ki682H5tOBaghlJQna0Q/AJbxo3u_YdLOZHOpkqtEnbt8lUXJaJN-CZ0FlUyq3owcUbZRhIVqw3C_4ibso49dLV1yNEyvXJJgcs16uFZ3wRtfNaSNMrVFnT9V2Zq-nQ9n6qdq2QoVj7gA2w36RbZC8-TwrbBVjSBWjhdQEv7UDhVO1mZdp0TL-XT7enaMhiXcgFuqDFLiCJJyWKeFj-Bx/zD32cWxrvyMotj7DpEtQoDHVaW0B9KCq4RlbR-yv_cM'
+  src: '/images/artists/facesheet/bianca-maieli.webp'
   alt: 'Press photo for BIANCA MAIELI'
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '3:25 PM'
     set_end: '4:40 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/z_ki682H5tOBaghlJQna0Q/AJbxo3u_YdLOZHOpkqtEnbt8lUXJaJN-CZ0FlUyq3owcUbZRhIVqw3C_4ibso49dLV1yNEyvXJJgcs16uFZ3wRtfNaSNMrVFnT9V2Zq-nQ9n6qdq2QoVj7gA2w36RbZC8-TwrbBVjSBWjhdQEv7UDhVO1mZdp0TL-XT7enaMhiXcgFuqDFLiCJJyWKeFj-Bx/zD32cWxrvyMotj7DpEtQoDHVaW0B9KCq4RlbR-yv_cM'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'BIANCA MAIELI-Greenroom-GR Trailer 18'
+    greenroom_start: '5/23/2026 2:00pm'
+    greenroom_end: '5/23/2026 7:00pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'profile pic april 2026.jpg'
 ---
 
 BIANCA MAIELI is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ BIANCA MAIELI is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | THUNDER | 3:25 PM - 4:40 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/z_ki682H5tOBaghlJQna0Q/AJbxo3u_YdLOZHOpkqtEnbt8lUXJaJN-CZ0FlUyq3owcUbZRhIVqw3C_4ibso49dLV1yNEyvXJJgcs16uFZ3wRtfNaSNMrVFnT9V2Zq-nQ9n6qdq2QoVj7gA2w36RbZC8-TwrbBVjSBWjhdQEv7UDhVO1mZdp0TL-XT7enaMhiXcgFuqDFLiCJJyWKeFj-Bx/zD32cWxrvyMotj7DpEtQoDHVaW0B9KCq4RlbR-yv_cM
+- profile pic april 2026.jpg

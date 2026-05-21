@@ -3,15 +3,25 @@ name: 'TRIXIE MATTEL'
 stage_name: 'TRIXIE MATTEL'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/vnF1qo2oc2CyGX0AjWetNw/ylMw2qIJ9uvS3mFCVBda_R-XAgnBwWceKwfi-8tCdVNL9czb5xj85cJRXwji5a4HuG8oioWPKqzzZzwIQ79Wr369L-OpWLAYbjB2GCRUARgU0mUzP-EiGVfJGzHPMQxK0XWa6FEI32RKfzbl0_cN76L9cj81FJ3WPlhXiF54PARSSvj_vQS80-eBiSTo035Z/UIsXgjnnj_cURIaXQpW-9mCzORUJtVWeZC-VFWh4sr0'
+  src: '/images/artists/facesheet/trixie-mattel.webp'
   alt: 'Press photo for TRIXIE MATTEL'
 performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: '5/23/2026 2:30 PM - 3:30 PM'
     set_start: '8:15 PM'
     set_end: '9:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/vnF1qo2oc2CyGX0AjWetNw/ylMw2qIJ9uvS3mFCVBda_R-XAgnBwWceKwfi-8tCdVNL9czb5xj85cJRXwji5a4HuG8oioWPKqzzZzwIQ79Wr369L-OpWLAYbjB2GCRUARgU0mUzP-EiGVfJGzHPMQxK0XWa6FEI32RKfzbl0_cN76L9cj81FJ3WPlhXiF54PARSSvj_vQS80-eBiSTo035Z/UIsXgjnnj_cURIaXQpW-9mCzORUJtVWeZC-VFWh4sr0'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TRIXIE MATTEL-Greenroom-GR Trailer 13,TRIXIE MATTEL-Greenroom-GR Trailer 15,TRIXIE MATTEL-Greenroom-GR Tent 2'
+    greenroom_start: '5/22/2026 1:30pm, 5/22/2026 1:30pm, 5/22/2026 1:30pm'
+    greenroom_end: '5/22/2026 11:00pm, 5/22/2026 11:00pm, 5/22/2026 11:00pm'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'Screenshot 2026-05-21 at 2.05.47 AM.png'
 ---
 
 TRIXIE MATTEL is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ TRIXIE MATTEL is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | LIGHTNING | 8:15 PM - 9:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/vnF1qo2oc2CyGX0AjWetNw/ylMw2qIJ9uvS3mFCVBda_R-XAgnBwWceKwfi-8tCdVNL9czb5xj85cJRXwji5a4HuG8oioWPKqzzZzwIQ79Wr369L-OpWLAYbjB2GCRUARgU0mUzP-EiGVfJGzHPMQxK0XWa6FEI32RKfzbl0_cN76L9cj81FJ3WPlhXiF54PARSSvj_vQS80-eBiSTo035Z/UIsXgjnnj_cURIaXQpW-9mCzORUJtVWeZC-VFWh4sr0
+- Screenshot 2026-05-21 at 2.05.47 AM.png

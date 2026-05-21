@@ -3,15 +3,25 @@ name: 'MAIN PHASE'
 stage_name: 'MAIN PHASE'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/_XEwRAW4hxEh53wTOr5Vbw/ZNHLL3CmrubbCyXc8_lKk5rORSVzI1-dv3QI3THKAmoDlORY_vCzokTQcN4w8ag7rky9pPWXXtywaqheK7O7usagLkpAn7A3HKlwFiIHo9gattcktxMw2T82yJC_8ZxpaVisszk2UzNfGxS-1sGzyoeckMMf4lbFYdZ-FgkSMFEOVdxnC4c2jDbdk575Y4ts/bEYBSHNpb456WFHe5up28Ze4r8TriWAwNnwP2mJ8aG4'
+  src: '/images/artists/facesheet/main-phase.webp'
   alt: 'Press photo for MAIN PHASE'
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '6:00 PM'
     set_end: '7:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/_XEwRAW4hxEh53wTOr5Vbw/ZNHLL3CmrubbCyXc8_lKk5rORSVzI1-dv3QI3THKAmoDlORY_vCzokTQcN4w8ag7rky9pPWXXtywaqheK7O7usagLkpAn7A3HKlwFiIHo9gattcktxMw2T82yJC_8ZxpaVisszk2UzNfGxS-1sGzyoeckMMf4lbFYdZ-FgkSMFEOVdxnC4c2jDbdk575Y4ts/bEYBSHNpb456WFHe5up28Ze4r8TriWAwNnwP2mJ8aG4'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'MAIN PHASE-Greenroom-GR Trailer 16'
+    greenroom_start: '5/23/2026 4:00pm'
+    greenroom_end: '5/23/2026 9:30pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'WhatsApp Image 2026-03-16 at 5.18.19 PM.jpg'
 ---
 
 MAIN PHASE is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ MAIN PHASE is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | THUNDER | 6:00 PM - 7:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/_XEwRAW4hxEh53wTOr5Vbw/ZNHLL3CmrubbCyXc8_lKk5rORSVzI1-dv3QI3THKAmoDlORY_vCzokTQcN4w8ag7rky9pPWXXtywaqheK7O7usagLkpAn7A3HKlwFiIHo9gattcktxMw2T82yJC_8ZxpaVisszk2UzNfGxS-1sGzyoeckMMf4lbFYdZ-FgkSMFEOVdxnC4c2jDbdk575Y4ts/bEYBSHNpb456WFHe5up28Ze4r8TriWAwNnwP2mJ8aG4
+- WhatsApp Image 2026-03-16 at 5.18.19 PM.jpg

@@ -3,15 +3,25 @@ name: 'The Wandering Menstruals'
 stage_name: 'The Wandering Menstruals'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/6kb7Q6UZ1CrEOPuZQ8gSEw/znElKDB_Wsw5zNtV4gPK4EczAEx5jc0w3r8YaajVpIKPOfP-HaQm7qkI5ZH4Pd26To8WXwjEU81Op-JJo6bOkOXOWwCIdkCfHN5Dg6Ne3dC1fHdMLOIGZaH3ss7ZCpWiNLL5Tobv55QxSEBJs6Vr1T4aLEt8oERLscys_GUS08k/vJSswDVRhAIheq3mxbAz2mIwOsKu8Lc5MKR2ZNOcjp8'
+  src: '/images/artists/facesheet/the-wandering-menstruals.webp'
   alt: 'Press photo for The Wandering Menstruals'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '1:00 PM'
     set_end: '2:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/6kb7Q6UZ1CrEOPuZQ8gSEw/znElKDB_Wsw5zNtV4gPK4EczAEx5jc0w3r8YaajVpIKPOfP-HaQm7qkI5ZH4Pd26To8WXwjEU81Op-JJo6bOkOXOWwCIdkCfHN5Dg6Ne3dC1fHdMLOIGZaH3ss7ZCpWiNLL5Tobv55QxSEBJs6Vr1T4aLEt8oERLscys_GUS08k/vJSswDVRhAIheq3mxbAz2mIwOsKu8Lc5MKR2ZNOcjp8'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'Untitled design.png'
 ---
 
 The Wandering Menstruals is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ The Wandering Menstruals is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | GRAND ARTIQUE | 1:00 PM - 2:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/6kb7Q6UZ1CrEOPuZQ8gSEw/znElKDB_Wsw5zNtV4gPK4EczAEx5jc0w3r8YaajVpIKPOfP-HaQm7qkI5ZH4Pd26To8WXwjEU81Op-JJo6bOkOXOWwCIdkCfHN5Dg6Ne3dC1fHdMLOIGZaH3ss7ZCpWiNLL5Tobv55QxSEBJs6Vr1T4aLEt8oERLscys_GUS08k/vJSswDVRhAIheq3mxbAz2mIwOsKu8Lc5MKR2ZNOcjp8
+- Untitled design.png

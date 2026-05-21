@@ -3,15 +3,25 @@ name: 'Brunch Life & Friends'
 stage_name: 'Brunch Life & Friends'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/VQ9CghY2Sv6IKBmK8jStgA/yVwLA-MXSPysYhX4wI-mhe9wpn9eaSjoxA5v4jV96XQck59qWM8JOy2fReOmBr3dWAw4z-V4PuCYAWRZ5We24CHmLp4X4qQQb1m_LT8czUjbJ0xufqcnaKekZQ2nVHd2hDBPdooSuf8pFSO0i72qKlYvnzR9upTaoF7TZVRtar0/ayJiXZjxT0MI8zbywJVy8Ny6vZj39gzurz__GFPiIG8'
+  src: '/images/artists/facesheet/brunch-life-and-friends.webp'
   alt: 'Press photo for Brunch Life & Friends'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '11:30 PM'
     set_end: '12:45 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/VQ9CghY2Sv6IKBmK8jStgA/yVwLA-MXSPysYhX4wI-mhe9wpn9eaSjoxA5v4jV96XQck59qWM8JOy2fReOmBr3dWAw4z-V4PuCYAWRZ5We24CHmLp4X4qQQb1m_LT8czUjbJ0xufqcnaKekZQ2nVHd2hDBPdooSuf8pFSO0i72qKlYvnzR9upTaoF7TZVRtar0/ayJiXZjxT0MI8zbywJVy8Ny6vZj39gzurz__GFPiIG8'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'Dollhouse group .jpeg'
 ---
 
 Brunch Life & Friends is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Brunch Life & Friends is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | GRAND ARTIQUE | 11:30 PM - 12:45 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/VQ9CghY2Sv6IKBmK8jStgA/yVwLA-MXSPysYhX4wI-mhe9wpn9eaSjoxA5v4jV96XQck59qWM8JOy2fReOmBr3dWAw4z-V4PuCYAWRZ5We24CHmLp4X4qQQb1m_LT8czUjbJ0xufqcnaKekZQ2nVHd2hDBPdooSuf8pFSO0i72qKlYvnzR9upTaoF7TZVRtar0/ayJiXZjxT0MI8zbywJVy8Ny6vZj39gzurz__GFPiIG8
+- Dollhouse group .jpeg

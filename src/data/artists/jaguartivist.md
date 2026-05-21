@@ -3,18 +3,28 @@ name: 'Jaguartivist'
 stage_name: 'Jaguartivist'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ZicPPvfAPb0hWCe1kMTDlQ/80mVRjz9rPuStTzt4bUi3aIb7zULin8VgvosIb0_P5G1lERk1fyVOXJ5UFKQd74OVgr4u99eRxaXeRvYuy6jCppCb68CCW5SfUh9WEan71fZcALWOja5hHYYS09suFolhuR3tnNqK0i5MDuVepD0wTZ7MzaM0BkdjHY9N7K9yHcZCXSetL52FdVQDwdnnAwN/z9GsyTmFAiJp--KAFXHPN39Ef8jKWxqVF2J8Z-MOmo0'
+  src: '/images/artists/facesheet/jaguartivist.webp'
   alt: 'Press photo for Jaguartivist'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'TBD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: 'TBD'
     set_end: 'TBD'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ZicPPvfAPb0hWCe1kMTDlQ/80mVRjz9rPuStTzt4bUi3aIb7zULin8VgvosIb0_P5G1lERk1fyVOXJ5UFKQd74OVgr4u99eRxaXeRvYuy6jCppCb68CCW5SfUh9WEan71fZcALWOja5hHYYS09suFolhuR3tnNqK0i5MDuVepD0wTZ7MzaM0BkdjHY9N7K9yHcZCXSetL52FdVQDwdnnAwN/z9GsyTmFAiJp--KAFXHPN39Ef8jKWxqVF2J8Z-MOmo0'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/1GLA8n8UpSdE74FjofvMOQ/JMZNZ6L7lr3_V2WF4H3nNFRuKWKiwnnJKmfmc5oJup8qHUgsBOjLOi5pjXSWz2L5wR6gfRCQ53n2Pskfhywz-Gch2l5i58vOVSJlIpRn42Ng6sml6FR0ry8VGIa2537UWkrvrQr9wzac4zYPCa5yq2XoM4nJWDRcVrIn0CZ6GNyn947_rJZNnF8JbrcSBivH/g9bTPEhdX6ttBtJKM_gwjwLH6N3irCsPfCwxN39Eb0E'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/uWCar6qPAC_XpEsllsjZNQ/uddnbNVCjmQbF6ivJh5wGbb4Wz-jUtAveriPatWIv9Q_gXVP0Hnhd4zsfJrY1VkK68kwITvQnGJFIpdY0C2_Ai8bb3yXJilHuWyg1lPozl4xGHQo5mJz5vRbrCvZh5yN-WMkTUm0_Bb8rxiZg22oGrLa1eIGRAc7G6uzYFw08UfowuKq56sa9FWttep6qc7o/Y8z8wD2mfeaxonmt9-RKbcy5FWnMQMOMWsjw_P1Cw-g'
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/zArU7oaQhHrXxx2fFGwgGw/iKvl6rejwXUqYHJOnch3USfW4LrnPiWkevT18S36VrrZhFpDlnWXSUUrFcP9S9Zcj3i3uSZ6ndtaNznkHLmYom7y0t-3wiRdcqKzlCy3J3X2kJ8s6nR6ol_ZsF0oRx0yoU2LNbtjMwTAPGutNrbvF5Nt2A1PsP9JKWPjfRt5DKWRJtSxIjd38ywiUqDCVU8N/b2asGGc5hdozLZ43ZH94drD2_B8693tsBrLDqpORGhY'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'TBD'
+press_photo_files:
+  - 'jaguartivist_LIB_2026Artboard 1-100.jpg'
+  - 'jaguartivist_LIB_2026Artboard 2-100.jpg'
+  - 'jaguartivist_LIB_2026Artboard 3-100.jpg'
+  - 'jaguartivist_LIB_2026Artboard 4-100.jpg'
 ---
 
 Jaguartivist is featured in the ARCamp artist facesheet.
@@ -23,9 +33,9 @@ Jaguartivist is featured in the ARCamp artist facesheet.
 
 - TBD | GRAND ARTIQUE | TBD - TBD
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ZicPPvfAPb0hWCe1kMTDlQ/80mVRjz9rPuStTzt4bUi3aIb7zULin8VgvosIb0_P5G1lERk1fyVOXJ5UFKQd74OVgr4u99eRxaXeRvYuy6jCppCb68CCW5SfUh9WEan71fZcALWOja5hHYYS09suFolhuR3tnNqK0i5MDuVepD0wTZ7MzaM0BkdjHY9N7K9yHcZCXSetL52FdVQDwdnnAwN/z9GsyTmFAiJp--KAFXHPN39Ef8jKWxqVF2J8Z-MOmo0
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/1GLA8n8UpSdE74FjofvMOQ/JMZNZ6L7lr3_V2WF4H3nNFRuKWKiwnnJKmfmc5oJup8qHUgsBOjLOi5pjXSWz2L5wR6gfRCQ53n2Pskfhywz-Gch2l5i58vOVSJlIpRn42Ng6sml6FR0ry8VGIa2537UWkrvrQr9wzac4zYPCa5yq2XoM4nJWDRcVrIn0CZ6GNyn947_rJZNnF8JbrcSBivH/g9bTPEhdX6ttBtJKM_gwjwLH6N3irCsPfCwxN39Eb0E
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/uWCar6qPAC_XpEsllsjZNQ/uddnbNVCjmQbF6ivJh5wGbb4Wz-jUtAveriPatWIv9Q_gXVP0Hnhd4zsfJrY1VkK68kwITvQnGJFIpdY0C2_Ai8bb3yXJilHuWyg1lPozl4xGHQo5mJz5vRbrCvZh5yN-WMkTUm0_Bb8rxiZg22oGrLa1eIGRAc7G6uzYFw08UfowuKq56sa9FWttep6qc7o/Y8z8wD2mfeaxonmt9-RKbcy5FWnMQMOMWsjw_P1Cw-g
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/zArU7oaQhHrXxx2fFGwgGw/iKvl6rejwXUqYHJOnch3USfW4LrnPiWkevT18S36VrrZhFpDlnWXSUUrFcP9S9Zcj3i3uSZ6ndtaNznkHLmYom7y0t-3wiRdcqKzlCy3J3X2kJ8s6nR6ol_ZsF0oRx0yoU2LNbtjMwTAPGutNrbvF5Nt2A1PsP9JKWPjfRt5DKWRJtSxIjd38ywiUqDCVU8N/b2asGGc5hdozLZ43ZH94drD2_B8693tsBrLDqpORGhY
+- jaguartivist_LIB_2026Artboard 1-100.jpg
+- jaguartivist_LIB_2026Artboard 2-100.jpg
+- jaguartivist_LIB_2026Artboard 3-100.jpg
+- jaguartivist_LIB_2026Artboard 4-100.jpg

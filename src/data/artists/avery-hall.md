@@ -3,15 +3,25 @@ name: 'Avery Hall'
 stage_name: 'Avery Hall'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WJy5G5mBrAo5xakzaAbMuA/RLwFSkxibh4Ym0rO-p-SkEWSUk3Js9Rv4YAhtkTnuhpBalX6Svplemzdq_zpmhghqxnfmrW3V7QXiPjV3OZ250taGc3QVGdNECD2eHLCErRSAxxoIGMQm_KeWBbU1C3moE37NrqbNhotgrStJ9V_WiZ3befCqo0MkMM-db3neFQ/Gv_2SIoGJn3w3hREBemnJYoaa1eQwzmNEKcvOGg7UjI'
+  src: '/images/artists/facesheet/avery-hall.webp'
   alt: 'Press photo for Avery Hall'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: 'TBD'
     set_end: 'TBD'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WJy5G5mBrAo5xakzaAbMuA/RLwFSkxibh4Ym0rO-p-SkEWSUk3Js9Rv4YAhtkTnuhpBalX6Svplemzdq_zpmhghqxnfmrW3V7QXiPjV3OZ250taGc3QVGdNECD2eHLCErRSAxxoIGMQm_KeWBbU1C3moE37NrqbNhotgrStJ9V_WiZ3befCqo0MkMM-db3neFQ/Gv_2SIoGJn3w3hREBemnJYoaa1eQwzmNEKcvOGg7UjI'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'IMG_2620.jpeg'
 ---
 
 Avery Hall is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Avery Hall is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | GRAND ARTIQUE | TBD - TBD
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/WJy5G5mBrAo5xakzaAbMuA/RLwFSkxibh4Ym0rO-p-SkEWSUk3Js9Rv4YAhtkTnuhpBalX6Svplemzdq_zpmhghqxnfmrW3V7QXiPjV3OZ250taGc3QVGdNECD2eHLCErRSAxxoIGMQm_KeWBbU1C3moE37NrqbNhotgrStJ9V_WiZ3befCqo0MkMM-db3neFQ/Gv_2SIoGJn3w3hREBemnJYoaa1eQwzmNEKcvOGg7UjI
+- IMG_2620.jpeg

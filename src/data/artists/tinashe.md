@@ -3,15 +3,25 @@ name: 'TINASHE'
 stage_name: 'TINASHE'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/G9YW5kg_k4yPfOqiNeLCbQ/UA3KsCUitm5dQBWY4R6mmpdxRVpH_Vo7w6nPI5dMFKBlIBElB1GmVCt8bYXWDbNiGUYwYTxEuR84aE_Lc9cdmMlxNyYl96RirzoJl59dmUnMQKw6kQ--NlKGc_RH_32XCQ8PRtq_F0dmp5RfMgLDBw/LB_32cDk_KIE5zZlbTU50vCC2_ItNsVAlEGu58Y0Os8'
+  src: '/images/artists/facesheet/tinashe.webp'
   alt: 'Press photo for TINASHE'
 performances:
   - stage: 'LIGHTNING'
     day: 'SUNDAY MAY 24TH'
+    programming_time: '5/24/2026 4:30 AM - 6:30 PM'
+    soundcheck_time: '5/24/2026 4:00 PM - 5:00 PM'
     set_start: '9:00 PM'
     set_end: '10:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/G9YW5kg_k4yPfOqiNeLCbQ/UA3KsCUitm5dQBWY4R6mmpdxRVpH_Vo7w6nPI5dMFKBlIBElB1GmVCt8bYXWDbNiGUYwYTxEuR84aE_Lc9cdmMlxNyYl96RirzoJl59dmUnMQKw6kQ--NlKGc_RH_32XCQ8PRtq_F0dmp5RfMgLDBw/LB_32cDk_KIE5zZlbTU50vCC2_ItNsVAlEGu58Y0Os8'
+    confirmed_greenrooms: '2.0'
+    green_room_sched: 'TINASHE-Greenroom-GR Trailer 13,TINASHE-Greenroom-GR Tent 2'
+    greenroom_start: '5/24/2026 10:00am, 5/24/2026 10:00am'
+    greenroom_end: '5/25/2026 12:00am, 5/25/2026 12:00am'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - '2320.webp'
 ---
 
 TINASHE is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ TINASHE is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | LIGHTNING | 9:00 PM - 10:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/G9YW5kg_k4yPfOqiNeLCbQ/UA3KsCUitm5dQBWY4R6mmpdxRVpH_Vo7w6nPI5dMFKBlIBElB1GmVCt8bYXWDbNiGUYwYTxEuR84aE_Lc9cdmMlxNyYl96RirzoJl59dmUnMQKw6kQ--NlKGc_RH_32XCQ8PRtq_F0dmp5RfMgLDBw/LB_32cDk_KIE5zZlbTU50vCC2_ItNsVAlEGu58Y0Os8
+- 2320.webp

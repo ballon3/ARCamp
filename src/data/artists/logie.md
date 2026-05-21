@@ -3,15 +3,25 @@ name: 'Logie'
 stage_name: 'Logie'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/yO98oX9U4LaRpoHtPZzFTA/vkeVFtLlN9wRZ_TRS6PO7ymKf__Fam1hUAeE2HrkcrdkrQeOtbD-E0C59MGlkH-4Z1j_QbulNmlYInkt2Zeeed1YVlev5p2pkZtZ1j3f26q2jZJmdgCOOPEVRBrltJLN8mznN7fzAcX4nvJa8XgKcTX-8CgDOitqTwPoT91rqxIURgH3jl40HNAHGRQRFmzmzxFGf5hpx-QBL6UWLhw4lQ/YRXGyvNqgNPIvv2ETDaAzablt0hydnZFb9VZdhwEgLI'
+  src: '/images/artists/facesheet/logie.webp'
   alt: 'Press photo for Logie'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '9:00 PM'
     set_end: '10:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/yO98oX9U4LaRpoHtPZzFTA/vkeVFtLlN9wRZ_TRS6PO7ymKf__Fam1hUAeE2HrkcrdkrQeOtbD-E0C59MGlkH-4Z1j_QbulNmlYInkt2Zeeed1YVlev5p2pkZtZ1j3f26q2jZJmdgCOOPEVRBrltJLN8mznN7fzAcX4nvJa8XgKcTX-8CgDOitqTwPoT91rqxIURgH3jl40HNAHGRQRFmzmzxFGf5hpx-QBL6UWLhw4lQ/YRXGyvNqgNPIvv2ETDaAzablt0hydnZFb9VZdhwEgLI'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'F1781D76-338C-4562-AFA8-2B110EDECE08_1_105_c.jpeg'
 ---
 
 Logie is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Logie is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | GRAND ARTIQUE | 9:00 PM - 10:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/yO98oX9U4LaRpoHtPZzFTA/vkeVFtLlN9wRZ_TRS6PO7ymKf__Fam1hUAeE2HrkcrdkrQeOtbD-E0C59MGlkH-4Z1j_QbulNmlYInkt2Zeeed1YVlev5p2pkZtZ1j3f26q2jZJmdgCOOPEVRBrltJLN8mznN7fzAcX4nvJa8XgKcTX-8CgDOitqTwPoT91rqxIURgH3jl40HNAHGRQRFmzmzxFGf5hpx-QBL6UWLhw4lQ/YRXGyvNqgNPIvv2ETDaAzablt0hydnZFb9VZdhwEgLI
+- F1781D76-338C-4562-AFA8-2B110EDECE08_1_105_c.jpeg

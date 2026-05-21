@@ -3,15 +3,25 @@ name: 'DONNA DADA'
 stage_name: 'DONNA DADA'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/H8uwVzNI5JOxlCzyX8w5Ug/GMi4il4Iotw78fwAhkoakT2lof4Lu3HBjC4NVbBV2nqUfQOGLCNaiEJPVhHVFAx0ABPjQooDcX66i85inFfQC582Ma78P_KjqAgqg7N2fZjiQBVsaKRyXyayBTX5fyPwyctTglmxVyugXFZBtrJK23ccF0eOvtFGcXOb1p_Lz6LLVqDWJDzNkVa0sNCwUgUb/eD7and45ISE44QnkW4E9VBAWvxTAwfZpoYsjkce_O1I'
+  src: '/images/artists/facesheet/donna-dada.webp'
   alt: 'Press photo for DONNA DADA'
 performances:
   - stage: 'THUNDER'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '3:35 PM'
     set_end: '4:50 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/H8uwVzNI5JOxlCzyX8w5Ug/GMi4il4Iotw78fwAhkoakT2lof4Lu3HBjC4NVbBV2nqUfQOGLCNaiEJPVhHVFAx0ABPjQooDcX66i85inFfQC582Ma78P_KjqAgqg7N2fZjiQBVsaKRyXyayBTX5fyPwyctTglmxVyugXFZBtrJK23ccF0eOvtFGcXOb1p_Lz6LLVqDWJDzNkVa0sNCwUgUb/eD7and45ISE44QnkW4E9VBAWvxTAwfZpoYsjkce_O1I'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'DONNA DADA-Greenroom-GR Trailer 16'
+    greenroom_start: '5/22/2026 1:00pm'
+    greenroom_end: '5/22/2026 6:00pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'donna dada - cred skye olesen cormack.jpg'
 ---
 
 DONNA DADA is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ DONNA DADA is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | THUNDER | 3:35 PM - 4:50 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/H8uwVzNI5JOxlCzyX8w5Ug/GMi4il4Iotw78fwAhkoakT2lof4Lu3HBjC4NVbBV2nqUfQOGLCNaiEJPVhHVFAx0ABPjQooDcX66i85inFfQC582Ma78P_KjqAgqg7N2fZjiQBVsaKRyXyayBTX5fyPwyctTglmxVyugXFZBtrJK23ccF0eOvtFGcXOb1p_Lz6LLVqDWJDzNkVa0sNCwUgUb/eD7and45ISE44QnkW4E9VBAWvxTAwfZpoYsjkce_O1I
+- donna dada - cred skye olesen cormack.jpg

@@ -3,15 +3,25 @@ name: 'King Bubble'
 stage_name: 'King Bubble'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/suL8YBEdOvpDa3s7ZVOVDw/rSxj5Ti4OavePb3G-GkZ3ZykPf3KX22eYuuZWsMNjiJlCXh4ciOdmGCUfwwZUSm2PzizmlgyI7KRvIkAyneXMSx7cJEjmS2nkiZXOJ9M1n-ZjwjwPZEK_ivUxkk-gN-7YbK7aGFJC4UgbDzAwBlF9-_dkxPdUwiWvxISOe5Tz30/JfoptL9Rpn88YKBPUiL4h8inLKwJrFLj42YB_-VqsyM'
+  src: '/images/artists/facesheet/king-bubble.webp'
   alt: 'Press photo for King Bubble'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '8:45 PM'
     set_end: '10:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/suL8YBEdOvpDa3s7ZVOVDw/rSxj5Ti4OavePb3G-GkZ3ZykPf3KX22eYuuZWsMNjiJlCXh4ciOdmGCUfwwZUSm2PzizmlgyI7KRvIkAyneXMSx7cJEjmS2nkiZXOJ9M1n-ZjwjwPZEK_ivUxkk-gN-7YbK7aGFJC4UgbDzAwBlF9-_dkxPdUwiWvxISOe5Tz30/JfoptL9Rpn88YKBPUiL4h8inLKwJrFLj42YB_-VqsyM'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - '_SX29867.JPG'
 ---
 
 King Bubble is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ King Bubble is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | GRAND ARTIQUE | 8:45 PM - 10:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/suL8YBEdOvpDa3s7ZVOVDw/rSxj5Ti4OavePb3G-GkZ3ZykPf3KX22eYuuZWsMNjiJlCXh4ciOdmGCUfwwZUSm2PzizmlgyI7KRvIkAyneXMSx7cJEjmS2nkiZXOJ9M1n-ZjwjwPZEK_ivUxkk-gN-7YbK7aGFJC4UgbDzAwBlF9-_dkxPdUwiWvxISOe5Tz30/JfoptL9Rpn88YKBPUiL4h8inLKwJrFLj42YB_-VqsyM
+- _SX29867.JPG

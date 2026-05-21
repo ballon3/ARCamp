@@ -3,15 +3,25 @@ name: 'BASS TEMPLE'
 stage_name: 'BASS TEMPLE'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/eZTy8RAiMYGSKRHgmM1p1g/mqH69KLhLO0ELWabL66_eChzYiz2HQYzTVhvNBO3xis37RDfCCdLbLGJMfq37VwrrkD9SpxwMGCWjss5q_BQEM6NBmfwFESgctKntQH4BDDCVvpjBZ7sMizA5j42uQ1rjCb08hHUEIuRrFp8h6Gl2RZqUj0q_77s-hlnE6cnh1Y/eMc8EnIiu14u8j9qCHacEjenMpeOJ4W8syqJ62d0Utc'
+  src: '/images/artists/facesheet/bass-temple.webp'
   alt: 'Press photo for BASS TEMPLE'
 performances:
   - stage: 'THUNDER'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '1:05 PM'
     set_end: '2:20 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/eZTy8RAiMYGSKRHgmM1p1g/mqH69KLhLO0ELWabL66_eChzYiz2HQYzTVhvNBO3xis37RDfCCdLbLGJMfq37VwrrkD9SpxwMGCWjss5q_BQEM6NBmfwFESgctKntQH4BDDCVvpjBZ7sMizA5j42uQ1rjCb08hHUEIuRrFp8h6Gl2RZqUj0q_77s-hlnE6cnh1Y/eMc8EnIiu14u8j9qCHacEjenMpeOJ4W8syqJ62d0Utc'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'BASS TEMPLE-Greenroom-GR Trailer 18'
+    greenroom_start: '5/22/2026 11:30am'
+    greenroom_end: '5/22/2026 4:30pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'DSC_0638 3.jpg'
 ---
 
 BASS TEMPLE is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ BASS TEMPLE is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | THUNDER | 1:05 PM - 2:20 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/eZTy8RAiMYGSKRHgmM1p1g/mqH69KLhLO0ELWabL66_eChzYiz2HQYzTVhvNBO3xis37RDfCCdLbLGJMfq37VwrrkD9SpxwMGCWjss5q_BQEM6NBmfwFESgctKntQH4BDDCVvpjBZ7sMizA5j42uQ1rjCb08hHUEIuRrFp8h6Gl2RZqUj0q_77s-hlnE6cnh1Y/eMc8EnIiu14u8j9qCHacEjenMpeOJ4W8syqJ62d0Utc
+- DSC_0638 3.jpg

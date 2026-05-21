@@ -3,15 +3,25 @@ name: 'Red Giant Project'
 stage_name: 'Red Giant Project'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/hIhZRIhZMaRzIFGtHyng9g/EizeuUu48cId4qKRNlLNsOS5-2YYOmESp0_z-QdtTYfEOUgtO3o0q3plq70uwS_ppHPksUb0la84M8QS2epjD3pTzStNKb1AK3hmjdGHV18IxZ-3MMhI2cEaqRRjQTOtVnA0cGJ1sbGdOLQJapnHMAz8NJP4h2hlfw2CKvY8JRWpKKzE4SD3w0jih4iZa__U/YRnL4hpqWY5EshcP7zmYaZ14ovl1VdzE1FprSX934wE'
+  src: '/images/artists/facesheet/red-giant-project.webp'
   alt: 'Press photo for Red Giant Project'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '2:45 AM'
     set_end: '4:00 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/hIhZRIhZMaRzIFGtHyng9g/EizeuUu48cId4qKRNlLNsOS5-2YYOmESp0_z-QdtTYfEOUgtO3o0q3plq70uwS_ppHPksUb0la84M8QS2epjD3pTzStNKb1AK3hmjdGHV18IxZ-3MMhI2cEaqRRjQTOtVnA0cGJ1sbGdOLQJapnHMAz8NJP4h2hlfw2CKvY8JRWpKKzE4SD3w0jih4iZa__U/YRnL4hpqWY5EshcP7zmYaZ14ovl1VdzE1FprSX934wE'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'RGP.BMGR.2023.selects-24.jpeg'
 ---
 
 Red Giant Project is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Red Giant Project is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | GRAND ARTIQUE | 2:45 AM - 4:00 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/hIhZRIhZMaRzIFGtHyng9g/EizeuUu48cId4qKRNlLNsOS5-2YYOmESp0_z-QdtTYfEOUgtO3o0q3plq70uwS_ppHPksUb0la84M8QS2epjD3pTzStNKb1AK3hmjdGHV18IxZ-3MMhI2cEaqRRjQTOtVnA0cGJ1sbGdOLQJapnHMAz8NJP4h2hlfw2CKvY8JRWpKKzE4SD3w0jih4iZa__U/YRnL4hpqWY5EshcP7zmYaZ14ovl1VdzE1FprSX934wE
+- RGP.BMGR.2023.selects-24.jpeg

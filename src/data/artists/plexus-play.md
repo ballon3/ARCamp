@@ -3,15 +3,25 @@ name: 'Plexus Play'
 stage_name: 'Plexus Play'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ovTKDQer5Fml1k_efQpQww/ZshjLWaa6cFoUS9bo8N0drK1bge_qMsWfKRU2G6gnZuDSw1wyOh8kj31Sm6pUtWtjQtyK1wYsIWkVxMgYQ76UwJarYtYsmQLYYKlP21K7HXpFinQvf-S_Pjq8-wNx5YpIAp7KV1RdAF7imX9mYlt91UrF-PmIIvZm1lbS8l_q1VFjFpby6kejXaA4FD0QWk-/Xn2gHVcHTD0RnY1CAYDNaJOTYXXR8iy2DRpaj8fh190'
+  src: '/images/artists/facesheet/plexus-play.webp'
   alt: 'Press photo for Plexus Play'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '10:30 PM'
     set_end: '11:45 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ovTKDQer5Fml1k_efQpQww/ZshjLWaa6cFoUS9bo8N0drK1bge_qMsWfKRU2G6gnZuDSw1wyOh8kj31Sm6pUtWtjQtyK1wYsIWkVxMgYQ76UwJarYtYsmQLYYKlP21K7HXpFinQvf-S_Pjq8-wNx5YpIAp7KV1RdAF7imX9mYlt91UrF-PmIIvZm1lbS8l_q1VFjFpby6kejXaA4FD0QWk-/Xn2gHVcHTD0RnY1CAYDNaJOTYXXR8iy2DRpaj8fh190'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'Plexusplay Headshot Mallets.jpg'
 ---
 
 Plexus Play is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Plexus Play is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | GRAND ARTIQUE | 10:30 PM - 11:45 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ovTKDQer5Fml1k_efQpQww/ZshjLWaa6cFoUS9bo8N0drK1bge_qMsWfKRU2G6gnZuDSw1wyOh8kj31Sm6pUtWtjQtyK1wYsIWkVxMgYQ76UwJarYtYsmQLYYKlP21K7HXpFinQvf-S_Pjq8-wNx5YpIAp7KV1RdAF7imX9mYlt91UrF-PmIIvZm1lbS8l_q1VFjFpby6kejXaA4FD0QWk-/Xn2gHVcHTD0RnY1CAYDNaJOTYXXR8iy2DRpaj8fh190
+- Plexusplay Headshot Mallets.jpg

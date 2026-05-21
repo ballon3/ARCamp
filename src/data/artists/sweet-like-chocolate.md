@@ -3,15 +3,25 @@ name: 'SWEET LIKE CHOCOLATE'
 stage_name: 'SWEET LIKE CHOCOLATE'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/vLXInekI5FvoQIe73ovCJA/V2DKEUVGQfsYzLyMV1AyKtlePHqdw1onKGL_LvgzMwhjSXqgz-JTjnrjSW6nrNxw_fQ3jhMewToM-0mv1OjqwLhRkUPrLWWpNqaod_n8VI1cq8qMCW0isyPSDYucTJ0JQyqcoJFb-8t-OCZLMYob69SeWd6a8lk-u8gxfx4F7zE/-okdTXXK_uKPxxSXlOeELExt_JcMLwYwJk5oIuNeWLs'
+  src: '/images/artists/facesheet/sweet-like-chocolate.webp'
   alt: 'Press photo for SWEET LIKE CHOCOLATE'
 performances:
   - stage: 'WOOGIE'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '1:55 PM'
     set_end: '3:50 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/vLXInekI5FvoQIe73ovCJA/V2DKEUVGQfsYzLyMV1AyKtlePHqdw1onKGL_LvgzMwhjSXqgz-JTjnrjSW6nrNxw_fQ3jhMewToM-0mv1OjqwLhRkUPrLWWpNqaod_n8VI1cq8qMCW0isyPSDYucTJ0JQyqcoJFb-8t-OCZLMYob69SeWd6a8lk-u8gxfx4F7zE/-okdTXXK_uKPxxSXlOeELExt_JcMLwYwJk5oIuNeWLs'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'SWEET LIKE CHOCOLATE-Greenroom-Woogie 2'
+    greenroom_start: '5/24/2026 1:00pm'
+    greenroom_end: '5/24/2026 5:30pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - '1).jpg'
 ---
 
 SWEET LIKE CHOCOLATE is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ SWEET LIKE CHOCOLATE is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | WOOGIE | 1:55 PM - 3:50 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/vLXInekI5FvoQIe73ovCJA/V2DKEUVGQfsYzLyMV1AyKtlePHqdw1onKGL_LvgzMwhjSXqgz-JTjnrjSW6nrNxw_fQ3jhMewToM-0mv1OjqwLhRkUPrLWWpNqaod_n8VI1cq8qMCW0isyPSDYucTJ0JQyqcoJFb-8t-OCZLMYob69SeWd6a8lk-u8gxfx4F7zE/-okdTXXK_uKPxxSXlOeELExt_JcMLwYwJk5oIuNeWLs
+- 1).jpg

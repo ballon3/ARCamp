@@ -3,15 +3,25 @@ name: 'Sacredsouldier'
 stage_name: 'Sacredsouldier'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dkZCpq_EfVMHBasPahZEKw/t78ekayH4dAF35FWw6_Up2p9I-jlHeMwnnr0EgqUrETPU-Ov8UvCyRCnW3UiMyl7eIp__pqw8AOi_XHF4KPDZtbxkSkD5lx4PyV8zx4TIHt0k5srOBGu29eTS2nwUKKPGLqwIayT23OafKV7Ac9aZNXsUUD2bbfr6gQjoetPXCw/oy1CPvcbr4CnD1eT8DSkuud4x1PsNoOFEgjaaiKAz3s'
+  src: '/images/artists/facesheet/sacredsouldier.webp'
   alt: 'Press photo for Sacredsouldier'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '1:15 AM'
     set_end: '2:30 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dkZCpq_EfVMHBasPahZEKw/t78ekayH4dAF35FWw6_Up2p9I-jlHeMwnnr0EgqUrETPU-Ov8UvCyRCnW3UiMyl7eIp__pqw8AOi_XHF4KPDZtbxkSkD5lx4PyV8zx4TIHt0k5srOBGu29eTS2nwUKKPGLqwIayT23OafKV7Ac9aZNXsUUD2bbfr6gQjoetPXCw/oy1CPvcbr4CnD1eT8DSkuud4x1PsNoOFEgjaaiKAz3s'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'IMG_3742.jpeg'
 ---
 
 Sacredsouldier is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ Sacredsouldier is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | GRAND ARTIQUE | 1:15 AM - 2:30 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/dkZCpq_EfVMHBasPahZEKw/t78ekayH4dAF35FWw6_Up2p9I-jlHeMwnnr0EgqUrETPU-Ov8UvCyRCnW3UiMyl7eIp__pqw8AOi_XHF4KPDZtbxkSkD5lx4PyV8zx4TIHt0k5srOBGu29eTS2nwUKKPGLqwIayT23OafKV7Ac9aZNXsUUD2bbfr6gQjoetPXCw/oy1CPvcbr4CnD1eT8DSkuud4x1PsNoOFEgjaaiKAz3s
+- IMG_3742.jpeg

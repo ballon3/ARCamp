@@ -3,15 +3,25 @@ name: 'CHASE & STATUS'
 stage_name: 'CHASE & STATUS'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/PD0usqM3Sn0Effh4G8amFg/dWo2USxAGdbQjuEPk8T4ZPKeChEOmNzO8aBL9f4U8uNXDiVw6NSDjb-NCL90jzIa_DEvKTaz4THfsd8mJps0j4WOBTjlE-zzo7Kiue_iWQaGEMGWSpx-assY3sPkbW6aPjovroAG8TY9lWMHPgOwXYSGeOLetVVFr29CzeDA_oM/ocwIVunlpYQ78qliS-AhJFRp7KwlLhMJGO-Nv2mY8Qk'
+  src: '/images/artists/facesheet/chase-and-status.webp'
   alt: 'Press photo for CHASE & STATUS'
 performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
+    programming_time: '5/23/2026 2:15 AM - 4:15 AM'
+    soundcheck_time: '9:00 AM - 11:00 AM'
     set_start: '12:30 AM'
     set_end: '2:00 AM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/PD0usqM3Sn0Effh4G8amFg/dWo2USxAGdbQjuEPk8T4ZPKeChEOmNzO8aBL9f4U8uNXDiVw6NSDjb-NCL90jzIa_DEvKTaz4THfsd8mJps0j4WOBTjlE-zzo7Kiue_iWQaGEMGWSpx-assY3sPkbW6aPjovroAG8TY9lWMHPgOwXYSGeOLetVVFr29CzeDA_oM/ocwIVunlpYQ78qliS-AhJFRp7KwlLhMJGO-Nv2mY8Qk'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'CHASE & STATUS-Greenroom-GR Trailer 6'
+    greenroom_start: '5/22/2026 8:00am'
+    greenroom_end: '5/23/2026 3:00am'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'C&S Press.png'
 ---
 
 CHASE & STATUS is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ CHASE & STATUS is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | LIGHTNING | 12:30 AM - 2:00 AM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/PD0usqM3Sn0Effh4G8amFg/dWo2USxAGdbQjuEPk8T4ZPKeChEOmNzO8aBL9f4U8uNXDiVw6NSDjb-NCL90jzIa_DEvKTaz4THfsd8mJps0j4WOBTjlE-zzo7Kiue_iWQaGEMGWSpx-assY3sPkbW6aPjovroAG8TY9lWMHPgOwXYSGeOLetVVFr29CzeDA_oM/ocwIVunlpYQ78qliS-AhJFRp7KwlLhMJGO-Nv2mY8Qk
+- C&S Press.png

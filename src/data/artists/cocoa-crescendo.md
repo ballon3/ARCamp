@@ -3,15 +3,25 @@ name: 'COCOA CRESCENDO'
 stage_name: 'COCOA CRESCENDO'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5a9eu7GbHYppiRX2nMFyfg/FKB0qEvUYq3JcU6NC7n_AZY_DDTnUPfAdjmRWpOWmGGZeKWJZ1aV94txbvYG2iO2pcblC3FH3Tcc7mxSUJbCeitey-KWiSadWIOgFxHHWrlDSQpSRUq6v23D3TcB1wK-TjUGadYoOFVPSYNloOIl-A/PJt3JCjUN5Sc1RlHXgwt9NnmnYejpaKBGC_aXVmSZiQ'
+  src: '/images/artists/facesheet/cocoa-crescendo.webp'
   alt: 'Press photo for COCOA CRESCENDO'
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '1:00 PM'
     set_end: '2:10 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5a9eu7GbHYppiRX2nMFyfg/FKB0qEvUYq3JcU6NC7n_AZY_DDTnUPfAdjmRWpOWmGGZeKWJZ1aV94txbvYG2iO2pcblC3FH3Tcc7mxSUJbCeitey-KWiSadWIOgFxHHWrlDSQpSRUq6v23D3TcB1wK-TjUGadYoOFVPSYNloOIl-A/PJt3JCjUN5Sc1RlHXgwt9NnmnYejpaKBGC_aXVmSZiQ'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'COCOA CRESCENDO-Greenroom-GR Trailer 14'
+    greenroom_start: '5/23/2026 11:30am'
+    greenroom_end: '5/23/2026 4:30pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'epk.JPG'
 ---
 
 COCOA CRESCENDO is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ COCOA CRESCENDO is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | THUNDER | 1:00 PM - 2:10 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5a9eu7GbHYppiRX2nMFyfg/FKB0qEvUYq3JcU6NC7n_AZY_DDTnUPfAdjmRWpOWmGGZeKWJZ1aV94txbvYG2iO2pcblC3FH3Tcc7mxSUJbCeitey-KWiSadWIOgFxHHWrlDSQpSRUq6v23D3TcB1wK-TjUGadYoOFVPSYNloOIl-A/PJt3JCjUN5Sc1RlHXgwt9NnmnYejpaKBGC_aXVmSZiQ
+- epk.JPG

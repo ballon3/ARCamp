@@ -3,15 +3,25 @@ name: 'CLEARCAST'
 stage_name: 'CLEARCAST'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/YtfY446d0QuuoilrdP34eA/GVS7A2ZdzUH7UFe4LWi0FTZVJNfycyeA6M11Gb3hSHR7-PPIWx3zQeQ1cqid7DooJN3sOjjZEX41s1nxToVvbA5u9bmKWI8pEZwARDE6E7kQUdM788DzWKj8vrow1zs_TQ7f3AbgtxKm3ZtU-tXobctZrXQcF__1wx3KNphUVGrgv_iQMNpaRRqvnIcnH1qV/dxoKPmx3A7okp8Zsc2x3GEeO0bUsJ4Z4e0fJIt7KPkU'
+  src: '/images/artists/facesheet/clearcast.webp'
   alt: 'Press photo for CLEARCAST'
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '2:10 PM'
     set_end: '3:25 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/YtfY446d0QuuoilrdP34eA/GVS7A2ZdzUH7UFe4LWi0FTZVJNfycyeA6M11Gb3hSHR7-PPIWx3zQeQ1cqid7DooJN3sOjjZEX41s1nxToVvbA5u9bmKWI8pEZwARDE6E7kQUdM788DzWKj8vrow1zs_TQ7f3AbgtxKm3ZtU-tXobctZrXQcF__1wx3KNphUVGrgv_iQMNpaRRqvnIcnH1qV/dxoKPmx3A7okp8Zsc2x3GEeO0bUsJ4Z4e0fJIt7KPkU'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'CLEARCAST-Greenroom-GR Trailer 15'
+    greenroom_start: '5/23/2026 12:30pm'
+    greenroom_end: '5/23/2026 6:00pm'
+stages:
+  - 'THUNDER'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - 'Clearcast Press Photo 1 @guarionex_jr.jpg'
 ---
 
 CLEARCAST is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ CLEARCAST is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | THUNDER | 2:10 PM - 3:25 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/YtfY446d0QuuoilrdP34eA/GVS7A2ZdzUH7UFe4LWi0FTZVJNfycyeA6M11Gb3hSHR7-PPIWx3zQeQ1cqid7DooJN3sOjjZEX41s1nxToVvbA5u9bmKWI8pEZwARDE6E7kQUdM788DzWKj8vrow1zs_TQ7f3AbgtxKm3ZtU-tXobctZrXQcF__1wx3KNphUVGrgv_iQMNpaRRqvnIcnH1qV/dxoKPmx3A7okp8Zsc2x3GEeO0bUsJ4Z4e0fJIt7KPkU
+- Clearcast Press Photo 1 @guarionex_jr.jpg

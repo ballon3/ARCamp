@@ -3,15 +3,25 @@ name: 'BIGGER THAN US'
 stage_name: 'BIGGER THAN US'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/mh4z8SJ_jqbCpVnwE1vplg/0ZAIcOgTmecd01AcR5py2sjmIjtMw__J83awNnmWhxHU6gzvkPW45ouIAbdHm0zjJo16hOApWA2Cvlmi3svopRRILh0SQJ7YOfvmwsO6XaeKmkVZFmXBbPssOwrWVsixjebYrSskTlwfbeEFVdL2ly9iwqC8qaNLfwpRIkXfxWU/YxOcnxsao9Tw_KYCJRIimhzPbw4d2vTlXRNQW3v85UI'
+  src: '/images/artists/facesheet/bigger-than-us.webp'
   alt: 'Press photo for BIGGER THAN US'
 performances:
   - stage: 'LIGHTNING'
     day: 'SUNDAY MAY 24TH'
+    programming_time: 'TBD'
+    soundcheck_time: '5/24/2026 5:30 PM - 6:00 PM'
     set_start: '6:15 PM'
     set_end: '7:30 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/mh4z8SJ_jqbCpVnwE1vplg/0ZAIcOgTmecd01AcR5py2sjmIjtMw__J83awNnmWhxHU6gzvkPW45ouIAbdHm0zjJo16hOApWA2Cvlmi3svopRRILh0SQJ7YOfvmwsO6XaeKmkVZFmXBbPssOwrWVsixjebYrSskTlwfbeEFVdL2ly9iwqC8qaNLfwpRIkXfxWU/YxOcnxsao9Tw_KYCJRIimhzPbw4d2vTlXRNQW3v85UI'
+    confirmed_greenrooms: '2.0'
+    green_room_sched: 'BIGGER THAN US-Greenroom-GR Trailer 15,BIGGER THAN US-Greenroom-GR Trailer 14'
+    greenroom_start: '5/24/2026 4:00pm, 5/24/2026 4:00pm'
+    greenroom_end: '5/24/2026 9:30pm, 5/24/2026 9:30pm'
+stages:
+  - 'LIGHTNING'
+show_days:
+  - 'SUNDAY MAY 24TH'
+press_photo_files:
+  - 'btu_cadet_press.png'
 ---
 
 BIGGER THAN US is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ BIGGER THAN US is featured in the ARCamp artist facesheet.
 
 - SUNDAY MAY 24TH | LIGHTNING | 6:15 PM - 7:30 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/mh4z8SJ_jqbCpVnwE1vplg/0ZAIcOgTmecd01AcR5py2sjmIjtMw__J83awNnmWhxHU6gzvkPW45ouIAbdHm0zjJo16hOApWA2Cvlmi3svopRRILh0SQJ7YOfvmwsO6XaeKmkVZFmXBbPssOwrWVsixjebYrSskTlwfbeEFVdL2ly9iwqC8qaNLfwpRIkXfxWU/YxOcnxsao9Tw_KYCJRIimhzPbw4d2vTlXRNQW3v85UI
+- btu_cadet_press.png

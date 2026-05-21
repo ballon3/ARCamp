@@ -3,15 +3,25 @@ name: 'AMIRA'
 stage_name: 'AMIRA'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ef0MXIqPO3bpe9S6s-HR-w/NhczueQeWQ-vMJ31uHfNj4E8yXci1YGjPzURcq-l9tG3-Llh80DJhfeV7SVtx8e_UK4LZQpp1OpBc2Rn31dMGcwIy9ZvrXMdvWQZ7ht1JrbeFIbpJztTABHRBPFt5InyMT2yFfrQxST0805s17abyHrxVkeCIZoSa-7EJfAXTN7zEs-vapuB5XYXTZxO1lR2/IBAMCp4qPpDwtO6ibIcmw5Kbj8fK3dbKVW4Woy4yJ4E'
+  src: '/images/artists/facesheet/amira.webp'
   alt: 'Press photo for AMIRA'
 performances:
   - stage: 'WOOGIE'
     day: 'FRIDAY MAY 22ND'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '12:00 PM'
     set_end: '2:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ef0MXIqPO3bpe9S6s-HR-w/NhczueQeWQ-vMJ31uHfNj4E8yXci1YGjPzURcq-l9tG3-Llh80DJhfeV7SVtx8e_UK4LZQpp1OpBc2Rn31dMGcwIy9ZvrXMdvWQZ7ht1JrbeFIbpJztTABHRBPFt5InyMT2yFfrQxST0805s17abyHrxVkeCIZoSa-7EJfAXTN7zEs-vapuB5XYXTZxO1lR2/IBAMCp4qPpDwtO6ibIcmw5Kbj8fK3dbKVW4Woy4yJ4E'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'AMIRA-Greenroom-Woogie 3'
+    greenroom_start: '5/22/2026 11:00am'
+    greenroom_end: '5/22/2026 4:00pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'FRIDAY MAY 22ND'
+press_photo_files:
+  - 'b30fd5a2-28ec-4737-93e3-97ed55900884.png'
 ---
 
 AMIRA is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ AMIRA is featured in the ARCamp artist facesheet.
 
 - FRIDAY MAY 22ND | WOOGIE | 12:00 PM - 2:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/ef0MXIqPO3bpe9S6s-HR-w/NhczueQeWQ-vMJ31uHfNj4E8yXci1YGjPzURcq-l9tG3-Llh80DJhfeV7SVtx8e_UK4LZQpp1OpBc2Rn31dMGcwIy9ZvrXMdvWQZ7ht1JrbeFIbpJztTABHRBPFt5InyMT2yFfrQxST0805s17abyHrxVkeCIZoSa-7EJfAXTN7zEs-vapuB5XYXTZxO1lR2/IBAMCp4qPpDwtO6ibIcmw5Kbj8fK3dbKVW4Woy4yJ4E
+- b30fd5a2-28ec-4737-93e3-97ed55900884.png

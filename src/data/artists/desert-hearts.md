@@ -3,15 +3,25 @@ name: 'DESERT HEARTS'
 stage_name: 'DESERT HEARTS'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/EMWdSFMbfgEQLpVg7JMB_Q/mMQ3pMlU9qObi3ezahRJJ6PS6ZaSPTSVj2r85mZeYZkEX8nlvIAuazze4vqRBeVEklyxlh6wB3SBhryGSMFBibezKHR5rxBg5Yc7krWDGUHhmdgYp5uzyLgjoej_51dKDnIAFqStmyefCwtbLd800zrl9YC8y_0_XPvezoKmgAor4RQ8RnrJsryTHqjRNvp85jlC6sEcNHRv-HdIqQ7mgg/UZ5q8nC5KDAGCh71uW3lmoI25XRalQtaXFN3vugEu1U'
+  src: '/images/artists/facesheet/desert-hearts.webp'
   alt: 'Press photo for DESERT HEARTS'
 performances:
   - stage: 'WOOGIE'
     day: 'THURSDAY MAY 21ST'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '5:00 PM'
     set_end: '8:00 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/EMWdSFMbfgEQLpVg7JMB_Q/mMQ3pMlU9qObi3ezahRJJ6PS6ZaSPTSVj2r85mZeYZkEX8nlvIAuazze4vqRBeVEklyxlh6wB3SBhryGSMFBibezKHR5rxBg5Yc7krWDGUHhmdgYp5uzyLgjoej_51dKDnIAFqStmyefCwtbLd800zrl9YC8y_0_XPvezoKmgAor4RQ8RnrJsryTHqjRNvp85jlC6sEcNHRv-HdIqQ7mgg/UZ5q8nC5KDAGCh71uW3lmoI25XRalQtaXFN3vugEu1U'
+    confirmed_greenrooms: '1.0'
+    green_room_sched: 'DESERT HEARTS-Greenroom-Woogie 1'
+    greenroom_start: '5/21/2026 2:00pm'
+    greenroom_end: '5/21/2026 10:00pm'
+stages:
+  - 'WOOGIE'
+show_days:
+  - 'THURSDAY MAY 21ST'
+press_photo_files:
+  - 'DH2025_0417_183025_01431-Eric-Scire.jpg'
 ---
 
 DESERT HEARTS is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ DESERT HEARTS is featured in the ARCamp artist facesheet.
 
 - THURSDAY MAY 21ST | WOOGIE | 5:00 PM - 8:00 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/EMWdSFMbfgEQLpVg7JMB_Q/mMQ3pMlU9qObi3ezahRJJ6PS6ZaSPTSVj2r85mZeYZkEX8nlvIAuazze4vqRBeVEklyxlh6wB3SBhryGSMFBibezKHR5rxBg5Yc7krWDGUHhmdgYp5uzyLgjoej_51dKDnIAFqStmyefCwtbLd800zrl9YC8y_0_XPvezoKmgAor4RQ8RnrJsryTHqjRNvp85jlC6sEcNHRv-HdIqQ7mgg/UZ5q8nC5KDAGCh71uW3lmoI25XRalQtaXFN3vugEu1U
+- DH2025_0417_183025_01431-Eric-Scire.jpg

@@ -3,15 +3,25 @@ name: 'THE VOYAGER by BRITTANY QUIDANG'
 stage_name: 'THE VOYAGER by BRITTANY QUIDANG'
 genre: 'Festival Artist'
 image:
-  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/nN4czeQ035upevr1BhkQOg/31ZiAYDVk9_sQkeEHHYHIaPV_ueaH_RpqOtchq3F4_RlHQnBZ1TuXrvte1dklSa1xdIIcSbuVFVf8oGZeTVIN79a4WG5yges3_b0fROteiBJvGhPojhT7PTPH4txtRQqQMJf6HeGqmapalQUOxKFn9rr6PgmNcdDVBnjZiY3HuiQA2IvGdXcaxRFRArRkIt8P-Kfz98Iyg2FMT2sZBUmYA/S7uwi-X7Jp4CjNO75xmDchHzFcrk9WhqXmJNvqt-EHE'
+  src: '/images/artists/facesheet/the-voyager-by-brittany-quidang.webp'
   alt: 'Press photo for THE VOYAGER by BRITTANY QUIDANG'
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SATURDAY MAY 23RD'
+    programming_time: 'TBD'
+    soundcheck_time: 'TBD'
     set_start: '9:45 PM'
     set_end: '10:15 PM'
-press_photo_urls:
-  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/nN4czeQ035upevr1BhkQOg/31ZiAYDVk9_sQkeEHHYHIaPV_ueaH_RpqOtchq3F4_RlHQnBZ1TuXrvte1dklSa1xdIIcSbuVFVf8oGZeTVIN79a4WG5yges3_b0fROteiBJvGhPojhT7PTPH4txtRQqQMJf6HeGqmapalQUOxKFn9rr6PgmNcdDVBnjZiY3HuiQA2IvGdXcaxRFRArRkIt8P-Kfz98Iyg2FMT2sZBUmYA/S7uwi-X7Jp4CjNO75xmDchHzFcrk9WhqXmJNvqt-EHE'
+    confirmed_greenrooms: 'TBD'
+    green_room_sched: 'TBD'
+    greenroom_start: 'TBD'
+    greenroom_end: 'TBD'
+stages:
+  - 'GRAND ARTIQUE'
+show_days:
+  - 'SATURDAY MAY 23RD'
+press_photo_files:
+  - '493731008_29569755099304609_2768803882719080679_n.jpg'
 ---
 
 THE VOYAGER by BRITTANY QUIDANG is featured in the ARCamp artist facesheet.
@@ -20,6 +30,6 @@ THE VOYAGER by BRITTANY QUIDANG is featured in the ARCamp artist facesheet.
 
 - SATURDAY MAY 23RD | GRAND ARTIQUE | 9:45 PM - 10:15 PM
 
-## Press Photo URLs
+## Press Assets
 
-- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/nN4czeQ035upevr1BhkQOg/31ZiAYDVk9_sQkeEHHYHIaPV_ueaH_RpqOtchq3F4_RlHQnBZ1TuXrvte1dklSa1xdIIcSbuVFVf8oGZeTVIN79a4WG5yges3_b0fROteiBJvGhPojhT7PTPH4txtRQqQMJf6HeGqmapalQUOxKFn9rr6PgmNcdDVBnjZiY3HuiQA2IvGdXcaxRFRArRkIt8P-Kfz98Iyg2FMT2sZBUmYA/S7uwi-X7Jp4CjNO75xmDchHzFcrk9WhqXmJNvqt-EHE
+- 493731008_29569755099304609_2768803882719080679_n.jpg
