@@ -8,11 +8,11 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '2:20 PM'
     set_end: '3:35 PM'
-    confirmed_greenrooms: 'TBD'
+    confirmed_greenrooms: 'NA'
     green_room_sched: 'JESSE BREDE-Greenroom-GR Trailer 11'
     greenroom_start: '5/24/2026 12:00pm'
     greenroom_end: '5/24/2026 5:30pm'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-JESSE BREDE is featured in the ARCamp artist facesheet.
+JESSE BREDE is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,11 +32,11 @@ JESSE BREDE is featured in the ARCamp artist facesheet.
 
 **Set Time:** 2:20 PM - 3:35 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
 **Greenroom Start:** 5/24/2026 12:00pm
 

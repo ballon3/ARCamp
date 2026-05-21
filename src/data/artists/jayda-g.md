@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'WOOGIE'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '8:00 PM'
     set_end: '10:00 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-JAYDA G is featured in the ARCamp artist facesheet.
+JAYDA G is performing on WOOGIE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ JAYDA G is featured in the ARCamp artist facesheet.
 
 **Set Time:** 8:00 PM - 10:00 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

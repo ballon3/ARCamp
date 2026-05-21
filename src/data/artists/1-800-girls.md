@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '6:05 PM, 10:30 PM'
     set_end: '7:20 PM, 12:15 AM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-1-800 GIRLS is featured in the ARCamp artist facesheet.
+1-800 GIRLS is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ show_days:
 
 **Set Time:** 6:05 PM, 10:30 PM - 7:20 PM, 12:15 AM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

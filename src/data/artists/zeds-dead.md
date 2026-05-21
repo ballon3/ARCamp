@@ -8,7 +8,7 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'FRIDAY MAY 22ND'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '11:30 AM - 12:15 PM'
     set_start: '11:20 PM'
     set_end: '12:35 AM'
@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-ZEDS DEAD is featured in the ARCamp artist facesheet.
+ZEDS DEAD is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,7 +32,7 @@ ZEDS DEAD is featured in the ARCamp artist facesheet.
 
 **Set Time:** 11:20 PM - 12:35 AM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 11:30 AM - 12:15 PM
 

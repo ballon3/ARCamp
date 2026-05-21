@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'FRIDAY MAY 22ND'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '2:20 PM'
     set_end: '3:35 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-MINDEX is featured in the ARCamp artist facesheet.
+MINDEX is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ MINDEX is featured in the ARCamp artist facesheet.
 
 **Set Time:** 2:20 PM - 3:35 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

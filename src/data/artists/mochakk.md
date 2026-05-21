@@ -8,11 +8,11 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/24/2026 2:00 PM - 4:00 PM'
     set_start: '10:15 PM'
     set_end: '11:45 PM'
-    confirmed_greenrooms: 'TBD'
+    confirmed_greenrooms: 'NA'
     green_room_sched: 'MOCHAKK-Greenroom-GR Trailer 7'
     greenroom_start: '5/24/2026 12:00pm'
     greenroom_end: '5/25/2026 2:00am'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-MOCHAKK is featured in the ARCamp artist facesheet.
+MOCHAKK is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,11 +32,11 @@ MOCHAKK is featured in the ARCamp artist facesheet.
 
 **Set Time:** 10:15 PM - 11:45 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/24/2026 2:00 PM - 4:00 PM
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
 **Greenroom Start:** 5/24/2026 12:00pm
 

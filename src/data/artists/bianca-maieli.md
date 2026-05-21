@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '3:25 PM'
     set_end: '4:40 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-BIANCA MAIELI is featured in the ARCamp artist facesheet.
+BIANCA MAIELI is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ BIANCA MAIELI is featured in the ARCamp artist facesheet.
 
 **Set Time:** 3:25 PM - 4:40 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

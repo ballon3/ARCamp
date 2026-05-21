@@ -8,7 +8,7 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'FRIDAY MAY 22ND'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/22/2026 5:00 PM - 5:45 PM'
     set_start: '6:15 pm'
     set_end: '7:15 pm'
@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-KAMAUU is featured in the ARCamp artist facesheet.
+KAMAUU is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,7 +32,7 @@ KAMAUU is featured in the ARCamp artist facesheet.
 
 **Set Time:** 6:15 pm - 7:15 pm
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/22/2026 5:00 PM - 5:45 PM
 

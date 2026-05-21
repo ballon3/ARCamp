@@ -8,7 +8,7 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'FRIDAY MAY 22ND'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/22/2026 3:00 PM - 5:00 PM'
     set_start: '7:45 PM'
     set_end: '9:00 PM'
@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-MIDNIGHT GENERATION is featured in the ARCamp artist facesheet.
+MIDNIGHT GENERATION is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,7 +32,7 @@ MIDNIGHT GENERATION is featured in the ARCamp artist facesheet.
 
 **Set Time:** 7:45 PM - 9:00 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/22/2026 3:00 PM - 5:00 PM
 

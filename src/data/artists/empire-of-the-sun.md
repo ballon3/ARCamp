@@ -14,7 +14,7 @@ performances:
     set_end: '2:00 am'
     confirmed_greenrooms: '6.0'
     green_room_sched: 'EMPIRE OF THE SUN-Greenroom-GR Trailer 1,EMPIRE OF THE SUN-Greenroom-GR Trailer 2,EMPIRE OF THE SUN-Greenroom-GR Trailer 3,EMPIRE OF THE SUN-Greenroom-GR Trailer 4,EMPIRE OF THE SUN-Greenroom-GR Trailer 5,EMPIRE OF THE SUN-Greenroom-GR Trailer 6'
-    greenroom_start: 'TBD'
+    greenroom_start: 'NA'
     greenroom_end: '5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am'
 stages:
   - 'LIGHTNING'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-EMPIRE OF THE SUN is featured in the ARCamp artist facesheet.
+EMPIRE OF THE SUN is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -38,6 +38,6 @@ EMPIRE OF THE SUN is featured in the ARCamp artist facesheet.
 
 **Confirmed Greenrooms:** 6.0
 
-**Greenroom Start:** TBD
+**Greenroom Start:** NA
 
 **Greenroom End:** 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am, 5/25/2026 3:00am

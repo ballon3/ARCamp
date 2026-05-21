@@ -8,7 +8,7 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/23/2026 12:00 PM - 2:30 PM'
     set_start: '9:30 PM'
     set_end: '10:30 PM'
@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-NIA ARCHIVES is featured in the ARCamp artist facesheet.
+NIA ARCHIVES is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,7 +32,7 @@ NIA ARCHIVES is featured in the ARCamp artist facesheet.
 
 **Set Time:** 9:30 PM - 10:30 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/23/2026 12:00 PM - 2:30 PM
 

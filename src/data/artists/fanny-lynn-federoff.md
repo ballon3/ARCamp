@@ -8,21 +8,21 @@ image:
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '1:00 PM'
     set_end: '2:00 PM'
-    confirmed_greenrooms: 'TBD'
-    green_room_sched: 'TBD'
-    greenroom_start: 'TBD'
-    greenroom_end: 'TBD'
+    confirmed_greenrooms: 'NA'
+    green_room_sched: 'NA'
+    greenroom_start: 'NA'
+    greenroom_end: 'NA'
 stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-Fanny Lynn Federoff is featured in the ARCamp artist facesheet.
+Fanny Lynn Federoff is performing on GRAND ARTIQUE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,12 +32,12 @@ Fanny Lynn Federoff is featured in the ARCamp artist facesheet.
 
 **Set Time:** 1:00 PM - 2:00 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
-**Greenroom Start:** TBD
+**Greenroom Start:** NA
 
-**Greenroom End:** TBD
+**Greenroom End:** NA

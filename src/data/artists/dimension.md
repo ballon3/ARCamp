@@ -9,7 +9,7 @@ performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
     programming_time: '2:00 AM - 4:00 AM'
-    soundcheck_time: 'TBD'
+    soundcheck_time: 'NA'
     set_start: '12:45 AM'
     set_end: '2:00 AM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-DIMENSION is featured in the ARCamp artist facesheet.
+DIMENSION is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -34,7 +34,7 @@ DIMENSION is featured in the ARCamp artist facesheet.
 
 **Programming Time:** 2:00 AM - 4:00 AM
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

@@ -18,14 +18,14 @@ performances:
     greenroom_end: '5/23/2026 11:00pm, 5/23/2026 11:00pm'
   - stage: 'GRAND ARTIQUE'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '2:45 AM'
     set_end: '4:00 AM'
-    confirmed_greenrooms: 'TBD'
-    green_room_sched: 'TBD'
-    greenroom_start: 'TBD'
-    greenroom_end: 'TBD'
+    confirmed_greenrooms: 'NA'
+    green_room_sched: 'NA'
+    greenroom_start: 'NA'
+    greenroom_end: 'NA'
 stages:
   - 'THUNDER'
   - 'GRAND ARTIQUE'
@@ -33,7 +33,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-ELEPHANT HEART is featured in the ARCamp artist facesheet.
+ELEPHANT HEART is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -59,12 +59,12 @@ ELEPHANT HEART is featured in the ARCamp artist facesheet.
 
 **Set Time:** 2:45 AM - 4:00 AM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
-**Greenroom Start:** TBD
+**Greenroom Start:** NA
 
-**Greenroom End:** TBD
+**Greenroom End:** NA

@@ -9,7 +9,7 @@ performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
     programming_time: '4:00 AM - 5:00 AM'
-    soundcheck_time: 'TBD'
+    soundcheck_time: 'NA'
     set_start: '11:15 PM'
     set_end: '12:30 AM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-INZO is featured in the ARCamp artist facesheet.
+INZO is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -34,7 +34,7 @@ INZO is featured in the ARCamp artist facesheet.
 
 **Programming Time:** 4:00 AM - 5:00 AM
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

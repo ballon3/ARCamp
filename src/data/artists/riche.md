@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'WOOGIE'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '12:00 PM, 2:30 AM'
     set_end: '2:00 PM, 4:00 AM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-RICHE is featured in the ARCamp artist facesheet.
+RICHE is performing on WOOGIE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ RICHE is featured in the ARCamp artist facesheet.
 
 **Set Time:** 12:00 PM, 2:30 AM - 2:00 PM, 4:00 AM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

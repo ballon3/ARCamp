@@ -9,7 +9,7 @@ performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
     programming_time: '12:00 PM - 1:45 PM'
-    soundcheck_time: 'TBD'
+    soundcheck_time: 'NA'
     set_start: '11:20 PM'
     set_end: '12:35 AM'
     confirmed_greenrooms: '2.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-OF THE TREES is featured in the ARCamp artist facesheet.
+OF THE TREES is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -34,7 +34,7 @@ OF THE TREES is featured in the ARCamp artist facesheet.
 
 **Programming Time:** 12:00 PM - 1:45 PM
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 2.0
 

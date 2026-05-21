@@ -8,7 +8,7 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/24/2026 5:30 PM - 6:00 PM'
     set_start: '6:15 PM'
     set_end: '7:30 PM'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-BIGGER THAN US is featured in the ARCamp artist facesheet.
+BIGGER THAN US is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,7 +32,7 @@ BIGGER THAN US is featured in the ARCamp artist facesheet.
 
 **Set Time:** 6:15 PM - 7:30 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/24/2026 5:30 PM - 6:00 PM
 

@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'WOOGIE'
     day: 'FRIDAY MAY 22ND'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '10:00 PM'
     set_end: '12:00 AM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-EFFY is featured in the ARCamp artist facesheet.
+EFFY is performing on WOOGIE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ EFFY is featured in the ARCamp artist facesheet.
 
 **Set Time:** 10:00 PM - 12:00 AM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

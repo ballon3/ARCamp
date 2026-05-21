@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'FRIDAY MAY 22ND'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '4:50 PM'
     set_end: '6:05 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-CASEY CLUB is featured in the ARCamp artist facesheet.
+CASEY CLUB is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ CASEY CLUB is featured in the ARCamp artist facesheet.
 
 **Set Time:** 4:50 PM - 6:05 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

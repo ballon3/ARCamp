@@ -8,21 +8,21 @@ image:
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '7:00 PM'
     set_end: '8:15 PM'
-    confirmed_greenrooms: 'TBD'
-    green_room_sched: 'TBD'
-    greenroom_start: 'TBD'
-    greenroom_end: 'TBD'
+    confirmed_greenrooms: 'NA'
+    green_room_sched: 'NA'
+    greenroom_start: 'NA'
+    greenroom_end: 'NA'
 stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-Magulo is featured in the ARCamp artist facesheet.
+Magulo is performing on GRAND ARTIQUE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,12 +32,12 @@ Magulo is featured in the ARCamp artist facesheet.
 
 **Set Time:** 7:00 PM - 8:15 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
-**Greenroom Start:** TBD
+**Greenroom Start:** NA
 
-**Greenroom End:** TBD
+**Greenroom End:** NA

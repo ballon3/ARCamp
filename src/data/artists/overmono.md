@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-OVERMONO is featured in the ARCamp artist facesheet.
+OVERMONO is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 

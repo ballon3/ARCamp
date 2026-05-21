@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '1:00 PM'
     set_end: '2:10 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-COCOA CRESCENDO is featured in the ARCamp artist facesheet.
+COCOA CRESCENDO is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ COCOA CRESCENDO is featured in the ARCamp artist facesheet.
 
 **Set Time:** 1:00 PM - 2:10 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

@@ -22,7 +22,7 @@ show_days:
   - 'FRIDAY MAY 22ND'
 ---
 
-NOGA EREZ is featured in the ARCamp artist facesheet.
+NOGA EREZ is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 

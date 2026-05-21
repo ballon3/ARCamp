@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'WOOGIE'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '3:50 PM'
     set_end: '5:50 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-JAMIIE is featured in the ARCamp artist facesheet.
+JAMIIE is performing on WOOGIE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ JAMIIE is featured in the ARCamp artist facesheet.
 
 **Set Time:** 3:50 PM - 5:50 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

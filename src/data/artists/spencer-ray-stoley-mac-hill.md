@@ -8,21 +8,21 @@ image:
 performances:
   - stage: 'GRAND ARTIQUE'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
-    set_start: 'TBD'
-    set_end: 'TBD'
-    confirmed_greenrooms: 'TBD'
-    green_room_sched: 'TBD'
-    greenroom_start: 'TBD'
-    greenroom_end: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
+    set_start: 'NA'
+    set_end: 'NA'
+    confirmed_greenrooms: 'NA'
+    green_room_sched: 'NA'
+    greenroom_start: 'NA'
+    greenroom_end: 'NA'
 stages:
   - 'GRAND ARTIQUE'
 show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-Spencer Ray, Stoley, Mac Hill is featured in the ARCamp artist facesheet.
+Spencer Ray, Stoley, Mac Hill is performing on GRAND ARTIQUE at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -30,14 +30,14 @@ Spencer Ray, Stoley, Mac Hill is featured in the ARCamp artist facesheet.
 
 **Day of Show:** SUNDAY MAY 24TH
 
-**Set Time:** TBD - TBD
+**Set Time:** NA - NA
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
-**Greenroom Start:** TBD
+**Greenroom Start:** NA
 
-**Greenroom End:** TBD
+**Greenroom End:** NA

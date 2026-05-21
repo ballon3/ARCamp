@@ -8,8 +8,8 @@ image:
 performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
-    soundcheck_time: 'TBD'
+    programming_time: 'NA'
+    soundcheck_time: 'NA'
     set_start: '7:20 PM'
     set_end: '8:35 PM'
     confirmed_greenrooms: '1.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-INTROSPEKT is featured in the ARCamp artist facesheet.
+INTROSPEKT is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,9 +32,9 @@ INTROSPEKT is featured in the ARCamp artist facesheet.
 
 **Set Time:** 7:20 PM - 8:35 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 1.0
 

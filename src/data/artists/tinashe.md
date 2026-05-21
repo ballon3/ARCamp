@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-TINASHE is featured in the ARCamp artist facesheet.
+TINASHE is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 

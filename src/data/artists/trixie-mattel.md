@@ -8,11 +8,11 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/23/2026 2:30 PM - 3:30 PM'
     set_start: '8:15 PM'
     set_end: '9:15 PM'
-    confirmed_greenrooms: 'TBD'
+    confirmed_greenrooms: 'NA'
     green_room_sched: 'TRIXIE MATTEL-Greenroom-GR Trailer 13,TRIXIE MATTEL-Greenroom-GR Trailer 15,TRIXIE MATTEL-Greenroom-GR Tent 2'
     greenroom_start: '5/22/2026 1:30pm, 5/22/2026 1:30pm, 5/22/2026 1:30pm'
     greenroom_end: '5/22/2026 11:00pm, 5/22/2026 11:00pm, 5/22/2026 11:00pm'
@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-TRIXIE MATTEL is featured in the ARCamp artist facesheet.
+TRIXIE MATTEL is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,11 +32,11 @@ TRIXIE MATTEL is featured in the ARCamp artist facesheet.
 
 **Set Time:** 8:15 PM - 9:15 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/23/2026 2:30 PM - 3:30 PM
 
-**Confirmed Greenrooms:** TBD
+**Confirmed Greenrooms:** NA
 
 **Greenroom Start:** 5/22/2026 1:30pm, 5/22/2026 1:30pm, 5/22/2026 1:30pm
 

@@ -9,7 +9,7 @@ performances:
   - stage: 'THUNDER'
     day: 'SUNDAY MAY 24TH'
     programming_time: '4:00 AM - 5:00 AM'
-    soundcheck_time: 'TBD'
+    soundcheck_time: 'NA'
     set_start: '9:50 PM'
     set_end: '11:05 PM'
     confirmed_greenrooms: '2.0'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-JIGITZ is featured in the ARCamp artist facesheet.
+JIGITZ is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -34,7 +34,7 @@ JIGITZ is featured in the ARCamp artist facesheet.
 
 **Programming Time:** 4:00 AM - 5:00 AM
 
-**Soundcheck Time:** TBD
+**Soundcheck Time:** NA
 
 **Confirmed Greenrooms:** 2.0
 

@@ -9,7 +9,7 @@ performances:
   - stage: 'LIGHTNING'
     day: 'SATURDAY MAY 23RD'
     programming_time: '5/23/2026 4:15 AM - 6:30 AM'
-    soundcheck_time: 'TBD'
+    soundcheck_time: 'NA'
     set_start: '10:45 pm'
     set_end: '12:15 am'
     confirmed_greenrooms: '2.0'

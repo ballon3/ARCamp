@@ -8,7 +8,7 @@ image:
 performances:
   - stage: 'LIGHTNING'
     day: 'SUNDAY MAY 24TH'
-    programming_time: 'TBD'
+    programming_time: 'NA'
     soundcheck_time: '5/24/2026 5:00 PM - 5:30 PM'
     set_start: '7:45 PM'
     set_end: '8:45 PM'
@@ -22,7 +22,7 @@ show_days:
   - 'SUNDAY MAY 24TH'
 ---
 
-HAUTE & FREDDY is featured in the ARCamp artist facesheet.
+HAUTE & FREDDY is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 
@@ -32,7 +32,7 @@ HAUTE & FREDDY is featured in the ARCamp artist facesheet.
 
 **Set Time:** 7:45 PM - 8:45 PM
 
-**Programming Time:** TBD
+**Programming Time:** NA
 
 **Soundcheck Time:** 5/24/2026 5:00 PM - 5:30 PM
 

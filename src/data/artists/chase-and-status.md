@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-CHASE & STATUS is featured in the ARCamp artist facesheet.
+CHASE & STATUS is performing on LIGHTNING at Lightning in a Bottle 2026.
 
 ## Stage Details
 

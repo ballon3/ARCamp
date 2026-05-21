@@ -22,7 +22,7 @@ show_days:
   - 'SATURDAY MAY 23RD'
 ---
 
-DAILY BREAD is featured in the ARCamp artist facesheet.
+DAILY BREAD is performing on THUNDER at Lightning in a Bottle 2026.
 
 ## Stage Details
 
