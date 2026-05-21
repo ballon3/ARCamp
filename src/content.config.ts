@@ -1,4 +1,4 @@
-import { defineCollection, reference, z } from 'astro:content';
+import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const artists = defineCollection({
@@ -24,7 +24,7 @@ const albums = defineCollection({
     }),
     publishDate: z.date(), // e.g. 2024-09-17
     tracks: z.array(z.string()),
-    artist: reference('artists'),
+    artist: z.string(),
   }),
 });
 

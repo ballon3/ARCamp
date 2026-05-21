@@ -10,7 +10,7 @@ export default defineConfig({
   },
   prefetch: true,
 
-  site: 'https://playersclub.crnacura.workers.dev/',
+  site: 'https://artists.lib2k26.com',
 
   integrations: [sitemap()],
   experimental: {

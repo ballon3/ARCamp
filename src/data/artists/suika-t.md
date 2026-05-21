@@ -1,0 +1,33 @@
+---
+name: 'Suika T'
+stage_name: 'Suika T'
+genre: 'Festival Artist'
+image:
+  src: 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/9JdgbSa00FGEEGj8ltLbQQ/TTkFoJNSkX_AYu5A_CAO2eZLpGEJVQ9cGfg1L1O-4377lr_QCr5E_6spquC_V6fPjzHxleBiCdyXb0rcmw4c1SM0U2jwL-AHnv4GHofl58zZFC7kGnuRiY1d6eaqL0CywXh7EDsa6ev3OqBattoJb3UCAQX4ujtVLB55j0Qk3wI/5fKnatZrreKFdxt4w8Yq92VdVt6oHRI23_oKM36tu94'
+  alt: 'Press photo for Suika T'
+performances:
+  - stage: 'GRAND ARTIQUE'
+    day: 'FRIDAY MAY 22ND'
+    set_start: '7:15 PM'
+    set_end: '8:30 PM'
+press_photo_urls:
+  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/9JdgbSa00FGEEGj8ltLbQQ/TTkFoJNSkX_AYu5A_CAO2eZLpGEJVQ9cGfg1L1O-4377lr_QCr5E_6spquC_V6fPjzHxleBiCdyXb0rcmw4c1SM0U2jwL-AHnv4GHofl58zZFC7kGnuRiY1d6eaqL0CywXh7EDsa6ev3OqBattoJb3UCAQX4ujtVLB55j0Qk3wI/5fKnatZrreKFdxt4w8Yq92VdVt6oHRI23_oKM36tu94'
+  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5qr_m4sTmKIqZo9lSmMZZg/u_v4d8S67lfNtTgKZPpTjIQi7jtpYw57zFkIWw_2N4tFvQ72r28gIMI6C2fcK0iYyi9xE1WEqOHkd5vKyvQ55hdb-0IX2piqhnfz6AeOiQbJ_1g81EfdQB2PENXvkzO4Lx8EKjvh70xOldP0aH1eUQvUSW_Jirqrtt2O4NNbgV4/wNhJNob5UdKSBfBz5k4q-qw15LDaUUi8elBNdrcIKEI'
+  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5K4DhArdTKOZtvDAQAagyw/6k3DN4X47E4D7GNpOG6Pn20E2cthrkhvCyGZ50QR_iwOvCE7VXDCV8uMcIxbl0M7oe3C5FYK9rCtGMEol-mod0K-jd7pkhKTlOOoKwu5ERTr9tTxt6P1poz4l6qY5kj5iYRSdrTA5_UnV4_wGHbgcg/lCikAkHOJC_EBJ6vDWditBUQKn0mZ7HZMd0Y93uxsSQ'
+  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/RVuHiK-5Ii1k-kSab7Gucg/d1P2ZdhA_OtjQQIhlMy63LE8qQ_2jRinPO_SFx5ufl8M4GbnyE7AtM4FkyBztzBHlyLtEdPYDooGpk2E2JDmvGEZKR57ud-5bmRch2jUloTIwsPWoEnW939bEMRkn4cNGoWVKEV7qwJEmJJsxfDYNHJFaiKIWQhT9ImVZAUlb62UvP7R-_W8Vq7yg0wET0kc/M7hneUebYeu0Upk_7mqlZcCmBtC4TEoFGSR_QAg-p-8'
+  - 'https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MKJrELcWS5CdenEax8jHjw/14n6qf2FLbYDbzdqvsh25XpYtxWIfkUIjo380OL2RWHnw_dJLudWOUv5aH9OB36R-P6fHIvPBz4fhEwk7dh53ptg9qXa4wP1zbm0biGF0VL33K59i_eNY7QRkSYt25IJ7MadOQYHXDrtZLy94tsqgG3lmnoRFTrt8cQGpl-Sh_Y/UqePKKJKdQzSWepffKlIb1qxHcIGppXHQ0S-SJ5nQfY'
+---
+
+Suika T is featured in the ARCamp artist facesheet.
+
+## Performance Schedule
+
+- FRIDAY MAY 22ND | GRAND ARTIQUE | 7:15 PM - 8:30 PM
+
+## Press Photo URLs
+
+- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/9JdgbSa00FGEEGj8ltLbQQ/TTkFoJNSkX_AYu5A_CAO2eZLpGEJVQ9cGfg1L1O-4377lr_QCr5E_6spquC_V6fPjzHxleBiCdyXb0rcmw4c1SM0U2jwL-AHnv4GHofl58zZFC7kGnuRiY1d6eaqL0CywXh7EDsa6ev3OqBattoJb3UCAQX4ujtVLB55j0Qk3wI/5fKnatZrreKFdxt4w8Yq92VdVt6oHRI23_oKM36tu94
+- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5qr_m4sTmKIqZo9lSmMZZg/u_v4d8S67lfNtTgKZPpTjIQi7jtpYw57zFkIWw_2N4tFvQ72r28gIMI6C2fcK0iYyi9xE1WEqOHkd5vKyvQ55hdb-0IX2piqhnfz6AeOiQbJ_1g81EfdQB2PENXvkzO4Lx8EKjvh70xOldP0aH1eUQvUSW_Jirqrtt2O4NNbgV4/wNhJNob5UdKSBfBz5k4q-qw15LDaUUi8elBNdrcIKEI
+- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/5K4DhArdTKOZtvDAQAagyw/6k3DN4X47E4D7GNpOG6Pn20E2cthrkhvCyGZ50QR_iwOvCE7VXDCV8uMcIxbl0M7oe3C5FYK9rCtGMEol-mod0K-jd7pkhKTlOOoKwu5ERTr9tTxt6P1poz4l6qY5kj5iYRSdrTA5_UnV4_wGHbgcg/lCikAkHOJC_EBJ6vDWditBUQKn0mZ7HZMd0Y93uxsSQ
+- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/RVuHiK-5Ii1k-kSab7Gucg/d1P2ZdhA_OtjQQIhlMy63LE8qQ_2jRinPO_SFx5ufl8M4GbnyE7AtM4FkyBztzBHlyLtEdPYDooGpk2E2JDmvGEZKR57ud-5bmRch2jUloTIwsPWoEnW939bEMRkn4cNGoWVKEV7qwJEmJJsxfDYNHJFaiKIWQhT9ImVZAUlb62UvP7R-_W8Vq7yg0wET0kc/M7hneUebYeu0Upk_7mqlZcCmBtC4TEoFGSR_QAg-p-8
+- https://v5.airtableusercontent.com/v3/u/53/53/1779400800000/MKJrELcWS5CdenEax8jHjw/14n6qf2FLbYDbzdqvsh25XpYtxWIfkUIjo380OL2RWHnw_dJLudWOUv5aH9OB36R-P6fHIvPBz4fhEwk7dh53ptg9qXa4wP1zbm0biGF0VL33K59i_eNY7QRkSYt25IJ7MadOQYHXDrtZLy94tsqgG3lmnoRFTrt8cQGpl-Sh_Y/UqePKKJKdQzSWepffKlIb1qxHcIGppXHQ0S-SJ5nQfY

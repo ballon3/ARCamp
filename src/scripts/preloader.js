@@ -1,5 +1,3 @@
-import imagesLoaded from 'imagesloaded';
-
 // Preloader element reference
 let loading;
 
@@ -8,41 +6,12 @@ const initializeElements = () => {
   loading = document.querySelector('.loading');
 };
 
-// Load all images and background images on the page.
-// Resolves when all assets are loaded, or rejects if any fail.
-const loadImages = () => {
-  return new Promise((resolve, reject) => {
-    // Collect all <img> elements.
-    const imgElements = document.querySelectorAll('img');
-
-    // Collect elements with background images.
-    const bgElements = [...document.querySelectorAll('*')].filter((el) => {
-      const style = window.getComputedStyle(el);
-      return style.backgroundImage !== 'none';
-    });
-
-    // Combine both sets of elements.
-    const allElements = [...imgElements, ...bgElements];
-
-    // Use imagesLoaded to track asset loading.
-    const imgLoad = imagesLoaded(allElements, { background: true });
-    imgLoad.on('done', resolve);
-    imgLoad.on('fail', () => {
-      reject(new Error('Failed to load some images or assets'));
-    });
-  });
-};
-
 // Load assets and dispatch a custom event when done.
 const loadAssets = async () => {
-  try {
-    await loadImages();
-    const event = new CustomEvent('assetsLoaded');
-    document.dispatchEvent(event);
-  } catch (error) {
-    console.error('Failed to load assets:', error);
-    throw error;
-  }
+  // Do not block on remote image downloads; allow page animation to start immediately.
+  await new Promise((resolve) => requestAnimationFrame(resolve));
+  const event = new CustomEvent('assetsLoaded');
+  document.dispatchEvent(event);
 };
 
 // Show the preloader, load assets if needed, and then hide the preloader.
@@ -52,13 +21,9 @@ const toggleLoading = async () => {
     return;
   }
   show();
-  try {
-    await loadAssets();
-    sessionStorage.setItem('preloadComplete', 'true');
-    hide();
-  } catch (error) {
-    console.error('Failed to load assets or animate:', error);
-  }
+  await loadAssets();
+  sessionStorage.setItem('preloadComplete', 'true');
+  hide();
 };
 
 // Display the preloader.
@@ -79,22 +44,22 @@ const cleanup = () => {
 // Initialize the preloader logic.
 const init = () => {
   initializeElements();
-  toggleLoading();
+  if (loading) toggleLoading();
 };
 
 // Execute a callback only if the current page is the home page.
-const handlePageEvent = (event, callback) => {
+const handlePageEvent = (callback) => {
   const page = document.documentElement.getAttribute('data-page');
   if (page === 'home') callback();
 };
 
 // Listen for Astro's lifecycle events.
 document.addEventListener('astro:page-load', () => {
-  handlePageEvent('page-load', init);
+  handlePageEvent(init);
 });
 
 document.addEventListener('astro:before-swap', () => {
-  handlePageEvent('before-swap', cleanup);
+  handlePageEvent(cleanup);
 });
 
 // Clear the preload flag before page unload to ensure the loader appears on refresh.

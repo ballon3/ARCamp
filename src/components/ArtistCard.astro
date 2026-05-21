@@ -11,18 +11,34 @@ const { artist } = Astro.props;
 <a
   href={`/${artist.id}`}
   class="artist"
-  style={`--image: url('${artist.data.image.src}');`}
   data-stagename={artist.data.stage_name}
   data-name={artist.data.name}
   data-genre={artist.data.genre}
   data-astro-prefetch
-  aria-label={artist.data.name}></a>
+  aria-label={artist.data.name}
+>
+  <img
+    class="fade-in"
+    src={artist.data.image.src}
+    alt={artist.data.image.alt}
+    loading="lazy"
+    decoding="async"
+    fetchpriority="low"
+  />
+</a>
 
 <style>
   a {
-    background-image: var(--image);
-    background-size: cover;
-    background-position: 50% 0%;
+    display: block;
     aspect-ratio: 0.8;
+    overflow: hidden;
+    background: var(--color-placeholder);
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 0%;
   }
 </style>

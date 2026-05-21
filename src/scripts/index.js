@@ -79,17 +79,17 @@ const init = () => {
 };
 
 // Run a callback only if the current page is the home page.
-const handlePageEvent = (event, callback) => {
+const handlePageEvent = (callback) => {
   const page = document.documentElement.getAttribute('data-page');
   if (page === 'home') callback();
 };
 
 // Astro lifecycle hook: initialize animations on page load.
 document.addEventListener('astro:page-load', () => {
-  handlePageEvent('page-load', init);
+  handlePageEvent(init);
 });
 
 // Astro lifecycle hook: clean up before swapping pages.
 document.addEventListener('astro:before-swap', () => {
-  handlePageEvent('before-swap', cleanup);
+  handlePageEvent(cleanup);
 });

@@ -43,7 +43,7 @@ const nextArtist = artists[nextArtistIndex];
 // Fetch all albums that belong to the current artist
 const albums = await getCollection(
   "albums",
-  ({ data }) => data.artist.id === artist_id,
+  ({ data }) => data.artist === artist_id,
 );
 
 // Render the content of the current artist (e.g., markdown or MDX)
