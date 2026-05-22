@@ -3,7 +3,7 @@ name: 'MAU P'
 stage_name: 'MAU P'
 genre: 'Festival Artist'
 image:
-  src: '/images/artists/facesheet/placeholder.svg'
+  src: '/images/artists/facesheet/mau-p.webp'
   alt: 'Press photo for MAU P'
 performances:
   - stage: 'LIGHTNING'
